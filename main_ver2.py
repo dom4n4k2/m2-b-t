@@ -87,26 +87,26 @@ while true:
     sum2_c2 = sum2_c2 / len2
     sum2_c3 = sum2_c3 / len2
 
-    #print("sum2_c1: " + str(sum2_c1))
-    #print("sum2_c2: " + str(sum2_c2))
-    #print("sum2_c3: " + str(sum2_c3))
-
+    print("sum2_c1: " + str(sum2_c1))
+    print("sum2_c2: " + str(sum2_c2))
+    print("sum2_c3: " + str(sum2_c3))
+    time.sleep(1)
 
 
 
     if (sum1_c1 > 370) & (sum1_c1 < 430) & (sum1_c2 > 370) & (sum1_c2 < 430) & (sum1_c3 > 370) & (sum1_c3<430):
         sms("P1 pt dead "+ str(current_time))
         print("1")
-    #elif (sum2_c1 > 370) & (sum2_c1 < 430) & (sum2_c2 > 370) & (sum2_c2 < 430) & (sum2_c3 > 370) & (sum2_c3 < 430):
-    #    sms("P2 pt dead "+ str(current_time))
-    #    print("2")
-    elif (sum1_c1 > 245) & (sum1_c1 < 400) & (sum1_c2 > 235) & (sum1_c2 < 260) & (sum1_c3 > 215) & (sum1_c3<235) :
+    elif (sum2_c1 > 370) & (sum2_c1 < 430) & (sum2_c2 > 370) & (sum2_c2 < 430) & (sum2_c3 > 370) & (sum2_c3 < 430):
+        sms("P2 pt dead "+ str(current_time))
+        print("2")
+    elif ((sum1_c1 > 245) & (sum1_c1 < 400) & (sum1_c2 > 235) & (sum1_c2 < 260) & (sum1_c3 > 215) & (sum1_c3<235)) or ((sum2_c1 > 245) & (sum2_c1 < 400) & (sum2_c2 > 235) & (sum2_c2 < 260) & (sum2_c3 > 215) & (sum2_c3<235)):
         sms("WP main dead "+ str(current_time))
         print("3")
     #elif (sum2_c1 > 245) & (sum2_c1 < 400) & (sum2_c2 > 235) & (sum2_c2 < 260) & (sum2_c3 > 215) & (sum2_c3<235):
     #    sms("P2 wp main dead "+ str(current_time))
     #    print("4")
-    elif (sum1_c1 > 165) & (sum1_c1 < 210) & (sum1_c2 > 70) & (sum1_c2 < 105) & (sum1_c3 > 40) & (sum1_c3 < 60):
+    elif ((sum1_c1 > 165) & (sum1_c1 < 210) & (sum1_c2 > 70) & (sum1_c2 < 105) & (sum1_c3 > 40) & (sum1_c3 < 60)) or ((sum2_c1 > 165) & (sum2_c1 < 210) & (sum2_c2 > 70) & (sum2_c2 < 105) & (sum2_c3 > 40) & (sum2_c3 < 60)):
         sms("WP main logout "+ str(current_time))
         print("5")
     #elif (sum2_c1 > 165) & (sum2_c1 < 210) & (sum2_c2 > 70) & (sum2_c2 < 105) & (sum2_c3 > 40) & (sum2_c3 < 60):
