@@ -43,3 +43,5 @@ def image_colors(x_up,y_up, x_down, y_down):
     return
 
 image_colors(mp_wp_50_60[0], mp_wp_50_60[1], mp_wp_50_60[2], mp_wp_50_60[3])
+image_colors(hp_wp_50_60[0], hp_wp_50_60[1], hp_wp_50_60[2], hp_wp_50_60[3])
+
