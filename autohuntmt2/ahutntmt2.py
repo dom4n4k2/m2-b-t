@@ -3,9 +3,9 @@ import numpy as np
 import pydirectinput
 import time
 from datetime import datetime
-from data_struct import *
-from pynput import keyboard
+from autohuntmt2.data_struct import *
 
+empty_var = None
 #metin window
 up_x = 1
 up_y = 1
@@ -93,13 +93,14 @@ def if_statement(c1, c2, c3, c1_min, c1_max, c2_min, c2_max, c3_min, c3_max, fun
     if(mode == 'hp'):
         if (c1 > c1_min) & (c1 < c1_max) & (c2 > c2_min) & (c2 < c2_max) & (c3 > c3_min) & (c3 < c3_max):
             #sms("P1 pt dead "+ str(current_time))
-            print("if_statement start")
             function()
             hp_count = args[0]
             hp_count = hp_count + 1
             if (hp_count > 50):
                 #resp_click
+                time.sleep(10)
                 pydirectinput.click(scale_x(data_struct['resp_click_x']), scale_y(data_struct['resp_click_y']))
+                hp_count = 0
                 time.sleep(1)
                 heal_hp()
                 time.sleep(1)
@@ -111,11 +112,10 @@ def if_statement(c1, c2, c3, c1_min, c1_max, c2_min, c2_max, c3_min, c3_max, fun
                 #atak
                 pydirectinput.click(scale_x(data_struct['autolowy_atak_x']), scale_y(data_struct['autolowy_atak_y']))
                 time.sleep(0.25)
-                # atak
                 # exit
                 pydirectinput.click(scale_x(data_struct['autolowy_exit_x']), scale_y(data_struct['autolowy_exit_y']))
                 time.sleep(0.25)
-                start_skills()
+                start_skills("dupa")
 
             return hp_count
         else:
@@ -124,8 +124,16 @@ def if_statement(c1, c2, c3, c1_min, c1_max, c2_min, c2_max, c3_min, c3_max, fun
     if (mode == 'mp'):
         if (c1 > c1_min) & (c1 < c1_max) & (c2 > c2_min) & (c2 < c2_max) & (c3 > c3_min) & (c3 < c3_max):
             # sms("P1 pt dead "+ str(current_time))
-            print("if_statement start")
             function()
+    if (mode =='logout'):
+        if (c1 > c1_min) & (c1 < c1_max) & (c2 > c2_min) & (c2 < c2_max) & (c3 > c3_min) & (c3 < c3_max):
+            function()
+    if (mode =='is_logged'):
+        if (c1 > c1_min) & (c1 < c1_max) & (c2 > c2_min) & (c2 < c2_max) & (c3 > c3_min) & (c3 < c3_max):
+            print(c1, c2, c3)
+            return False
+        else:
+            return True
 
 
 def heal_hp():
@@ -133,13 +141,27 @@ def heal_hp():
     pydirectinput.click(screen_1_click[0], screen_1_click[1])
     time.sleep(0.25)
     pydirectinput.press('1')
-
+'''
 def press_z():
     print("z pressed")
     pydirectinput.click(screen_1_click[0], screen_1_click[1])
     time.sleep(0.25)
     pydirectinput.press('z')
+'''
 
+def logged_out():
+    check = True
+    while check:
+        time.sleep(30)
+        pydirectinput.click(scale_x(data_struct['log_ok_x']), scale_y(data_struct['log_ok_y']))
+        time.sleep(30)
+        pydirectinput.click(scale_x(data_struct['log_start_x']), scale_y(data_struct['log_start_y']))
+        time.sleep(30)
+        check = logout_check('is_logged')
+        print(check)
+        time.sleep(20)
+    print("logged out start skills")
+    start_skills()
 
 def heal_mp():
     print("heal mp")
@@ -148,7 +170,7 @@ def heal_mp():
     pydirectinput.press('2')
 
 
-def start_skills():
+def start_skills(*args):
     pydirectinput.click(screen_1_click[0], screen_1_click[1])
     time.sleep(0.25)
     pydirectinput.press('f2')
@@ -158,23 +180,24 @@ def start_skills():
     #pydirectinput.press('4')
     #time.sleep(2)wa
     #menuuu
-    pydirectinput.click(scale_x(data_struct['autolowy_menu_x']), scale_y(data_struct['autolowy_menu_y']))
-    time.sleep(1)
-    #autolowy
-    pydirectinput.click(scale_x(data_struct['autolowy_autolowy_x']), scale_y(data_struct['autolowy_autolowy_y']))
-    time.sleep(1)
-    #start
-    pydirectinput.click(scale_x(data_struct['autolowy_start_x']), scale_y(data_struct['autolowy_start_y']))
-    time.sleep(0.25)
-    #focus
-    pydirectinput.click(scale_x(data_struct['autolowy_focus_x']), scale_y(data_struct['autolowy_focus_y']))
-    time.sleep(0.25)
-    #atak
-    pydirectinput.click(scale_x(data_struct['autolowy_atak_x']), scale_y(data_struct['autolowy_atak_y']))
-    time.sleep(0.25)
-    #exit
-    pydirectinput.click(scale_x(data_struct['autolowy_exit_x']), scale_y(data_struct['autolowy_exit_y']))
-    time.sleep(0.25)
+    if len(args)== 0:
+        pydirectinput.click(scale_x(data_struct['autolowy_menu_x']), scale_y(data_struct['autolowy_menu_y']))
+        time.sleep(1)
+        #autolowy
+        pydirectinput.click(scale_x(data_struct['autolowy_autolowy_x']), scale_y(data_struct['autolowy_autolowy_y']))
+        time.sleep(1)
+        #start
+        pydirectinput.click(scale_x(data_struct['autolowy_start_x']), scale_y(data_struct['autolowy_start_y']))
+        time.sleep(0.25)
+        #focus
+        pydirectinput.click(scale_x(data_struct['autolowy_focus_x']), scale_y(data_struct['autolowy_focus_y']))
+        time.sleep(0.25)
+        #atak
+        pydirectinput.click(scale_x(data_struct['autolowy_atak_x']), scale_y(data_struct['autolowy_atak_y']))
+        time.sleep(0.25)
+        #exit
+        pydirectinput.click(scale_x(data_struct['autolowy_exit_x']), scale_y(data_struct['autolowy_exit_y']))
+        time.sleep(0.25)
 
 
 
@@ -227,51 +250,56 @@ def get_sec(time_str):
 
 
 def healing_hp(hp_count):
-    hp_wp_50_60_c1, hp_wp_50_60_c2, hp_wp_50_60_c3 = image_colors(hp_wp_50_60[0], hp_wp_50_60[1], hp_wp_50_60[2],
+    w1, w2, w3 = image_colors(hp_wp_50_60[0], hp_wp_50_60[1], hp_wp_50_60[2],
                                                                   hp_wp_50_60[3])
     print("HP STATUS")
-    print(hp_wp_50_60_c1)
-    print(hp_wp_50_60_c2)
-    print(hp_wp_50_60_c3)
-    hp_count = if_statement(hp_wp_50_60_c1, hp_wp_50_60_c2, hp_wp_50_60_c3, data_struct['hp_c1_min'],
-                            data_struct['hp_c1_max'], data_struct['hp_c2_min'], data_struct['hp_c2_max'],
-                            data_struct['hp_c3_min'], data_struct['hp_c3_max'], heal_hp,'hp',hp_count)
+    print(w1)
+    print(w2)
+    print(w3)
+    hp_count = if_statement(w1, w2, w3, data_struct['hp_c1_min'], data_struct['hp_c1_max'], data_struct['hp_c2_min'],
+                            data_struct['hp_c2_max'], data_struct['hp_c3_min'], data_struct['hp_c3_max'], heal_hp,
+                            'hp', hp_count)
 
     print("hp_count: " + str(hp_count))
     return hp_count
 
 
 def healing_mp():
-    mp_wp_50_60_c1, mp_wp_50_60_c2, mp_wp_50_60_c3 = image_colors(mp_wp_50_60[0], mp_wp_50_60[1], mp_wp_50_60[2],
-                                                                  mp_wp_50_60[3])
+    w1, w2, w3 = image_colors(mp_wp_50_60[0], mp_wp_50_60[1], mp_wp_50_60[2], mp_wp_50_60[3])
     print("MANA STATUS")
-    print(mp_wp_50_60_c1)
-    print(mp_wp_50_60_c2)
-    print(mp_wp_50_60_c3)
-    if_statement(mp_wp_50_60_c1, mp_wp_50_60_c2, mp_wp_50_60_c3, data_struct['mp_c1_min'], data_struct['mp_c1_max'],
-                 data_struct['mp_c2_min'], data_struct['mp_c2_max'], data_struct['mp_c3_min'], data_struct['mp_c3_max'],
-                 heal_mp, 'mp')
+    print(w1)
+    print(w2)
+    print(w3)
+    if_statement(w1, w2, w3, data_struct['mp_c1_min'], data_struct['mp_c1_max'], data_struct['mp_c2_min'],
+                 data_struct['mp_c2_max'], data_struct['mp_c3_min'], data_struct['mp_c3_max'], heal_mp, 'mp')
+
+def logout_check(mode):
+
+    w1, w2, w3 = image_colors(scale_x(data_struct['logout_v1']), scale_y(data_struct['logout_v2']),
+                              scale_x(data_struct['logout_v3']),scale_y(data_struct['logout_v4']))
+    if (mode == 'logout'):
+        if_statement(w1, w2, w3, data_struct['logout_c1_min'], data_struct['logout_c1_max'], data_struct['logout_c2_min'],
+                     data_struct['logout_c2_max'], data_struct['logout_c3_min'], data_struct['logout_c3_max'],  logged_out, 'logout')
+    if (mode == 'is_logged'):
+       return if_statement(w1, w2, w3, data_struct['login_c1_min'], data_struct['login_c1_max'], data_struct['login_c2_min'],
+                     data_struct['login_c2_max'], data_struct['login_c3_min'], data_struct['login_c3_max'],  empty_var, 'is_logged')
+
+
 
 
 ###############################################DEBUG#####################################################################
-'''
+
 #image_colors(hp_wp_50_60[0], hp_wp_50_60[1], hp_wp_50_60[2], hp_wp_50_60[3])
 #image_colors(mp_wp_50_60[0], mp_wp_50_60[1], mp_wp_50_60[2], mp_wp_50_60[3])
+''''
+w1, w2, w3 = image_colors(scale_x(data_struct['logout_v1']), scale_y(data_struct['logout_v2']), scale_x(data_struct['logout_v3']),
+                                                              scale_y(data_struct['logout_v4']))
+print(w1)
+print(w2)
+print(w3)
 
-hp_wp_50_60_c1, hp_wp_50_60_c2, hp_wp_50_60_c3 = image_colors(hp_wp_50_60[0], hp_wp_50_60[1], hp_wp_50_60[2],
-                                                              hp_wp_50_60[3])
-print(hp_wp_50_60_c1)
-print(hp_wp_50_60_c2)
-print(hp_wp_50_60_c3)
-
-mp_wp_50_60_c1, mp_wp_50_60_c2, mp_wp_50_60_c3 = image_colors(mp_wp_50_60[0], mp_wp_50_60[1], mp_wp_50_60[2],
-                                                                  mp_wp_50_60[3])
-print(mp_wp_50_60_c1)
-print(mp_wp_50_60_c2)
-print(mp_wp_50_60_c3)
-'''
 ###############################################DEBUG#####################################################################
-
+'''
 #init setup
 hp_count = healing_hp(hp_count)
 start_skills()
@@ -286,16 +314,18 @@ f2_buff_time = actual_time()
 
 while True:
     current_time = actual_time()
+    logout_check('logout')
 
     ####hp and mp heal
 
     hp_count = healing_hp(hp_count)
     healing_mp()
+    logout_check('logout')
 
 
     #####mainw window skills
     f2_time = skill_check(current_time, f2_time, f2_cooldown, 'f2')
-    listener.start()
+
 
     #press_z()
     #three_time = skill_check(current_time, three_time, three_cooldown, '3')
