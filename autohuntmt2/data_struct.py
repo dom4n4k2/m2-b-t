@@ -45,12 +45,12 @@ data_struct = {'screen_1_click_x': 0.5,  #950
                'logout_c2_max': 1400,
                'logout_c3_min': 1300,
                'logout_c3_max': 1400,
-               'login_c1_min': 150,
-               'login_c1_max': 250,
-               'login_c2_min': 150,
-               'login_c2_max': 250,
+               'login_c1_min': 50,
+               'login_c1_max': 200,
+               'login_c2_min': 50,
+               'login_c2_max': 200,
                'login_c3_min': 150,
-               'login_c3_max': 250,
+               'login_c3_max': 200,###########changed for fishingbot
                'log_ok_x': 0.564583, # 1084
                'log_ok_y': 0.862963, #932
                'log_start_x': 0.480729,#923

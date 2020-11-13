@@ -4,6 +4,7 @@ import pydirectinput
 import time
 from datetime import datetime
 from autohuntmt2.data_struct import *
+from motion_detection import data_struct_fishing
 
 empty_var = None
 #metin window
@@ -51,9 +52,9 @@ f2_buff_cooldown = 20
 '''
 #swierzyna
 mulitply = 0.8
-f2_cooldown = 55
+f2_cooldown = 58
 three_cooldown = 100*mulitply
-four_cooldown = 105*mulitply
+four_cooldown = 79
 
 
 
@@ -175,6 +176,8 @@ def start_skills(*args):
     time.sleep(0.25)
     pydirectinput.press('f2')
     time.sleep(2)
+    pydirectinput.press('4')
+    time.sleep(2)
     #pydirectinput.press('3')
     #time.sleep(2)
     #pydirectinput.press('4')
@@ -186,7 +189,7 @@ def start_skills(*args):
         #autolowy
         pydirectinput.click(scale_x(data_struct['autolowy_autolowy_x']), scale_y(data_struct['autolowy_autolowy_y']))
         time.sleep(1)
-        #start
+        #
         pydirectinput.click(scale_x(data_struct['autolowy_start_x']), scale_y(data_struct['autolowy_start_y']))
         time.sleep(0.25)
         #focus
@@ -329,7 +332,7 @@ while True:
 
     #press_z()
     #three_time = skill_check(current_time, three_time, three_cooldown, '3')
-    #four_time = skill_check(current_time, four_time, four_cooldown, '4')
+    four_time = skill_check(current_time, four_time, four_cooldown, '4')
 
     #sekond window skill
     ##f1_buff_time = skill_check_buff(current_time, f1_buff_time, f1_buff_cooldown, 'f1')
