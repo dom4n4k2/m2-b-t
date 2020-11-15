@@ -1,0 +1,24 @@
+[ WARN:0] global C:\Users\appveyor\AppData\Local\Temp\1\pip-req-build-wwma2wne\opencv\modules\videoio\src\cap_msmf.cpp (435) `anonymous-namespace'::SourceReaderCB::~SourceReaderCB terminating async callback
+window center
+worm counter : 0
+window center
+worm counter : 1
+hunt
+hunt
+hunt
+window center
+worm counter : 2
+hunt
+hunt
+hunt
+window center
+worm counter : 3
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 4
+hunt
+hunt
+hunt

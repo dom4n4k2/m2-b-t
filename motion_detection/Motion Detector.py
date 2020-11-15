@@ -100,6 +100,25 @@ def restart_sequence(worm_counter, worm_counter_time):
     time.sleep(0.25)
     print("worm counter : " + str(worm_counter))
 
+    if ((worm_counter % 200 == 0) & (worm_counter > 1)):
+        time.sleep(5)
+        pydirectinput.click(1906, 1026)
+        print('game main menu')
+        time.sleep(1)
+        pydirectinput.click(961, 560)
+        print("relog")
+        time.sleep(10)
+        pydirectinput.click(scale_x(data_struct['log_start_x']), scale_y(data_struct['log_start_y']))
+        print("log_start")
+        time.sleep(30)
+        # openinventory
+        pydirectinput.click(scale_x(data_struct['open_inventory_x']), scale_y(data_struct['open_inventory_y']))
+        print("open_inventory")
+        time.sleep(5)
+
+
+
+
     if((worm_counter % 20 == 0) & (worm_counter > 1)):
         x_start_1 = scale_x(data_struct['x_start_1'])
         y_start_1 = scale_y(data_struct['y_start_1'])
@@ -308,6 +327,9 @@ while True:
                 worm_counter, worm_counter_time_after = restart_sequence(worm_counter, worm_counter_time_after)
                 time.sleep(1.5)
                 image_check_counter = 0
+    if ((worm_counter % 200 == 0) & (worm_counter > 1)):
+        fishing_itself_last_recognise = actual_time()
+        fishing_itself_last_recognise = actual_time()
 
     if((fishing_itself_last_recognise - worm_counter_time_after) < -100000):
         print('TASK KILL')
@@ -341,21 +363,27 @@ while True:
         fishing_itself_last_recognise = actual_time()
 
 
-    '''
-    if(image_log_counter > 100000):
+
+    if(image_log_counter > 50000):
+        print("is logedout check")
         c1, c2, c3 = image_colors(scale_x(data_struct['logout_v1']), scale_y(data_struct['logout_v2']), 416, 6)
         if ((c1 < data_struct['login_c1_min']) or (c1 > data_struct['login_c1_max'])) & \
-                ((c2 <  data_struct['login_c2_min']) or (c2 > data_struct['login_c2_max'])) & \
+                ((c2 < data_struct['login_c2_min']) or (c2 > data_struct['login_c2_max'])) & \
                 ((c3 < data_struct['login_c3_min']) or (c3 > data_struct['login_c3_max'])):
             time.sleep(30)
             pydirectinput.click(scale_x(data_struct['log_ok_x']), scale_y(data_struct['log_ok_y']))
             time.sleep(30)
             pydirectinput.click(scale_x(data_struct['log_start_x']), scale_y(data_struct['log_start_y']))
             time.sleep(30)
+            pydirectinput.click(scale_x(data_struct['open_inventory_x']), scale_y(data_struct['open_inventory_y']))
+            print("open_inventory")
+            time.sleep(5)
+            print("PASS")
         image_log_counter = 0
 
+
     image_log_counter = image_log_counter + 1
-    '''
+
 
 
     # The moment something moves momentarily, reset the persistent
@@ -384,7 +412,7 @@ while True:
     frame_delta = cv2.cvtColor(frame_delta, cv2.COLOR_GRAY2BGR)
 
     # Splice the two video frames together to make one long horizontal one
-    cv2.imshow("frame", np.hstack((frame_delta, frame)))
+    #cv2.imshow("frame", np.hstack((frame_delta, frame)))
 
     # Interrupt trigger by pressing q to quit the open CV program
     ch = cv2.waitKey(1)

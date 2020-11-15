@@ -113,6 +113,8 @@ def if_statement(c1, c2, c3, c1_min, c1_max, c2_min, c2_max, c3_min, c3_max, fun
                 #atak
                 pydirectinput.click(scale_x(data_struct['autolowy_atak_x']), scale_y(data_struct['autolowy_atak_y']))
                 time.sleep(0.25)
+                pydirectinput.click(scale_x(data_struct['autolowy_focus_x']), scale_y(data_struct['autolowy_focus_y']))
+                time.sleep(0.25)
                 # exit
                 pydirectinput.click(scale_x(data_struct['autolowy_exit_x']), scale_y(data_struct['autolowy_exit_y']))
                 time.sleep(0.25)
