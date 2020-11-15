@@ -6,6 +6,7 @@ worm counter : 1
 hunt
 hunt
 hunt
+hunt
 window center
 worm counter : 2
 hunt
@@ -16,9 +17,418 @@ worm counter : 3
 hunt
 hunt
 hunt
-hunt
 window center
 worm counter : 4
+hunt
+hunt
+window center
+worm counter : 5
+hunt
+hunt
+hunt
+window center
+worm counter : 6
+hunt
+hunt
+hunt
+window center
+worm counter : 7
+hunt
+hunt
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 8
+hunt
+hunt
+hunt
+window center
+worm counter : 9
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 10
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 11
+hunt
+hunt
+hunt
+window center
+worm counter : 12
+hunt
+hunt
+hunt
+window center
+worm counter : 13
+hunt
+hunt
+hunt
+window center
+worm counter : 14
+hunt
+hunt
+window center
+worm counter : 15
+hunt
+hunt
+hunt
+window center
+worm counter : 16
+hunt
+hunt
+hunt
+window center
+worm counter : 17
+hunt
+hunt
+hunt
+window center
+worm counter : 18
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 19
+hunt
+hunt
+window center
+worm counter : 20
+OPEN FISH CLICK SECURE
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+SECOND PAGE OF INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+FIRST PAGE OF INVENTORY
+hunt
+hunt
+window center
+worm counter : 21
+hunt
+hunt
+hunt
+window center
+worm counter : 22
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 23
+hunt
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 24
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 25
+window center
+worm counter : 26
+hunt
+window center
+worm counter : 27
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 28
+hunt
+hunt
+hunt
+window center
+worm counter : 29
+hunt
+hunt
+hunt
+window center
+worm counter : 30
+hunt
+hunt
+window center
+worm counter : 31
+hunt
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 32
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 33
+hunt
+hunt
+hunt
+window center
+worm counter : 34
+hunt
+hunt
+hunt
+window center
+worm counter : 35
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 36
+hunt
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 37
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 38
+hunt
+hunt
+hunt
+window center
+worm counter : 39
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 40
+OPEN FISH CLICK SECURE
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+SECOND PAGE OF INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+FIRST PAGE OF INVENTORY
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 41
+hunt
+hunt
+window center
+worm counter : 42
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 43
+hunt
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 44
+hunt
+hunt
+window center
+worm counter : 45
+hunt
+hunt
+hunt
+window center
+worm counter : 46
+hunt
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 47
+hunt
+hunt
+hunt
+window center
+worm counter : 48
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 49
+hunt
+hunt
+hunt
+window center
+worm counter : 50
+hunt
+hunt
+window center
+worm counter : 51
+hunt
+hunt
+hunt
+window center
+worm counter : 52
+hunt
+hunt
+hunt
+window center
+worm counter : 53
+hunt
+hunt
+hunt
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 54
+hunt
+hunt
+hunt
+window center
+worm counter : 55
+hunt
+hunt
+hunt
+window center
+worm counter : 56
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 57
+hunt
 hunt
 hunt
 hunt

@@ -34,4 +34,9 @@ data_struct = {'screen_1_click_x': 0.5,  #950
                'open_inventory_y': 0.950926,  #1027
                'logout_v1': 0.631771,  # 1213
                'logout_v2': 0.938889,  # 1014
+               'game_menu_x': 0.992708,  #1906
+               'game_menu_y': 0.95,  #1026
+               'game_menu_relog_x': 0.500521,  # 1906
+               'game_menu_relog_y': 0.518519,  # 1026
+
                }

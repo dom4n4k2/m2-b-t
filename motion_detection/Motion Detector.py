@@ -102,10 +102,10 @@ def restart_sequence(worm_counter, worm_counter_time):
 
     if ((worm_counter % 200 == 0) & (worm_counter > 1)):
         time.sleep(5)
-        pydirectinput.click(1906, 1026)
+        pydirectinput.click(scale_x(data_struct['game_menu_x']), scale_y(data_struct['game_menu_y']))
         print('game main menu')
         time.sleep(1)
-        pydirectinput.click(961, 560)
+        pydirectinput.click(scale_x(data_struct['game_menu_relog_x']), scale_y(data_struct['game_menu_relog_y']))
         print("relog")
         time.sleep(10)
         pydirectinput.click(scale_x(data_struct['log_start_x']), scale_y(data_struct['log_start_y']))
