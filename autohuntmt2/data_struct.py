@@ -30,9 +30,29 @@ data_struct = {'screen_1_click_x': 0.5,  #950
                'hp_c3_min': 500,
                'hp_c3_max': 650,
                'mp_c1_min': 350,
-               'mp_c1_max': 600,
+               'mp_c1_max': 620,
                'mp_c2_min': 350,
-               'mp_c2_max': 600,
+               'mp_c2_max': 620,
                'mp_c3_min': 350,
-               'mp_c3_max': 600
+               'mp_c3_max': 620,
+               'logout_v1': 0.631771,  #1213
+               'logout_v2': 0.938889,  #1014
+               'logout_v3': 0.848438, #1629
+               'logout_v4': 0.953704, #1030
+               'logout_c1_min': 1300,
+               'logout_c1_max':1400,
+               'logout_c2_min': 1300,
+               'logout_c2_max': 1400,
+               'logout_c3_min': 1300,
+               'logout_c3_max': 1400,
+               'login_c1_min': 50,
+               'login_c1_max': 200,
+               'login_c2_min': 50,
+               'login_c2_max': 200,
+               'login_c3_min': 150,
+               'login_c3_max': 200,###########changed for fishingbot
+               'log_ok_x': 0.564583, # 1084
+               'log_ok_y': 0.862963, #932
+               'log_start_x': 0.480729,#923
+               'log_start_y': 0.875 #945
                }
