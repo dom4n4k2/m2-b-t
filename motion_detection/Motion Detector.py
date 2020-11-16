@@ -382,6 +382,8 @@ while True:
         image_log_counter = 0
 
 
+
+
     image_log_counter = image_log_counter + 1
 
 

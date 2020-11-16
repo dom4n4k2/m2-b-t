@@ -27,7 +27,7 @@ data_struct = {'screen_1_click_x': 0.5,  #950
                'first_page_x': 0.923958,  # 1774
                'first_page_y': 0.625,  # 675
                'gameforge_client_x': 1.200521,  #2305,
-               'gameforge_client_y': 1061,  #1061
+               'gameforge_client_y': 0.982407,  #1061
                'run_game_x': 1.671875,  #3210
                'run_game_y': 0.10463,  #113
                'open_inventory_x': 0.958854,  #1841
