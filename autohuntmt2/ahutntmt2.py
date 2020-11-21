@@ -2,6 +2,7 @@ import pyscreenshot as ImageGrab
 import numpy as np
 import pydirectinput
 import time
+import pyautogui
 from datetime import datetime
 from autohuntmt2.data_struct import *
 from motion_detection import data_struct_fishing
@@ -30,9 +31,9 @@ screen_1_click = (scale_x(data_struct['screen_1_click_x']), scale_y(data_struct[
 screen_2_click = (scale_x(data_struct['screen_1_click_x']) + x_resolution, scale_y(data_struct['screen_1_click_y']))
 hp_count = 0
 hp_wp_50_60 = (scale_x(data_struct['hp_wp_50_60_v1']), scale_y(data_struct['hp_wp_50_60_v2']),
-               scale_x(data_struct['hp_wp_50_60_v3']), scale_y(data_struct['hp_wp_50_60_v4']))
+               data_struct['hp_wp_50_60_width'], data_struct['hp_wp_50_60_height'])
 mp_wp_50_60 = (scale_x(data_struct['mp_wp_50_60_v1']), scale_y(data_struct['mp_wp_50_60_v2']),
-               scale_x(data_struct['mp_wp_50_60_v3']), scale_y(data_struct['mp_wp_50_60_v4']))
+               data_struct['mp_wp_50_60_width'], data_struct['mp_wp_50_60_height'])
 
 
 #intymnis
@@ -59,8 +60,8 @@ four_cooldown = 79
 
 
 
-def image_colors(x_up,y_up, x_down, y_down):
-    im=ImageGrab.grab(bbox=(x_up, y_up, x_down, y_down))
+def image_colors(x_up,y_up, width, height):
+    im = pyautogui.screenshot(region=(x_up, y_up, width, height))
     #im.show()
     colors = im.convert("RGB")
     na = np.array(colors)
@@ -97,7 +98,7 @@ def if_statement(c1, c2, c3, c1_min, c1_max, c2_min, c2_max, c3_min, c3_max, fun
             function()
             hp_count = args[0]
             hp_count = hp_count + 1
-            if (hp_count > 50):
+            if (hp_count > 20):
                 #resp_click
                 time.sleep(10)
                 pydirectinput.click(scale_x(data_struct['resp_click_x']), scale_y(data_struct['resp_click_y']))
@@ -182,7 +183,7 @@ def start_skills(*args):
     time.sleep(2)
     #pydirectinput.press('3')
     #time.sleep(2)
-    #pydirectinput.press('4')
+    #pydirectinput.press('4')ds
     #time.sleep(2)wa
     #menuuu
     if len(args)== 0:
@@ -257,7 +258,7 @@ def get_sec(time_str):
 def healing_hp(hp_count):
     w1, w2, w3 = image_colors(hp_wp_50_60[0], hp_wp_50_60[1], hp_wp_50_60[2],
                                                                   hp_wp_50_60[3])
-    print("HP STATUS")
+    #zprint("HP STATUS")
     print(w1)
     print(w2)
     print(w3)
@@ -281,7 +282,7 @@ def healing_mp():
 def logout_check(mode):
 
     w1, w2, w3 = image_colors(scale_x(data_struct['logout_v1']), scale_y(data_struct['logout_v2']),
-                              scale_x(data_struct['logout_v3']),scale_y(data_struct['logout_v4']))
+                              data_struct['logout_width'],data_struct['logout_height'])
     if (mode == 'logout'):
         if_statement(w1, w2, w3, data_struct['logout_c1_min'], data_struct['logout_c1_max'], data_struct['logout_c2_min'],
                      data_struct['logout_c2_max'], data_struct['logout_c3_min'], data_struct['logout_c3_max'],  logged_out, 'logout')
@@ -296,7 +297,7 @@ def logout_check(mode):
 
 #image_colors(hp_wp_50_60[0], hp_wp_50_60[1], hp_wp_50_60[2], hp_wp_50_60[3])
 #image_colors(mp_wp_50_60[0], mp_wp_50_60[1], mp_wp_50_60[2], mp_wp_50_60[3])
-''''
+'''
 w1, w2, w3 = image_colors(scale_x(data_struct['logout_v1']), scale_y(data_struct['logout_v2']), scale_x(data_struct['logout_v3']),
                                                               scale_y(data_struct['logout_v4']))
 print(w1)
@@ -316,7 +317,7 @@ four_time = actual_time()
 
 f1_buff_time = actual_time()
 f2_buff_time = actual_time()
-
+logout_check_counter = 0
 while True:
     current_time = actual_time()
     logout_check('logout')
@@ -325,8 +326,11 @@ while True:
 
     hp_count = healing_hp(hp_count)
     healing_mp()
-    logout_check('logout')
+    if (logout_check_counter > 10000):
+        logout_check('logout')
+        logout_check_counter = 0
 
+    logout_check_counter = logout_check_counter  + 1
 
     #####mainw window skills
     f2_time = skill_check(current_time, f2_time, f2_cooldown, 'f2')

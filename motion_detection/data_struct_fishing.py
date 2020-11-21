@@ -17,9 +17,9 @@ data_struct = {'screen_1_click_x': 0.5,  #950
                'x_start_detection': 509,
                'y_start_detection': 272,
                'detection_field': 138,
-               'x_start_1': 0.921875,  # 1770
-               'y_start_1': 0.740741,  # 800
-               'y_start_2': 0.651852,  #704
+               'x_start_1': 0.922396,  # 1771
+               'y_start_1': 0.769444,  # 831
+               'y_start_2': 0.650926,  #703
                'open_fish_x': 0.502083,  #964
                'open_fish_y': 0.480556,  #519
                'second_page_x': 0.944271,  #1813

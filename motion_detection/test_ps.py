@@ -29,6 +29,9 @@ def image_colors(x_up,y_up, width, height):
     #im.show()
     colors = im.convert("RGB")
     na = np.array(colors)
+    print(x_up)
+    print(y_up)
+    print(height)
     colours, counts = np.unique(na.reshape(-1, 3), axis=0, return_counts=1)
     length = len(colours)
     i = 0

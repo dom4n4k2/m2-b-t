@@ -3,12 +3,12 @@ data_struct = {'screen_1_click_x': 0.5,  #950
                'screen_1_click_y': 0.013889,  #15
                'hp_wp_50_60_v1': 0.065625,  #126
                'hp_wp_50_60_v2': 0.938889,  #1014
-               'hp_wp_50_60_v3': 0.070833,  #136
-               'hp_wp_50_60_v4': 0.943519,  #1019
+               'hp_wp_50_60_width': 10,
+               'hp_wp_50_60_height': 5,  #1019
                'mp_wp_50_60_v1': 0.055208,  #106
                'mp_wp_50_60_v2': 0.948148,  #1024
-               'mp_wp_50_60_v3': 0.060417,  #116
-               'mp_wp_50_60_v4': 0.952778,  #1029
+               'mp_wp_50_60_width': 10,
+               'mp_wp_50_60_height': 5,
                'resp_click_x': 0.048438,  #93
                'resp_click_y': 0.089815,  #97
                'autolowy_autolowy_x': 0.54375,  #1044
@@ -24,11 +24,11 @@ data_struct = {'screen_1_click_x': 0.5,  #950
                'autolowy_exit_x': 0.559375,  # 1074
                'autolowy_exit_y': 0.284259,  # 307
                'hp_c1_min': 500,
-               'hp_c1_max': 650,
+               'hp_c1_max': 850,
                'hp_c2_min': 500,
-               'hp_c2_max': 650,
+               'hp_c2_max': 850,
                'hp_c3_min': 500,
-               'hp_c3_max': 650,
+               'hp_c3_max': 850,
                'mp_c1_min': 350,
                'mp_c1_max': 620,
                'mp_c2_min': 350,
@@ -37,8 +37,8 @@ data_struct = {'screen_1_click_x': 0.5,  #950
                'mp_c3_max': 620,
                'logout_v1': 0.631771,  #1213
                'logout_v2': 0.938889,  #1014
-               'logout_v3': 0.848438, #1629
-               'logout_v4': 0.953704, #1030
+               'logout_width': 416, #1629
+               'logout_height': 16, #1030
                'logout_c1_min': 1300,
                'logout_c1_max':1400,
                'logout_c2_min': 1300,
