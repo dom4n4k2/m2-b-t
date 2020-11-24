@@ -40,6 +40,7 @@ image_check_counter = 0
 image_log_counter = 0
 file_name = 'final_circle_after_metin_start.png'
 
+
 worm_counter_fails_count = 0
 
 
@@ -101,6 +102,7 @@ def restart_sequence(worm_counter, worm_counter_time):
     print("worm counter : " + str(worm_counter))
 
     if ((worm_counter % 200 == 0) & (worm_counter > 1)):
+
         time.sleep(5)
         pydirectinput.click(scale_x(data_struct['game_menu_x']), scale_y(data_struct['game_menu_y']))
         print('game main menu')
@@ -120,21 +122,26 @@ def restart_sequence(worm_counter, worm_counter_time):
 
 
     if((worm_counter % 20 == 0) & (worm_counter > 1)):
+    #if (worm_counter % 20 == 0):
         x_start_1 = scale_x(data_struct['x_start_1'])
         y_start_1 = scale_y(data_struct['y_start_1'])
 
         x_start_2 = scale_x(data_struct['x_start_1'])
         y_start_2 = scale_y(data_struct['y_start_2'])
 
-        jump_pixels = 31
+        jump_pixels = 32
 
         pydirectinput.click(scale_x(data_struct['open_fish_x']), scale_y(data_struct['open_fish_y']))
         print("OPEN FISH CLICK SECURE")
-        
-        for y in range(6):
+        picture_take_counter = 0
+        for y in range(5):
             for x in range(5):
                 #print("x " + str(x) + " y " + str(y))
                 pydirectinput.doubleClick(x_start_1 + x * jump_pixels + up_x, y_start_1 + y * jump_pixels + up_y)
+                #time.sleep(0.1)
+                #save_picture(x_start_1 + x * jump_pixels + up_x - 13,
+                #             y_start_1 + y * jump_pixels + up_y - 13, 26, picture_take_counter)
+                #picture_take_counter = picture_take_counter + 1
                 print("OPEN FISH IN INVENTORY")
                 time.sleep(0.25)
         #second page
@@ -145,8 +152,13 @@ def restart_sequence(worm_counter, worm_counter_time):
             for x in range(5):
                 #print("x " + str(x) + " y " + str(y))
                 pydirectinput.doubleClick(x_start_2 + x * jump_pixels + up_x, y_start_2 + y * jump_pixels + up_y)
+                #time.sleep(0.1)
+                #save_picture(x_start_2 + x * jump_pixels + up_x - 13,
+                #             y_start_2 + y * jump_pixels + up_y - 13, 26, picture_take_counter)
+                #picture_take_counter = picture_take_counter + 1
                 print("OPEN FISH IN INVENTORY")
                 time.sleep(0.25)
+        picture_take_counter = 0
         #go back to the first page
         pydirectinput.click(scale_x(data_struct['first_page_x']), scale_y(data_struct['first_page_y']))
         print("FIRST PAGE OF INVENTORY")
@@ -197,6 +209,40 @@ def restart_sequence(worm_counter, worm_counter_time):
 
     return worm_counter, worm_counter_time
 
+def save_picture(x_start_detection, y_start_detection, detection_field, picture_take_counter):
+    f = open("test_pictures\\log.txt", "a")
+    image = pyautogui.screenshot(region=(x_start_detection, y_start_detection, detection_field, detection_field))
+    frame_ever = cv2.cvtColor(np.array(image), cv2.COLOR_RGB2BGR)
+    #image.show()
+    colors = image.convert("RGB")
+    na = np.array(colors)
+    colours, counts = np.unique(na.reshape(-1, 3), axis=0, return_counts=1)
+    length = len(colours)
+    i = 0
+    sum_c1 = 0
+    sum_c2 = 0
+    sum_c3 = 0
+    while i < length:
+        sum_c1 = sum_c1 + counts[i] * colours[i][0]
+        sum_c2 = sum_c2 + counts[i] * colours[i][1]
+        sum_c3 = sum_c3 + counts[i] * colours[i][2]
+        i = i + 1
+    sum_c1 = sum_c1 / length
+    sum_c2 = sum_c2 / length
+    sum_c3 = sum_c3 / length
+
+
+    #print(c1, c2, c3)
+    #print("in_memory_to_disk_" + str(picture_take_counter) + " .png")
+    #print(str(picture_take_counter) + "    :" + str(sum_c1) + " " + str(sum_c2) + " " + str(sum_c3) )
+    cv2.imwrite("test_pictures\\in_memory_to_disk_" + str(picture_take_counter)+ " .png", frame_ever)
+    f.write(str(picture_take_counter) + "    :" + str(sum_c1) + " " + str(sum_c2) + " " + str(sum_c3) + '\n')
+    time.sleep(0.5)
+    f.close()
+
+
+
+
 def image_colors(x_up,y_up, width, height):
     im=pyautogui.screenshot(region=(x_up, y_up, width, height))
     #im.show()
@@ -209,7 +255,6 @@ def image_colors(x_up,y_up, width, height):
     sum_c2 = 0
     sum_c3 = 0
     while i < length:
-
         sum_c1 = sum_c1 + counts[i] * colours[i][0]
         sum_c2 = sum_c2 + counts[i] * colours[i][1]
         sum_c3 = sum_c3 + counts[i] * colours[i][2]
@@ -217,7 +262,6 @@ def image_colors(x_up,y_up, width, height):
     sum_c1 = sum_c1 / length
     sum_c2 = sum_c2 / length
     sum_c3 = sum_c3 / length
-
     return sum_c1, sum_c2, sum_c3
 
 
@@ -364,7 +408,7 @@ while True:
 
 
 
-    if(image_log_counter > 50000):
+    if(image_log_counter > 10000):
         print("is logedout check")
         c1, c2, c3 = image_colors(scale_x(data_struct['logout_v1']), scale_y(data_struct['logout_v2']), 416, 6)
         if ((c1 < data_struct['login_c1_min']) or (c1 > data_struct['login_c1_max'])) & \
@@ -380,6 +424,8 @@ while True:
             time.sleep(5)
             print("PASS")
         image_log_counter = 0
+
+
 
 
     image_log_counter = image_log_counter + 1
