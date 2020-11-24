@@ -1,11 +1,11 @@
 [ WARN:0] global C:\Users\appveyor\AppData\Local\Temp\1\pip-req-build-wwma2wne\opencv\modules\videoio\src\cap_msmf.cpp (435) `anonymous-namespace'::SourceReaderCB::~SourceReaderCB terminating async callback
 window center
 worm counter : 0
+hunt
+hunt
+hunt
 window center
 worm counter : 1
-hunt
-hunt
-hunt
 window center
 worm counter : 2
 hunt
@@ -14,32 +14,26 @@ hunt
 window center
 worm counter : 3
 hunt
-hunt
-hunt
-hunt
 window center
 worm counter : 4
-hunt
 hunt
 hunt
 hunt
 window center
 worm counter : 5
 hunt
-hunt
-hunt
 window center
 worm counter : 6
-hunt
 hunt
 hunt
 hunt
 window center
 worm counter : 7
 hunt
+hunt
+hunt
 window center
 worm counter : 8
-hunt
 hunt
 hunt
 hunt
@@ -68,8 +62,12 @@ worm counter : 13
 hunt
 hunt
 hunt
+hunt
 window center
 worm counter : 14
+hunt
+hunt
+hunt
 window center
 worm counter : 15
 hunt
@@ -77,8 +75,6 @@ hunt
 hunt
 window center
 worm counter : 16
-hunt
-hunt
 hunt
 hunt
 window center
@@ -93,6 +89,7 @@ hunt
 hunt
 window center
 worm counter : 19
+hunt
 hunt
 hunt
 window center
@@ -168,7 +165,6 @@ worm counter : 22
 hunt
 hunt
 hunt
-hunt
 window center
 worm counter : 23
 hunt
@@ -176,17 +172,23 @@ hunt
 hunt
 window center
 worm counter : 24
+hunt
+hunt
+hunt
 window center
 worm counter : 25
 hunt
 hunt
 hunt
-hunt
 window center
 worm counter : 26
+hunt
+hunt
+hunt
+hunt
+hunt
 window center
 worm counter : 27
-hunt
 hunt
 hunt
 hunt
@@ -195,10 +197,8 @@ worm counter : 28
 hunt
 hunt
 hunt
-hunt
 window center
 worm counter : 29
-hunt
 hunt
 hunt
 hunt
@@ -206,13 +206,8 @@ window center
 worm counter : 30
 hunt
 hunt
-hunt
-hunt
 window center
 worm counter : 31
-hunt
-hunt
-hunt
 hunt
 hunt
 hunt
@@ -221,10 +216,8 @@ worm counter : 32
 hunt
 hunt
 hunt
-is logedout check
 window center
 worm counter : 33
-hunt
 hunt
 hunt
 window center
@@ -232,22 +225,16 @@ worm counter : 34
 hunt
 hunt
 hunt
-hunt
 window center
 worm counter : 35
-hunt
-hunt
 hunt
 hunt
 window center
 worm counter : 36
 hunt
 hunt
-hunt
-hunt
 window center
 worm counter : 37
-hunt
 hunt
 window center
 worm counter : 38
@@ -319,7 +306,7 @@ OPEN FISH IN INVENTORY
 OPEN FISH IN INVENTORY
 OPEN FISH IN INVENTORY
 FIRST PAGE OF INVENTORY
-hunt
+is logedout check
 hunt
 hunt
 hunt
@@ -329,15 +316,13 @@ hunt
 hunt
 hunt
 hunt
+hunt
 window center
 worm counter : 42
 hunt
 hunt
-hunt
-hunt
 window center
 worm counter : 43
-hunt
 hunt
 hunt
 hunt
@@ -351,10 +336,8 @@ worm counter : 45
 hunt
 hunt
 hunt
-hunt
 window center
 worm counter : 46
-hunt
 hunt
 hunt
 hunt
@@ -368,9 +351,9 @@ worm counter : 48
 hunt
 hunt
 hunt
-hunt
 window center
 worm counter : 49
+hunt
 hunt
 hunt
 window center
@@ -380,6 +363,9 @@ hunt
 hunt
 window center
 worm counter : 51
+hunt
+hunt
+hunt
 window center
 worm counter : 52
 hunt
@@ -390,14 +376,15 @@ worm counter : 53
 hunt
 hunt
 hunt
-hunt
 window center
 worm counter : 54
 hunt
 hunt
 hunt
+hunt
 window center
 worm counter : 55
+hunt
 hunt
 hunt
 hunt
@@ -417,6 +404,9 @@ hunt
 hunt
 window center
 worm counter : 59
+hunt
+hunt
+hunt
 window center
 worm counter : 60
 OPEN FISH CLICK SECURE
@@ -480,11 +470,9 @@ FIRST PAGE OF INVENTORY
 hunt
 hunt
 hunt
-hunt
-hunt
 window center
 worm counter : 61
-is logedout check
+hunt
 hunt
 hunt
 window center
@@ -492,8 +480,10 @@ worm counter : 62
 hunt
 hunt
 hunt
+hunt
 window center
 worm counter : 63
+hunt
 hunt
 hunt
 window center
@@ -501,10 +491,8 @@ worm counter : 64
 hunt
 hunt
 hunt
-hunt
 window center
 worm counter : 65
-hunt
 hunt
 hunt
 hunt
@@ -549,8 +537,6 @@ window center
 worm counter : 73
 hunt
 hunt
-hunt
-hunt
 window center
 worm counter : 74
 hunt
@@ -564,12 +550,17 @@ hunt
 hunt
 window center
 worm counter : 76
+hunt
+hunt
 window center
 worm counter : 77
 hunt
 hunt
+hunt
 window center
 worm counter : 78
+hunt
+hunt
 hunt
 hunt
 window center
@@ -648,13 +639,17 @@ hunt
 hunt
 window center
 worm counter : 82
+hunt
+hunt
+hunt
 window center
 worm counter : 83
 hunt
+hunt
+hunt
+is logedout check
 window center
 worm counter : 84
-hunt
-hunt
 hunt
 hunt
 window center
@@ -689,21 +684,20 @@ hunt
 hunt
 window center
 worm counter : 91
+hunt
+hunt
+hunt
 window center
 worm counter : 92
 hunt
-is logedout check
 hunt
 hunt
 window center
 worm counter : 93
 hunt
 hunt
-hunt
-hunt
 window center
 worm counter : 94
-hunt
 hunt
 hunt
 hunt
@@ -712,9 +706,9 @@ worm counter : 95
 hunt
 hunt
 hunt
+hunt
 window center
 worm counter : 96
-hunt
 hunt
 hunt
 hunt
@@ -723,8 +717,10 @@ worm counter : 97
 hunt
 hunt
 hunt
+hunt
 window center
 worm counter : 98
+hunt
 hunt
 hunt
 hunt
@@ -794,32 +790,21 @@ OPEN FISH IN INVENTORY
 OPEN FISH IN INVENTORY
 FIRST PAGE OF INVENTORY
 hunt
-hunt
-hunt
 window center
 worm counter : 101
-hunt
 hunt
 hunt
 hunt
 window center
 worm counter : 102
 hunt
-hunt
-hunt
 window center
 worm counter : 103
 hunt
 hunt
 hunt
-hunt
 window center
 worm counter : 104
-hunt
-hunt
-hunt
-hunt
-hunt
 hunt
 hunt
 hunt
@@ -834,7 +819,6 @@ worm counter : 106
 hunt
 hunt
 hunt
-hunt
 window center
 worm counter : 107
 hunt
@@ -845,15 +829,12 @@ worm counter : 108
 hunt
 hunt
 hunt
-hunt
 window center
 worm counter : 109
 hunt
 hunt
-hunt
 window center
 worm counter : 110
-hunt
 hunt
 hunt
 window center
@@ -866,7 +847,6 @@ worm counter : 112
 hunt
 hunt
 hunt
-hunt
 window center
 worm counter : 113
 hunt
@@ -874,8 +854,6 @@ hunt
 hunt
 window center
 worm counter : 114
-hunt
-hunt
 hunt
 hunt
 hunt
@@ -893,15 +871,14 @@ window center
 worm counter : 117
 hunt
 hunt
+hunt
 window center
 worm counter : 118
 hunt
+hunt
+hunt
 window center
 worm counter : 119
-hunt
-hunt
-hunt
-is logedout check
 hunt
 window center
 worm counter : 120
@@ -966,6 +943,7 @@ FIRST PAGE OF INVENTORY
 hunt
 hunt
 hunt
+hunt
 window center
 worm counter : 121
 hunt
@@ -990,9 +968,9 @@ window center
 worm counter : 125
 hunt
 hunt
+hunt
 window center
 worm counter : 126
-hunt
 hunt
 hunt
 hunt
@@ -1005,23 +983,18 @@ window center
 worm counter : 128
 hunt
 hunt
-hunt
-hunt
 window center
 worm counter : 129
 hunt
 hunt
-hunt
+is logedout check
 hunt
 window center
 worm counter : 130
 hunt
 hunt
-hunt
 window center
 worm counter : 131
-hunt
-hunt
 hunt
 hunt
 window center
@@ -1033,6 +1006,8 @@ window center
 worm counter : 133
 hunt
 hunt
+hunt
+hunt
 window center
 worm counter : 134
 hunt
@@ -1040,7 +1015,6 @@ hunt
 hunt
 window center
 worm counter : 135
-hunt
 hunt
 hunt
 hunt
@@ -1059,11 +1033,8 @@ worm counter : 138
 hunt
 hunt
 hunt
-hunt
-hunt
 window center
 worm counter : 139
-hunt
 hunt
 hunt
 hunt
@@ -1129,13 +1100,15 @@ OPEN FISH IN INVENTORY
 FIRST PAGE OF INVENTORY
 hunt
 hunt
-hunt
 window center
 worm counter : 141
 hunt
 hunt
+hunt
 window center
 worm counter : 142
+hunt
+hunt
 hunt
 hunt
 hunt
@@ -1144,20 +1117,15 @@ worm counter : 143
 hunt
 hunt
 hunt
-hunt
 window center
 worm counter : 144
-hunt
-hunt
 hunt
 window center
 worm counter : 145
 hunt
 hunt
-hunt
 window center
 worm counter : 146
-hunt
 hunt
 hunt
 window center
@@ -1165,11 +1133,9 @@ worm counter : 147
 hunt
 hunt
 hunt
-hunt
 window center
 worm counter : 148
 hunt
-is logedout check
 hunt
 hunt
 window center
@@ -1179,7 +1145,6 @@ hunt
 hunt
 window center
 worm counter : 150
-hunt
 hunt
 hunt
 hunt
@@ -1198,6 +1163,7 @@ worm counter : 153
 hunt
 hunt
 hunt
+hunt
 window center
 worm counter : 154
 hunt
@@ -1208,11 +1174,9 @@ worm counter : 155
 hunt
 hunt
 hunt
-hunt
-hunt
-hunt
 window center
 worm counter : 156
+hunt
 hunt
 hunt
 window center
@@ -1220,10 +1184,8 @@ worm counter : 157
 hunt
 hunt
 hunt
-hunt
 window center
 worm counter : 158
-hunt
 hunt
 hunt
 hunt
@@ -1295,20 +1257,16 @@ FIRST PAGE OF INVENTORY
 hunt
 hunt
 hunt
-hunt
 window center
 worm counter : 161
-hunt
 hunt
 hunt
 window center
 worm counter : 162
 hunt
 hunt
-hunt
 window center
 worm counter : 163
-hunt
 hunt
 hunt
 window center
@@ -1316,10 +1274,8 @@ worm counter : 164
 hunt
 hunt
 hunt
-hunt
 window center
 worm counter : 165
-hunt
 hunt
 hunt
 hunt
@@ -1332,16 +1288,12 @@ window center
 worm counter : 167
 hunt
 hunt
-hunt
-hunt
 window center
 worm counter : 168
 hunt
 hunt
-hunt
 window center
 worm counter : 169
-hunt
 hunt
 hunt
 hunt
@@ -1350,10 +1302,8 @@ worm counter : 170
 hunt
 hunt
 hunt
-hunt
 window center
 worm counter : 171
-hunt
 hunt
 hunt
 hunt
@@ -1369,15 +1319,13 @@ worm counter : 173
 hunt
 hunt
 hunt
+hunt
 window center
 worm counter : 174
 hunt
 hunt
-hunt
 window center
 worm counter : 175
-hunt
-hunt
 hunt
 window center
 worm counter : 176
@@ -1389,15 +1337,14 @@ worm counter : 177
 hunt
 hunt
 hunt
-hunt
 window center
 worm counter : 178
 hunt
 hunt
 hunt
+is logedout check
 window center
 worm counter : 179
-is logedout check
 hunt
 hunt
 hunt
@@ -1464,13 +1411,14 @@ FIRST PAGE OF INVENTORY
 hunt
 hunt
 hunt
-hunt
 window center
 worm counter : 181
 hunt
 hunt
+hunt
 window center
 worm counter : 182
+hunt
 hunt
 hunt
 window center
@@ -1480,7 +1428,6 @@ hunt
 hunt
 window center
 worm counter : 184
-hunt
 hunt
 hunt
 hunt
@@ -1496,8 +1443,6 @@ hunt
 hunt
 window center
 worm counter : 187
-hunt
-hunt
 hunt
 hunt
 window center
@@ -1520,9 +1465,11 @@ worm counter : 191
 hunt
 hunt
 hunt
-hunt
 window center
 worm counter : 192
+hunt
+hunt
+hunt
 window center
 worm counter : 193
 hunt
@@ -1533,20 +1480,16 @@ worm counter : 194
 hunt
 hunt
 hunt
-hunt
 window center
 worm counter : 195
-hunt
-hunt
-hunt
-hunt
-hunt
 window center
 worm counter : 197
+hunt
+hunt
+hunt
+hunt
 window center
 worm counter : 198
-hunt
-hunt
 hunt
 hunt
 hunt
@@ -1620,64 +1563,103 @@ OPEN FISH IN INVENTORY
 OPEN FISH IN INVENTORY
 OPEN FISH IN INVENTORY
 FIRST PAGE OF INVENTORY
+hunt
+hunt
+hunt
 window center
 worm counter : 201
+hunt
+hunt
+hunt
 window center
 worm counter : 202
+hunt
+hunt
+hunt
 window center
 worm counter : 203
-TASK KILL
-SUCCESS: The process "metin2client.exe" with PID 20416 has been terminated.
-gameforge_client_x
-run_game_x
-gameforge_client_x
-log_ok
-log_start
-open_inventory
-hunt
 hunt
 hunt
 hunt
 window center
 worm counter : 204
+hunt
+hunt
 window center
 worm counter : 205
+hunt
+hunt
 window center
 worm counter : 206
+hunt
+hunt
+hunt
+hunt
 window center
 worm counter : 207
+hunt
+hunt
+hunt
 window center
 worm counter : 208
+hunt
+hunt
+hunt
+hunt
 window center
 worm counter : 209
+hunt
+hunt
+hunt
 window center
 worm counter : 210
+hunt
+hunt
+hunt
 window center
 worm counter : 211
+hunt
+hunt
+hunt
 window center
 worm counter : 212
+hunt
+hunt
+hunt
+hunt
 window center
 worm counter : 213
+hunt
+hunt
+hunt
 window center
 worm counter : 214
+hunt
+hunt
+hunt
 window center
 worm counter : 215
+hunt
+hunt
 window center
 worm counter : 216
+hunt
+hunt
 window center
 worm counter : 217
+hunt
+hunt
+hunt
 window center
 worm counter : 218
-TASK KILL
-SUCCESS: The process "metin2client.exe" with PID 10952 has been terminated.
-gameforge_client_x
-run_game_x
-gameforge_client_x
-log_ok
-log_start
-open_inventory
+hunt
+hunt
+hunt
 window center
 worm counter : 219
+hunt
+hunt
+hunt
 window center
 worm counter : 220
 OPEN FISH CLICK SECURE
@@ -1738,52 +1720,100 @@ OPEN FISH IN INVENTORY
 OPEN FISH IN INVENTORY
 OPEN FISH IN INVENTORY
 FIRST PAGE OF INVENTORY
+hunt
+hunt
+hunt
 window center
 worm counter : 221
+hunt
+hunt
 window center
 worm counter : 222
+hunt
+hunt
+hunt
+hunt
 window center
 worm counter : 223
+hunt
+hunt
+hunt
 window center
 worm counter : 224
+hunt
+hunt
 window center
 worm counter : 225
+hunt
+hunt
+hunt
 window center
 worm counter : 226
+hunt
+hunt
+hunt
 window center
 worm counter : 227
+hunt
+hunt
+hunt
 window center
 worm counter : 228
+hunt
+hunt
+hunt
 window center
 worm counter : 229
-TASK KILL
-SUCCESS: The process "metin2client.exe" with PID 16584 has been terminated.
-gameforge_client_x
-run_game_x
-gameforge_client_x
-log_ok
-log_start
-open_inventory
+hunt
+hunt
+hunt
 window center
 worm counter : 230
+hunt
+hunt
 window center
 worm counter : 231
+hunt
 window center
 worm counter : 232
+hunt
+hunt
+hunt
 window center
 worm counter : 233
+hunt
+hunt
+hunt
 window center
 worm counter : 234
+hunt
+is logedout check
+hunt
+hunt
 window center
 worm counter : 235
+hunt
+hunt
 window center
 worm counter : 236
+hunt
+hunt
+hunt
 window center
 worm counter : 237
+hunt
+hunt
+hunt
 window center
 worm counter : 238
+hunt
+hunt
+hunt
 window center
 worm counter : 239
+hunt
+hunt
+hunt
 window center
 worm counter : 240
 OPEN FISH CLICK SECURE
@@ -1844,14 +1874,9 @@ OPEN FISH IN INVENTORY
 OPEN FISH IN INVENTORY
 OPEN FISH IN INVENTORY
 FIRST PAGE OF INVENTORY
-TASK KILL
-SUCCESS: The process "metin2client.exe" with PID 15296 has been terminated.
-gameforge_client_x
-run_game_x
-gameforge_client_x
-log_ok
-log_start
-open_inventory
+hunt
+hunt
+hunt
 window center
 worm counter : 241
 hunt
@@ -1859,8 +1884,13 @@ hunt
 hunt
 window center
 worm counter : 242
+hunt
+hunt
+hunt
+hunt
 window center
 worm counter : 243
+hunt
 hunt
 hunt
 hunt
@@ -1871,20 +1901,23 @@ hunt
 hunt
 window center
 worm counter : 245
-is logedout check
+hunt
 hunt
 hunt
 hunt
 window center
 worm counter : 246
+hunt
+hunt
+hunt
 window center
 worm counter : 247
 hunt
 hunt
 hunt
-hunt
 window center
 worm counter : 248
+hunt
 hunt
 hunt
 hunt
@@ -1898,7 +1931,6 @@ worm counter : 250
 hunt
 hunt
 hunt
-hunt
 window center
 worm counter : 251
 hunt
@@ -1908,16 +1940,12 @@ window center
 worm counter : 252
 hunt
 hunt
-hunt
-hunt
 window center
 worm counter : 253
 hunt
 hunt
-hunt
 window center
 worm counter : 254
-hunt
 hunt
 hunt
 window center
@@ -1928,9 +1956,10 @@ hunt
 window center
 worm counter : 256
 hunt
+hunt
+hunt
 window center
 worm counter : 257
-hunt
 hunt
 hunt
 hunt
@@ -2022,7 +2051,6 @@ window center
 worm counter : 263
 hunt
 hunt
-hunt
 window center
 worm counter : 264
 hunt
@@ -2033,16 +2061,12 @@ worm counter : 265
 hunt
 hunt
 hunt
-hunt
 window center
 worm counter : 266
 hunt
 hunt
-hunt
 window center
 worm counter : 267
-hunt
-hunt
 hunt
 hunt
 hunt
@@ -2061,25 +2085,285 @@ worm counter : 270
 hunt
 hunt
 hunt
-hunt
-hunt
 window center
 worm counter : 271
 hunt
-hunt
-hunt
 window center
 worm counter : 272
+hunt
+hunt
+hunt
+hunt
 window center
 worm counter : 273
 hunt
+hunt
+hunt
 window center
 worm counter : 274
+hunt
+hunt
+hunt
+hunt
 window center
 worm counter : 275
+hunt
+hunt
+hunt
 window center
 worm counter : 276
+hunt
+hunt
+hunt
+hunt
 window center
 worm counter : 277
+hunt
+hunt
+hunt
 window center
 worm counter : 278
+hunt
+hunt
+hunt
+window center
+worm counter : 279
+hunt
+hunt
+hunt
+window center
+worm counter : 280
+OPEN FISH CLICK SECURE
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+SECOND PAGE OF INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+FIRST PAGE OF INVENTORY
+window center
+worm counter : 281
+hunt
+hunt
+window center
+worm counter : 282
+hunt
+hunt
+hunt
+window center
+worm counter : 283
+hunt
+hunt
+hunt
+window center
+worm counter : 284
+hunt
+hunt
+hunt
+window center
+worm counter : 285
+hunt
+window center
+worm counter : 286
+hunt
+hunt
+hunt
+window center
+worm counter : 287
+is logedout check
+hunt
+hunt
+hunt
+window center
+worm counter : 288
+hunt
+hunt
+hunt
+window center
+worm counter : 289
+hunt
+hunt
+hunt
+window center
+worm counter : 290
+hunt
+hunt
+hunt
+window center
+worm counter : 291
+hunt
+hunt
+hunt
+window center
+worm counter : 292
+hunt
+hunt
+hunt
+window center
+worm counter : 293
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 294
+hunt
+hunt
+window center
+worm counter : 295
+hunt
+hunt
+hunt
+window center
+worm counter : 296
+hunt
+hunt
+hunt
+window center
+worm counter : 297
+hunt
+hunt
+hunt
+window center
+worm counter : 298
+hunt
+hunt
+hunt
+window center
+worm counter : 299
+hunt
+hunt
+hunt
+window center
+worm counter : 300
+OPEN FISH CLICK SECURE
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+SECOND PAGE OF INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+OPEN FISH IN INVENTORY
+FIRST PAGE OF INVENTORY
+hunt
+window center
+worm counter : 301
+hunt
+hunt
+hunt
+window center
+worm counter : 302
+hunt
+hunt
+hunt
+window center
+worm counter : 303
+hunt
+hunt
+hunt
+window center
+worm counter : 304
+hunt
+hunt
+hunt
+hunt
+window center
