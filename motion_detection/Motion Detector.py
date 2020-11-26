@@ -238,16 +238,15 @@ def restart_sequence(worm_counter, worm_counter_time):
     time.sleep(0.25)
     print("worm counter : " + str(worm_counter))
 
-    if ((worm_counter % 200 == 0) & (worm_counter > 1)):
-    #if ((worm_counter % 200 == 0)):
-
-        time.sleep(5)
+    if ((worm_counter % 210 == 0) & (worm_counter > 1)):
+    #if ((worm_counter % 210 == 0)):
+        time.sleep(2)
         pydirectinput.click(scale_x(data_struct['game_menu_x']), scale_y(data_struct['game_menu_y']))
         print('game main menu')
         time.sleep(1)
         pydirectinput.click(scale_x(data_struct['game_menu_relog_x']), scale_y(data_struct['game_menu_relog_y']))
         print("relog")
-        time.sleep(10)
+        time.sleep(30)
         pydirectinput.click(scale_x(data_struct['log_start_x']), scale_y(data_struct['log_start_y']))
         print("log_start")
         time.sleep(30)
@@ -256,19 +255,53 @@ def restart_sequence(worm_counter, worm_counter_time):
         print("open_inventory")
         time.sleep(5)
 
+        while True:
+            c1, c2, c3 = image_colors(1870, 584, 30, 30)
+            print( int(c1), int(c2), int(c3))
+            if(c1 > 85 and c1 <95 and c2 > 68 and c2 < 77 and c3 > 58 and c3 < 68):
+                print("inventory oppened")
+                break
+            if (c1 > 251 and c1 < 261 and c2 > 213 and c2 < 223 and c3 > 129 and c3 < 139):
+                print("not logged in ")
+                pydirectinput.click(scale_x(data_struct['log_start_x']), scale_y(data_struct['log_start_y']))
+                print("log_start")
+                time.sleep(30)
+                # openinventory
+                pydirectinput.click(scale_x(data_struct['open_inventory_x']), scale_y(data_struct['open_inventory_y']))
+                print("open_inventory")
+                time.sleep(5)
+            if (c1 > 630 and c1 < 640 and c2 > 372 and c2 < 382 and c3 > 240 and c3 < 250):
+                print("not logged in 2")
+                pydirectinput.click(scale_x(data_struct['log_ok_x']), scale_y(data_struct['log_ok_y']))
+                print("log_ok")
+                time.sleep(30)
+                pydirectinput.click(scale_x(data_struct['log_start_x']), scale_y(data_struct['log_start_y']))
+                print("log_start")
+                time.sleep(30)
+                # openinventory
+                pydirectinput.click(scale_x(data_struct['open_inventory_x']), scale_y(data_struct['open_inventory_y']))
+                print("open_inventory")
+                time.sleep(5)
+            else:
+                print("inventory not oppened else should never ")
+                pydirectinput.click(scale_x(data_struct['log_ok_x']), scale_y(data_struct['log_ok_y']))
+                print("log_ok")
+                time.sleep(30)
+                pydirectinput.click(scale_x(data_struct['log_start_x']), scale_y(data_struct['log_start_y']))
+                print("log_start")
+                time.sleep(30)
+                # openinventory
+                pydirectinput.click(scale_x(data_struct['open_inventory_x']), scale_y(data_struct['open_inventory_y']))
+                print("open_inventory")
+                time.sleep(5)
 
 
-
-    if((worm_counter % 40 == 0) & (worm_counter > 1)):
-    #if (worm_counter % 40 == 0):
+    if((worm_counter % 20 == 0) & (worm_counter > 1)):
         x_start_1 = scale_x(data_struct['x_start_1'])
         y_start_1 = scale_y(data_struct['y_start_1'])
-
         x_start_2 = scale_x(data_struct['x_start_1'])
         y_start_2 = scale_y(data_struct['y_start_2'])
-
         jump_pixels = 32
-
         pydirectinput.click(scale_x(data_struct['open_fish_x']), scale_y(data_struct['open_fish_y']))
         print("OPEN FISH CLICK SECURE")
         for y in range(5):
@@ -286,14 +319,13 @@ def restart_sequence(worm_counter, worm_counter_time):
         time.sleep(0.25)
         for y in range(6):
             for x in range(5):
-                print("x " + str(x) + " y " + str(y))
+                #print("x " + str(x) + " y " + str(y))
                 pydirectinput.doubleClick(x_start_2 + x * jump_pixels + up_x, y_start_2 + y * jump_pixels + up_y)
                 time.sleep(0.5)
                 save_picture(x_start_2 + x * jump_pixels + up_x - 13,
                              y_start_2 + y * jump_pixels + up_y - 13, 26, worm_counter)
                 print("OPEN FISH IN INVENTORY")
                 time.sleep(0.25)
-
         #go back to the first page
         pydirectinput.click(scale_x(data_struct['first_page_x']), scale_y(data_struct['first_page_y']))
         print("FIRST PAGE OF INVENTORY")
@@ -374,7 +406,7 @@ def save_picture(x_start_detection, y_start_detection, detection_field, picture_
     #print(c1, c2, c3)
     #print("in_memory_to_disk_" + str(picture_take_counter) + " .png")
     #print(str(picture_take_counter) + "    :" + str(sum_c1) + " " + str(sum_c2) + " " + str(sum_c3) )
-    cv2.imwrite("test_pictures\\"+str(item_classify_picture_name)+'_'+ str(picture_take_counter)+ " .png", frame_ever)
+    cv2.imwrite("test_pictures\\"+str(item_classify_picture_name)+'_'+ str(picture_take_counter) + "_" + str(sum_c1) + "_" + str(sum_c2) + "_" + str(sum_c3) +" .png", frame_ever)
     f.write(str(picture_take_counter) + "     " + str(item_classify_picture_name)+ " " + str(sum_c1) + " " + str(sum_c2) + " " + str(sum_c3) + '\n')
     time.sleep(0.5)
     f.close()
@@ -403,7 +435,7 @@ def image_colors(x_up,y_up, width, height):
     sum_c1 = sum_c1 / length
     sum_c2 = sum_c2 / length
     sum_c3 = sum_c3 / length
-    return sum_c1, sum_c2, sum_c3
+    return int(sum_c1), int(sum_c2), int(sum_c3)
 
 
 frame_ever = cv2.imread(file_name,-1)
@@ -512,13 +544,13 @@ while True:
                 worm_counter, worm_counter_time_after = restart_sequence(worm_counter, worm_counter_time_after)
                 time.sleep(1.5)
                 image_check_counter = 0
-    if ((worm_counter % 200 == 0) & (worm_counter > 1)):
+    if ((worm_counter % 210 == 0) & (worm_counter > 1)):
         fishing_itself_last_recognise = actual_time()
         fishing_itself_last_recognise = actual_time()
 
-    if((fishing_itself_last_recognise - worm_counter_time_after) < -100000):
-        time = update_time()
-        print('TASK KILL :' + str(time))
+    if((fishing_itself_last_recognise - worm_counter_time_after) < -300000):
+        clock_time = update_time()
+        print('TASK KILL :' + str(clock_time))
         os.system("taskkill /f /im  metin2client.exe")
         time.sleep(10)
         #gamefroge client
@@ -551,7 +583,7 @@ while True:
 
 
     if(image_log_counter > 10000):
-        print("is logedout check")
+        print("is logeout check")
         c1, c2, c3 = image_colors(scale_x(data_struct['logout_v1']), scale_y(data_struct['logout_v2']), 416, 6)
         if ((c1 < data_struct['login_c1_min']) or (c1 > data_struct['login_c1_max'])) & \
                 ((c2 < data_struct['login_c2_min']) or (c2 > data_struct['login_c2_max'])) & \

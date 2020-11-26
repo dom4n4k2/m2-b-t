@@ -1,26 +1,33 @@
 [ WARN:0] global C:\Users\appveyor\AppData\Local\Temp\1\pip-req-build-wwma2wne\opencv\modules\videoio\src\cap_msmf.cpp (435) `anonymous-namespace'::SourceReaderCB::~SourceReaderCB terminating async callback
 window center
 worm counter : 0
-hunt
-hunt
-hunt
 window center
 worm counter : 1
+hunt
 window center
 worm counter : 2
+hunt
 hunt
 hunt
 hunt
 window center
 worm counter : 3
 hunt
+hunt
+hunt
+hunt
+hunt
 window center
 worm counter : 4
 hunt
 hunt
 hunt
+hunt
 window center
 worm counter : 5
+hunt
+hunt
+hunt
 hunt
 window center
 worm counter : 6
@@ -34,6 +41,7 @@ hunt
 hunt
 window center
 worm counter : 8
+hunt
 hunt
 hunt
 hunt
@@ -57,9 +65,9 @@ worm counter : 12
 hunt
 hunt
 hunt
+hunt
 window center
 worm counter : 13
-hunt
 hunt
 hunt
 hunt
@@ -77,8 +85,10 @@ window center
 worm counter : 16
 hunt
 hunt
+hunt
 window center
 worm counter : 17
+hunt
 hunt
 hunt
 hunt
@@ -86,70 +96,125 @@ window center
 worm counter : 18
 hunt
 hunt
-hunt
 window center
 worm counter : 19
+hunt
 hunt
 hunt
 hunt
 window center
 worm counter : 20
 OPEN FISH CLICK SECURE
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
 SECOND PAGE OF INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
 FIRST PAGE OF INVENTORY
 hunt
@@ -164,9 +229,9 @@ window center
 worm counter : 22
 hunt
 hunt
-hunt
 window center
 worm counter : 23
+hunt
 hunt
 hunt
 hunt
@@ -180,16 +245,16 @@ worm counter : 25
 hunt
 hunt
 hunt
+hunt
+hunt
 window center
 worm counter : 26
 hunt
 hunt
 hunt
 hunt
-hunt
 window center
 worm counter : 27
-hunt
 hunt
 hunt
 window center
@@ -200,10 +265,13 @@ hunt
 window center
 worm counter : 29
 hunt
+is logeout check
 hunt
 hunt
 window center
 worm counter : 30
+hunt
+hunt
 hunt
 hunt
 window center
@@ -220,8 +288,12 @@ window center
 worm counter : 33
 hunt
 hunt
+hunt
+hunt
+hunt
 window center
 worm counter : 34
+hunt
 hunt
 hunt
 hunt
@@ -229,84 +301,131 @@ window center
 worm counter : 35
 hunt
 hunt
+hunt
+hunt
 window center
 worm counter : 36
-hunt
-hunt
 window center
 worm counter : 37
-hunt
 window center
 worm counter : 38
-hunt
-hunt
-hunt
 window center
 worm counter : 39
-hunt
-hunt
-hunt
 window center
 worm counter : 40
 OPEN FISH CLICK SECURE
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
 SECOND PAGE OF INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
 FIRST PAGE OF INVENTORY
-is logedout check
 hunt
 hunt
 hunt
@@ -314,15 +433,15 @@ window center
 worm counter : 41
 hunt
 hunt
-hunt
-hunt
-hunt
 window center
 worm counter : 42
 hunt
 hunt
+hunt
 window center
 worm counter : 43
+hunt
+hunt
 hunt
 hunt
 hunt
@@ -336,6 +455,7 @@ worm counter : 45
 hunt
 hunt
 hunt
+hunt
 window center
 worm counter : 46
 hunt
@@ -343,6 +463,7 @@ hunt
 hunt
 window center
 worm counter : 47
+hunt
 hunt
 hunt
 hunt
@@ -376,9 +497,9 @@ worm counter : 53
 hunt
 hunt
 hunt
+hunt
 window center
 worm counter : 54
-hunt
 hunt
 hunt
 hunt
@@ -387,14 +508,13 @@ worm counter : 55
 hunt
 hunt
 hunt
-hunt
 window center
 worm counter : 56
 hunt
 hunt
+hunt
 window center
 worm counter : 57
-hunt
 hunt
 hunt
 window center
@@ -410,61 +530,116 @@ hunt
 window center
 worm counter : 60
 OPEN FISH CLICK SECURE
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
 SECOND PAGE OF INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
 FIRST PAGE OF INVENTORY
 hunt
@@ -472,6 +647,8 @@ hunt
 hunt
 window center
 worm counter : 61
+hunt
+hunt
 hunt
 hunt
 hunt
@@ -490,9 +667,9 @@ window center
 worm counter : 64
 hunt
 hunt
-hunt
 window center
 worm counter : 65
+is logeout check
 hunt
 hunt
 hunt
@@ -509,7 +686,6 @@ hunt
 hunt
 window center
 worm counter : 68
-hunt
 hunt
 hunt
 hunt
@@ -537,6 +713,8 @@ window center
 worm counter : 73
 hunt
 hunt
+hunt
+hunt
 window center
 worm counter : 74
 hunt
@@ -548,13 +726,14 @@ worm counter : 75
 hunt
 hunt
 hunt
+hunt
 window center
 worm counter : 76
 hunt
 hunt
+hunt
 window center
 worm counter : 77
-hunt
 hunt
 hunt
 window center
@@ -562,72 +741,128 @@ worm counter : 78
 hunt
 hunt
 hunt
-hunt
 window center
 worm counter : 79
-hunt
 hunt
 hunt
 window center
 worm counter : 80
 OPEN FISH CLICK SECURE
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify110 88 58
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify105 102 94
+delete
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify105 102 94
+delete
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
 SECOND PAGE OF INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
 FIRST PAGE OF INVENTORY
+hunt
 hunt
 hunt
 hunt
@@ -636,9 +871,9 @@ window center
 worm counter : 81
 hunt
 hunt
-hunt
 window center
 worm counter : 82
+hunt
 hunt
 hunt
 hunt
@@ -647,13 +882,15 @@ worm counter : 83
 hunt
 hunt
 hunt
-is logedout check
 window center
 worm counter : 84
 hunt
 hunt
+hunt
+hunt
 window center
 worm counter : 85
+hunt
 hunt
 hunt
 hunt
@@ -667,10 +904,9 @@ worm counter : 87
 hunt
 hunt
 hunt
+hunt
 window center
 worm counter : 88
-hunt
-hunt
 hunt
 window center
 worm counter : 89
@@ -687,6 +923,7 @@ worm counter : 91
 hunt
 hunt
 hunt
+hunt
 window center
 worm counter : 92
 hunt
@@ -696,8 +933,10 @@ window center
 worm counter : 93
 hunt
 hunt
+hunt
 window center
 worm counter : 94
+hunt
 hunt
 hunt
 hunt
@@ -709,6 +948,7 @@ hunt
 hunt
 window center
 worm counter : 96
+is logeout check
 hunt
 hunt
 hunt
@@ -723,88 +963,148 @@ worm counter : 98
 hunt
 hunt
 hunt
-hunt
 window center
 worm counter : 99
+hunt
 hunt
 hunt
 hunt
 window center
 worm counter : 100
 OPEN FISH CLICK SECURE
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify110 88 58
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
 SECOND PAGE OF INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
 FIRST PAGE OF INVENTORY
+hunt
+hunt
 hunt
 window center
 worm counter : 101
 hunt
 hunt
 hunt
+hunt
 window center
 worm counter : 102
+hunt
+hunt
 hunt
 window center
 worm counter : 103
 hunt
 hunt
-hunt
 window center
 worm counter : 104
+hunt
 hunt
 hunt
 hunt
@@ -823,22 +1123,25 @@ window center
 worm counter : 107
 hunt
 hunt
-hunt
 window center
 worm counter : 108
-hunt
 hunt
 hunt
 window center
 worm counter : 109
 hunt
 hunt
+hunt
+hunt
 window center
 worm counter : 110
 hunt
 hunt
+hunt
+hunt
 window center
 worm counter : 111
+hunt
 hunt
 hunt
 hunt
@@ -847,8 +1150,11 @@ worm counter : 112
 hunt
 hunt
 hunt
+hunt
+hunt
 window center
 worm counter : 113
+hunt
 hunt
 hunt
 hunt
@@ -862,8 +1168,11 @@ worm counter : 115
 hunt
 hunt
 hunt
+hunt
 window center
 worm counter : 116
+hunt
+hunt
 hunt
 hunt
 hunt
@@ -876,68 +1185,125 @@ window center
 worm counter : 118
 hunt
 hunt
-hunt
 window center
 worm counter : 119
+hunt
+hunt
 hunt
 window center
 worm counter : 120
 OPEN FISH CLICK SECURE
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify110 88 58
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify100 99 103
+delete
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
 SECOND PAGE OF INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
 FIRST PAGE OF INVENTORY
 hunt
@@ -964,13 +1330,16 @@ worm counter : 124
 hunt
 hunt
 hunt
+hunt
 window center
 worm counter : 125
 hunt
+is logeout check
 hunt
 hunt
 window center
 worm counter : 126
+hunt
 hunt
 hunt
 hunt
@@ -979,28 +1348,29 @@ worm counter : 127
 hunt
 hunt
 hunt
+hunt
 window center
 worm counter : 128
+hunt
 hunt
 hunt
 window center
 worm counter : 129
 hunt
 hunt
-is logedout check
 hunt
 window center
 worm counter : 130
+hunt
 hunt
 hunt
 window center
 worm counter : 131
 hunt
 hunt
+hunt
 window center
 worm counter : 132
-hunt
-hunt
 hunt
 window center
 worm counter : 133
@@ -1015,8 +1385,6 @@ hunt
 hunt
 window center
 worm counter : 135
-hunt
-hunt
 hunt
 window center
 worm counter : 136
@@ -1033,6 +1401,8 @@ worm counter : 138
 hunt
 hunt
 hunt
+hunt
+hunt
 window center
 worm counter : 139
 hunt
@@ -1041,63 +1411,120 @@ hunt
 window center
 worm counter : 140
 OPEN FISH CLICK SECURE
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify154 93 74
+delete
 OPEN FISH IN INVENTORY
+classify110 88 58
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
 SECOND PAGE OF INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
 FIRST PAGE OF INVENTORY
+hunt
 hunt
 hunt
 window center
@@ -1116,20 +1543,23 @@ window center
 worm counter : 143
 hunt
 hunt
-hunt
 window center
 worm counter : 144
+hunt
+hunt
 hunt
 window center
 worm counter : 145
 hunt
 hunt
+hunt
+hunt
 window center
 worm counter : 146
 hunt
-hunt
 window center
 worm counter : 147
+hunt
 hunt
 hunt
 hunt
@@ -1147,11 +1577,8 @@ window center
 worm counter : 150
 hunt
 hunt
-hunt
 window center
 worm counter : 151
-hunt
-hunt
 hunt
 window center
 worm counter : 152
@@ -1163,9 +1590,10 @@ worm counter : 153
 hunt
 hunt
 hunt
-hunt
 window center
 worm counter : 154
+hunt
+hunt
 hunt
 hunt
 hunt
@@ -1174,8 +1602,10 @@ worm counter : 155
 hunt
 hunt
 hunt
+is logeout check
 window center
 worm counter : 156
+hunt
 hunt
 hunt
 hunt
@@ -1188,7 +1618,6 @@ window center
 worm counter : 158
 hunt
 hunt
-hunt
 window center
 worm counter : 159
 hunt
@@ -1197,63 +1626,120 @@ hunt
 window center
 worm counter : 160
 OPEN FISH CLICK SECURE
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify160 148 66
+delete
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify110 88 58
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
 SECOND PAGE OF INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
 FIRST PAGE OF INVENTORY
+hunt
 hunt
 hunt
 hunt
@@ -1261,12 +1747,16 @@ window center
 worm counter : 161
 hunt
 hunt
+hunt
 window center
 worm counter : 162
 hunt
 hunt
+hunt
 window center
 worm counter : 163
+hunt
+hunt
 hunt
 hunt
 window center
@@ -1288,12 +1778,15 @@ window center
 worm counter : 167
 hunt
 hunt
+hunt
 window center
 worm counter : 168
 hunt
 hunt
+hunt
 window center
 worm counter : 169
+hunt
 hunt
 hunt
 hunt
@@ -1319,16 +1812,20 @@ worm counter : 173
 hunt
 hunt
 hunt
-hunt
 window center
 worm counter : 174
+hunt
 hunt
 hunt
 window center
 worm counter : 175
 hunt
+hunt
+hunt
 window center
 worm counter : 176
+hunt
+hunt
 hunt
 hunt
 hunt
@@ -1342,7 +1839,9 @@ worm counter : 178
 hunt
 hunt
 hunt
-is logedout check
+hunt
+hunt
+hunt
 window center
 worm counter : 179
 hunt
@@ -1351,61 +1850,118 @@ hunt
 window center
 worm counter : 180
 OPEN FISH CLICK SECURE
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify230 227 219
+delete
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify110 88 58
 OPEN FISH IN INVENTORY
+classify145 111 51
+delete
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
 SECOND PAGE OF INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
 FIRST PAGE OF INVENTORY
 hunt
@@ -1413,6 +1969,7 @@ hunt
 hunt
 window center
 worm counter : 181
+hunt
 hunt
 hunt
 hunt
@@ -1431,9 +1988,9 @@ worm counter : 184
 hunt
 hunt
 hunt
+hunt
 window center
 worm counter : 185
-hunt
 hunt
 hunt
 window center
@@ -1445,13 +2002,16 @@ window center
 worm counter : 187
 hunt
 hunt
+hunt
 window center
 worm counter : 188
 hunt
 hunt
 hunt
+hunt
 window center
 worm counter : 189
+is logeout check
 hunt
 hunt
 hunt
@@ -1463,8 +2023,6 @@ hunt
 window center
 worm counter : 191
 hunt
-hunt
-hunt
 window center
 worm counter : 192
 hunt
@@ -1475,13 +2033,21 @@ worm counter : 193
 hunt
 hunt
 hunt
+hunt
+hunt
+hunt
 window center
 worm counter : 194
 hunt
 hunt
 hunt
+hunt
 window center
 worm counter : 195
+hunt
+hunt
+hunt
+hunt
 window center
 worm counter : 197
 hunt
@@ -1498,69 +2064,120 @@ worm counter : 199
 hunt
 hunt
 hunt
-hunt
 window center
 worm counter : 200
-game main menu
-relog
-log_start
-open_inventory
 OPEN FISH CLICK SECURE
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify110 88 58
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify120 117 76
+delete
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
 SECOND PAGE OF INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
 FIRST PAGE OF INVENTORY
 hunt
@@ -1570,10 +2187,8 @@ window center
 worm counter : 201
 hunt
 hunt
-hunt
 window center
 worm counter : 202
-hunt
 hunt
 hunt
 window center
@@ -1585,13 +2200,16 @@ window center
 worm counter : 204
 hunt
 hunt
+hunt
+hunt
+hunt
 window center
 worm counter : 205
 hunt
 hunt
+hunt
 window center
 worm counter : 206
-hunt
 hunt
 hunt
 hunt
@@ -1605,20 +2223,25 @@ worm counter : 208
 hunt
 hunt
 hunt
-hunt
 window center
 worm counter : 209
 hunt
 hunt
 hunt
+hunt
 window center
 worm counter : 210
+game main menu
+relog
+log_start
+open_inventory
+90 72 63
+inventory oppened
 hunt
 hunt
 hunt
 window center
 worm counter : 211
-hunt
 hunt
 hunt
 window center
@@ -1637,16 +2260,21 @@ worm counter : 214
 hunt
 hunt
 hunt
+hunt
 window center
 worm counter : 215
+hunt
 hunt
 hunt
 window center
 worm counter : 216
 hunt
 hunt
+hunt
+hunt
 window center
 worm counter : 217
+hunt
 hunt
 hunt
 hunt
@@ -1660,64 +2288,120 @@ worm counter : 219
 hunt
 hunt
 hunt
+hunt
 window center
 worm counter : 220
 OPEN FISH CLICK SECURE
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify110 88 58
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
 SECOND PAGE OF INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
 FIRST PAGE OF INVENTORY
 hunt
@@ -1727,19 +2411,21 @@ window center
 worm counter : 221
 hunt
 hunt
+hunt
 window center
 worm counter : 222
-hunt
 hunt
 hunt
 hunt
 window center
 worm counter : 223
 hunt
+is logeout check
 hunt
 hunt
 window center
 worm counter : 224
+hunt
 hunt
 hunt
 window center
@@ -1756,7 +2442,6 @@ window center
 worm counter : 227
 hunt
 hunt
-hunt
 window center
 worm counter : 228
 hunt
@@ -1770,9 +2455,11 @@ hunt
 window center
 worm counter : 230
 hunt
-hunt
 window center
 worm counter : 231
+hunt
+hunt
+hunt
 hunt
 window center
 worm counter : 232
@@ -1787,11 +2474,11 @@ hunt
 window center
 worm counter : 234
 hunt
-is logedout check
 hunt
 hunt
 window center
 worm counter : 235
+hunt
 hunt
 hunt
 window center
@@ -1814,64 +2501,121 @@ worm counter : 239
 hunt
 hunt
 hunt
+hunt
+hunt
 window center
 worm counter : 240
 OPEN FISH CLICK SECURE
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify110 88 58
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
 SECOND PAGE OF INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
 FIRST PAGE OF INVENTORY
 hunt
@@ -1884,7 +2628,6 @@ hunt
 hunt
 window center
 worm counter : 242
-hunt
 hunt
 hunt
 hunt
@@ -1904,7 +2647,6 @@ worm counter : 245
 hunt
 hunt
 hunt
-hunt
 window center
 worm counter : 246
 hunt
@@ -1915,8 +2657,11 @@ worm counter : 247
 hunt
 hunt
 hunt
+hunt
 window center
 worm counter : 248
+hunt
+hunt
 hunt
 hunt
 hunt
@@ -1925,9 +2670,9 @@ window center
 worm counter : 249
 hunt
 hunt
-hunt
 window center
 worm counter : 250
+hunt
 hunt
 hunt
 hunt
@@ -1938,6 +2683,8 @@ hunt
 hunt
 window center
 worm counter : 252
+is logeout check
+hunt
 hunt
 hunt
 window center
@@ -1946,6 +2693,9 @@ hunt
 hunt
 window center
 worm counter : 254
+hunt
+hunt
+hunt
 hunt
 hunt
 window center
@@ -1976,61 +2726,116 @@ hunt
 window center
 worm counter : 260
 OPEN FISH CLICK SECURE
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify110 88 58
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
 SECOND PAGE OF INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
 FIRST PAGE OF INVENTORY
 hunt
@@ -2051,6 +2856,7 @@ window center
 worm counter : 263
 hunt
 hunt
+hunt
 window center
 worm counter : 264
 hunt
@@ -2065,9 +2871,10 @@ window center
 worm counter : 266
 hunt
 hunt
+hunt
+hunt
 window center
 worm counter : 267
-hunt
 hunt
 hunt
 window center
@@ -2088,8 +2895,11 @@ hunt
 window center
 worm counter : 271
 hunt
+hunt
+hunt
 window center
 worm counter : 272
+hunt
 hunt
 hunt
 hunt
@@ -2101,7 +2911,6 @@ hunt
 hunt
 window center
 worm counter : 274
-hunt
 hunt
 hunt
 hunt
@@ -2126,6 +2935,7 @@ worm counter : 278
 hunt
 hunt
 hunt
+hunt
 window center
 worm counter : 279
 hunt
@@ -2134,65 +2944,126 @@ hunt
 window center
 worm counter : 280
 OPEN FISH CLICK SECURE
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify110 88 58
 OPEN FISH IN INVENTORY
+classify76 75 43
+delete
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
 SECOND PAGE OF INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
 FIRST PAGE OF INVENTORY
+hunt
+hunt
+hunt
+hunt
 window center
 worm counter : 281
+hunt
 hunt
 hunt
 window center
@@ -2200,9 +3071,12 @@ worm counter : 282
 hunt
 hunt
 hunt
+hunt
 window center
 worm counter : 283
 hunt
+hunt
+is logeout check
 hunt
 hunt
 window center
@@ -2213,21 +3087,21 @@ hunt
 window center
 worm counter : 285
 hunt
+hunt
+hunt
 window center
 worm counter : 286
 hunt
 hunt
 hunt
+hunt
 window center
 worm counter : 287
-is logedout check
 hunt
 hunt
 hunt
 window center
 worm counter : 288
-hunt
-hunt
 hunt
 window center
 worm counter : 289
@@ -2241,6 +3115,7 @@ hunt
 hunt
 window center
 worm counter : 291
+hunt
 hunt
 hunt
 hunt
@@ -2259,6 +3134,7 @@ window center
 worm counter : 294
 hunt
 hunt
+hunt
 window center
 worm counter : 295
 hunt
@@ -2271,6 +3147,7 @@ hunt
 hunt
 window center
 worm counter : 297
+hunt
 hunt
 hunt
 hunt
@@ -2287,68 +3164,125 @@ hunt
 window center
 worm counter : 300
 OPEN FISH CLICK SECURE
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify145 111 51
+delete
 OPEN FISH IN INVENTORY
+classify79 97 103
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify110 88 58
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
+classify96 85 67
 OPEN FISH IN INVENTORY
 SECOND PAGE OF INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
+classify96 84 67
 OPEN FISH IN INVENTORY
 FIRST PAGE OF INVENTORY
 hunt
+hunt
+hunt
+hunt
 window center
 worm counter : 301
-hunt
-hunt
 hunt
 window center
 worm counter : 302
@@ -2365,5 +3299,3973 @@ worm counter : 304
 hunt
 hunt
 hunt
+window center
+worm counter : 305
+hunt
+hunt
 hunt
 window center
+worm counter : 306
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 307
+hunt
+hunt
+hunt
+window center
+worm counter : 308
+hunt
+hunt
+hunt
+window center
+worm counter : 309
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 310
+hunt
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 311
+hunt
+hunt
+hunt
+window center
+worm counter : 312
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 313
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 314
+hunt
+hunt
+window center
+worm counter : 315
+hunt
+is logeout check
+hunt
+hunt
+window center
+worm counter : 316
+hunt
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 317
+hunt
+hunt
+hunt
+window center
+worm counter : 318
+hunt
+hunt
+hunt
+window center
+worm counter : 319
+hunt
+hunt
+hunt
+window center
+worm counter : 320
+OPEN FISH CLICK SECURE
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify110 88 58
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+SECOND PAGE OF INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+FIRST PAGE OF INVENTORY
+hunt
+hunt
+hunt
+window center
+worm counter : 321
+hunt
+hunt
+window center
+worm counter : 322
+hunt
+hunt
+hunt
+window center
+worm counter : 323
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 324
+hunt
+hunt
+hunt
+window center
+worm counter : 325
+hunt
+hunt
+hunt
+window center
+worm counter : 326
+hunt
+window center
+worm counter : 327
+hunt
+hunt
+hunt
+window center
+worm counter : 328
+hunt
+hunt
+window center
+worm counter : 329
+hunt
+hunt
+hunt
+window center
+worm counter : 330
+hunt
+hunt
+hunt
+window center
+worm counter : 331
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 332
+hunt
+hunt
+hunt
+window center
+worm counter : 333
+hunt
+hunt
+hunt
+window center
+worm counter : 334
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 335
+hunt
+hunt
+hunt
+window center
+worm counter : 336
+hunt
+hunt
+hunt
+window center
+worm counter : 337
+hunt
+window center
+worm counter : 338
+hunt
+hunt
+hunt
+window center
+worm counter : 339
+hunt
+hunt
+hunt
+window center
+worm counter : 340
+OPEN FISH CLICK SECURE
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify110 88 58
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+SECOND PAGE OF INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+FIRST PAGE OF INVENTORY
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 341
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 342
+hunt
+hunt
+hunt
+window center
+worm counter : 343
+hunt
+hunt
+hunt
+window center
+worm counter : 344
+hunt
+hunt
+hunt
+window center
+worm counter : 345
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 346
+is logeout check
+hunt
+hunt
+hunt
+window center
+worm counter : 347
+hunt
+hunt
+hunt
+window center
+worm counter : 348
+hunt
+hunt
+hunt
+window center
+worm counter : 349
+hunt
+hunt
+hunt
+window center
+worm counter : 350
+hunt
+hunt
+hunt
+window center
+worm counter : 351
+hunt
+hunt
+hunt
+window center
+worm counter : 352
+hunt
+hunt
+hunt
+window center
+worm counter : 353
+hunt
+hunt
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 354
+hunt
+hunt
+hunt
+window center
+worm counter : 355
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 356
+hunt
+hunt
+hunt
+window center
+worm counter : 357
+hunt
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 358
+hunt
+hunt
+hunt
+window center
+worm counter : 359
+hunt
+hunt
+hunt
+window center
+worm counter : 360
+OPEN FISH CLICK SECURE
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify110 88 58
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+SECOND PAGE OF INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+FIRST PAGE OF INVENTORY
+hunt
+hunt
+hunt
+window center
+worm counter : 361
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 362
+hunt
+hunt
+hunt
+window center
+worm counter : 363
+hunt
+hunt
+window center
+worm counter : 364
+hunt
+hunt
+window center
+worm counter : 365
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 366
+hunt
+hunt
+hunt
+window center
+worm counter : 367
+hunt
+hunt
+hunt
+window center
+worm counter : 368
+hunt
+hunt
+hunt
+window center
+worm counter : 369
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 370
+hunt
+hunt
+window center
+worm counter : 371
+hunt
+hunt
+hunt
+window center
+worm counter : 372
+hunt
+hunt
+window center
+worm counter : 373
+hunt
+hunt
+hunt
+window center
+worm counter : 374
+hunt
+hunt
+hunt
+window center
+worm counter : 375
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 376
+hunt
+hunt
+hunt
+window center
+worm counter : 377
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 378
+hunt
+hunt
+hunt
+window center
+worm counter : 379
+hunt
+hunt
+is logeout check
+window center
+worm counter : 380
+OPEN FISH CLICK SECURE
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify110 88 58
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify145 111 51
+delete
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+SECOND PAGE OF INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+FIRST PAGE OF INVENTORY
+hunt
+hunt
+hunt
+window center
+worm counter : 381
+hunt
+hunt
+hunt
+window center
+worm counter : 382
+hunt
+hunt
+window center
+worm counter : 383
+hunt
+hunt
+hunt
+window center
+worm counter : 384
+hunt
+hunt
+hunt
+window center
+worm counter : 385
+hunt
+hunt
+hunt
+window center
+worm counter : 386
+hunt
+hunt
+hunt
+window center
+worm counter : 387
+hunt
+hunt
+hunt
+window center
+worm counter : 388
+hunt
+hunt
+hunt
+window center
+worm counter : 389
+hunt
+hunt
+window center
+worm counter : 390
+window center
+worm counter : 391
+window center
+worm counter : 392
+window center
+worm counter : 393
+window center
+worm counter : 394
+window center
+worm counter : 395
+hunt
+hunt
+hunt
+window center
+worm counter : 397
+hunt
+hunt
+window center
+worm counter : 398
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 399
+hunt
+hunt
+hunt
+window center
+worm counter : 400
+OPEN FISH CLICK SECURE
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify110 88 58
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify76 75 43
+delete
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+SECOND PAGE OF INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+FIRST PAGE OF INVENTORY
+hunt
+hunt
+hunt
+window center
+worm counter : 401
+hunt
+hunt
+hunt
+window center
+worm counter : 402
+hunt
+hunt
+hunt
+window center
+worm counter : 403
+hunt
+hunt
+hunt
+window center
+worm counter : 404
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 405
+hunt
+hunt
+hunt
+window center
+worm counter : 406
+hunt
+window center
+worm counter : 407
+hunt
+hunt
+hunt
+window center
+worm counter : 408
+hunt
+hunt
+hunt
+window center
+worm counter : 409
+hunt
+hunt
+hunt
+window center
+worm counter : 410
+hunt
+hunt
+hunt
+window center
+worm counter : 411
+hunt
+hunt
+hunt
+window center
+worm counter : 412
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 413
+hunt
+hunt
+hunt
+window center
+worm counter : 414
+hunt
+hunt
+hunt
+window center
+worm counter : 415
+hunt
+hunt
+hunt
+window center
+worm counter : 416
+hunt
+hunt
+hunt
+window center
+worm counter : 417
+hunt
+hunt
+hunt
+window center
+worm counter : 418
+is logeout check
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 419
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 420
+game main menu
+relog
+log_start
+open_inventory
+90 72 63
+inventory oppened
+OPEN FISH CLICK SECURE
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify174 69 63
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify110 88 58
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+SECOND PAGE OF INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+FIRST PAGE OF INVENTORY
+hunt
+hunt
+hunt
+window center
+worm counter : 421
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 422
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 423
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 424
+hunt
+hunt
+window center
+worm counter : 425
+hunt
+hunt
+hunt
+window center
+worm counter : 426
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 427
+hunt
+hunt
+hunt
+window center
+worm counter : 428
+hunt
+hunt
+hunt
+window center
+worm counter : 429
+hunt
+hunt
+hunt
+window center
+worm counter : 430
+hunt
+hunt
+hunt
+window center
+worm counter : 431
+hunt
+hunt
+hunt
+window center
+worm counter : 432
+hunt
+hunt
+hunt
+window center
+worm counter : 433
+hunt
+hunt
+window center
+worm counter : 434
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 435
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 436
+hunt
+hunt
+hunt
+window center
+worm counter : 437
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 438
+hunt
+hunt
+hunt
+window center
+worm counter : 439
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 440
+OPEN FISH CLICK SECURE
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify174 69 63
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify110 88 58
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify61 60 59
+delete
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+SECOND PAGE OF INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+FIRST PAGE OF INVENTORY
+hunt
+hunt
+hunt
+window center
+worm counter : 441
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 442
+hunt
+hunt
+hunt
+window center
+worm counter : 443
+hunt
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 444
+hunt
+hunt
+hunt
+window center
+worm counter : 445
+hunt
+hunt
+hunt
+window center
+worm counter : 446
+hunt
+hunt
+window center
+worm counter : 447
+hunt
+hunt
+window center
+worm counter : 448
+hunt
+hunt
+hunt
+hunt
+is logeout check
+window center
+worm counter : 449
+hunt
+hunt
+hunt
+window center
+worm counter : 450
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 451
+hunt
+hunt
+hunt
+window center
+worm counter : 452
+hunt
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 453
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 454
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 455
+hunt
+hunt
+hunt
+window center
+worm counter : 456
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 457
+hunt
+hunt
+hunt
+window center
+worm counter : 458
+hunt
+hunt
+hunt
+window center
+worm counter : 459
+hunt
+hunt
+hunt
+window center
+worm counter : 460
+OPEN FISH CLICK SECURE
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify174 69 63
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify110 88 58
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+SECOND PAGE OF INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+FIRST PAGE OF INVENTORY
+hunt
+hunt
+hunt
+window center
+worm counter : 461
+hunt
+hunt
+hunt
+window center
+worm counter : 462
+hunt
+hunt
+hunt
+window center
+worm counter : 463
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 464
+hunt
+hunt
+hunt
+window center
+worm counter : 465
+hunt
+hunt
+hunt
+window center
+worm counter : 466
+hunt
+hunt
+hunt
+window center
+worm counter : 467
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 468
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 469
+hunt
+hunt
+hunt
+window center
+worm counter : 470
+hunt
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 471
+hunt
+hunt
+hunt
+window center
+worm counter : 472
+hunt
+hunt
+window center
+worm counter : 473
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 474
+hunt
+hunt
+hunt
+window center
+worm counter : 475
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 476
+hunt
+hunt
+hunt
+window center
+worm counter : 477
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 478
+hunt
+hunt
+hunt
+window center
+worm counter : 479
+hunt
+hunt
+hunt
+window center
+worm counter : 480
+OPEN FISH CLICK SECURE
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify174 69 63
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify110 88 58
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+SECOND PAGE OF INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+FIRST PAGE OF INVENTORY
+hunt
+hunt
+hunt
+window center
+worm counter : 481
+hunt
+hunt
+hunt
+window center
+worm counter : 482
+is logeout check
+hunt
+hunt
+window center
+worm counter : 483
+hunt
+hunt
+hunt
+window center
+worm counter : 484
+hunt
+hunt
+hunt
+window center
+worm counter : 485
+hunt
+hunt
+hunt
+window center
+worm counter : 486
+hunt
+hunt
+hunt
+window center
+worm counter : 487
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 488
+hunt
+hunt
+hunt
+window center
+worm counter : 489
+hunt
+hunt
+hunt
+window center
+worm counter : 490
+hunt
+hunt
+hunt
+window center
+worm counter : 491
+hunt
+hunt
+hunt
+window center
+worm counter : 492
+hunt
+hunt
+hunt
+window center
+worm counter : 493
+hunt
+window center
+worm counter : 494
+hunt
+hunt
+window center
+worm counter : 495
+hunt
+hunt
+hunt
+window center
+worm counter : 496
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 497
+hunt
+hunt
+hunt
+window center
+worm counter : 498
+hunt
+hunt
+hunt
+window center
+worm counter : 499
+hunt
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 500
+OPEN FISH CLICK SECURE
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify174 69 63
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify110 88 58
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+SECOND PAGE OF INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+FIRST PAGE OF INVENTORY
+hunt
+hunt
+window center
+worm counter : 501
+hunt
+window center
+worm counter : 502
+hunt
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 503
+hunt
+hunt
+hunt
+window center
+worm counter : 504
+hunt
+hunt
+hunt
+window center
+worm counter : 505
+hunt
+hunt
+hunt
+window center
+worm counter : 506
+hunt
+hunt
+hunt
+window center
+worm counter : 507
+hunt
+hunt
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 508
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 509
+hunt
+hunt
+hunt
+window center
+worm counter : 510
+hunt
+hunt
+window center
+worm counter : 511
+hunt
+hunt
+hunt
+window center
+worm counter : 512
+hunt
+hunt
+hunt
+is logeout check
+window center
+worm counter : 513
+hunt
+hunt
+hunt
+window center
+worm counter : 514
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 515
+hunt
+hunt
+hunt
+window center
+worm counter : 516
+hunt
+hunt
+hunt
+window center
+worm counter : 517
+hunt
+hunt
+hunt
+window center
+worm counter : 518
+hunt
+hunt
+hunt
+window center
+worm counter : 519
+hunt
+hunt
+hunt
+window center
+worm counter : 520
+OPEN FISH CLICK SECURE
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify174 69 63
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify110 88 58
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+SECOND PAGE OF INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+FIRST PAGE OF INVENTORY
+hunt
+hunt
+hunt
+window center
+worm counter : 521
+hunt
+hunt
+hunt
+window center
+worm counter : 522
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 523
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 524
+hunt
+hunt
+window center
+worm counter : 525
+hunt
+hunt
+hunt
+window center
+worm counter : 526
+hunt
+hunt
+hunt
+window center
+worm counter : 527
+hunt
+hunt
+hunt
+window center
+worm counter : 528
+hunt
+hunt
+hunt
+window center
+worm counter : 529
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 530
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 531
+hunt
+hunt
+hunt
+window center
+worm counter : 532
+hunt
+hunt
+hunt
+window center
+worm counter : 533
+hunt
+hunt
+hunt
+window center
+worm counter : 534
+hunt
+hunt
+window center
+worm counter : 535
+hunt
+hunt
+hunt
+window center
+worm counter : 536
+hunt
+hunt
+hunt
+window center
+worm counter : 537
+hunt
+hunt
+hunt
+window center
+worm counter : 538
+hunt
+hunt
+hunt
+window center
+worm counter : 539
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 540
+OPEN FISH CLICK SECURE
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify174 69 63
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify110 88 58
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify100 99 103
+delete
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify117 90 58
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+SECOND PAGE OF INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+FIRST PAGE OF INVENTORY
+hunt
+hunt
+hunt
+window center
+worm counter : 541
+hunt
+hunt
+hunt
+window center
+worm counter : 542
+hunt
+hunt
+hunt
+window center
+worm counter : 543
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 544
+hunt
+hunt
+hunt
+window center
+worm counter : 545
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 546
+is logeout check
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 547
+hunt
+hunt
+hunt
+window center
+worm counter : 548
+hunt
+hunt
+hunt
+window center
+worm counter : 549
+hunt
+hunt
+hunt
+window center
+worm counter : 550
+hunt
+hunt
+hunt
+window center
+worm counter : 551
+hunt
+hunt
+hunt
+window center
+worm counter : 552
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 553
+hunt
+hunt
+hunt
+window center
+worm counter : 554
+hunt
+hunt
+hunt
+window center
+worm counter : 555
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 556
+hunt
+hunt
+hunt
+window center
+worm counter : 557
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 558
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 559
+hunt
+window center
+worm counter : 560
+OPEN FISH CLICK SECURE
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify174 69 63
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify117 90 58
+OPEN FISH IN INVENTORY
+classify110 88 58
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify117 90 58
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+SECOND PAGE OF INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+FIRST PAGE OF INVENTORY
+hunt
+hunt
+hunt
+window center
+worm counter : 561
+hunt
+hunt
+hunt
+window center
+worm counter : 562
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 563
+hunt
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 564
+hunt
+hunt
+window center
+worm counter : 565
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 566
+hunt
+hunt
+window center
+worm counter : 567
+hunt
+hunt
+hunt
+window center
+worm counter : 568
+hunt
+hunt
+hunt
+window center
+worm counter : 569
+hunt
+hunt
+hunt
+window center
+worm counter : 570
+hunt
+hunt
+hunt
+window center
+worm counter : 571
+hunt
+hunt
+window center
+worm counter : 572
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 573
+hunt
+hunt
+hunt
+window center
+worm counter : 574
+hunt
+hunt
+window center
+worm counter : 575
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 576
+hunt
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 577
+hunt
+hunt
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 578
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 579
+hunt
+is logeout check
+hunt
+hunt
+hunt
+window center
+worm counter : 580
+OPEN FISH CLICK SECURE
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify174 69 63
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify117 90 58
+OPEN FISH IN INVENTORY
+classify110 88 58
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify117 90 58
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+SECOND PAGE OF INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+FIRST PAGE OF INVENTORY
+hunt
+hunt
+hunt
+window center
+worm counter : 581
+hunt
+hunt
+hunt
+window center
+worm counter : 582
+hunt
+hunt
+window center
+worm counter : 583
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 584
+hunt
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 585
+hunt
+hunt
+hunt
+window center
+worm counter : 586
+hunt
+hunt
+hunt
+window center
+worm counter : 587
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 588
+hunt
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 589
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 590
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 591
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 592
+hunt
+hunt
+hunt
+window center
+worm counter : 593
+hunt
+hunt
+hunt
+window center
+worm counter : 594
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 595
+window center
+worm counter : 597
+hunt
+hunt
+hunt
+window center
+worm counter : 598
+hunt
+hunt
+hunt
+window center
+worm counter : 599
+hunt
+hunt
+hunt
+window center
+worm counter : 600
+OPEN FISH CLICK SECURE
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify174 69 63
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify117 90 58
+OPEN FISH IN INVENTORY
+classify110 88 58
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify117 90 58
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+SECOND PAGE OF INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+FIRST PAGE OF INVENTORY
+hunt
+hunt
+hunt
+window center
+worm counter : 601
+hunt
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 602
+hunt
+hunt
+hunt
+window center
+worm counter : 603
+hunt
+hunt
+hunt
+window center
+worm counter : 604
+hunt
+hunt
+hunt
+window center
+worm counter : 605
+hunt
+hunt
+hunt
+window center
+worm counter : 606
+hunt
+hunt
+hunt
+window center
+worm counter : 607
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 608
+hunt
+hunt
+hunt
+window center
+worm counter : 609
+hunt
+hunt
+hunt
+window center
+worm counter : 610
+hunt
+hunt
+hunt
+window center
+worm counter : 611
+hunt
+hunt
+hunt
+window center
+worm counter : 612
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 613
+hunt
+hunt
+hunt
+window center
+worm counter : 614
+hunt
+hunt
+hunt
+window center
+worm counter : 615
+hunt
+is logeout check
+hunt
+hunt
+window center
+worm counter : 616
+hunt
+hunt
+hunt
+window center
+worm counter : 617
+hunt
+hunt
+hunt
+window center
+worm counter : 618
+hunt
+hunt
+hunt
+window center
+worm counter : 619
+hunt
+hunt
+hunt
+window center
+worm counter : 620
+OPEN FISH CLICK SECURE
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify174 69 63
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify117 90 58
+OPEN FISH IN INVENTORY
+classify110 88 58
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify117 90 58
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify117 90 58
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify110 88 58
+OPEN FISH IN INVENTORY
+classify105 102 94
+delete
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+SECOND PAGE OF INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+FIRST PAGE OF INVENTORY
+hunt
+hunt
+window center
+worm counter : 621
+hunt
+hunt
+hunt
+window center
+worm counter : 622
+hunt
+hunt
+hunt
+window center
+worm counter : 623
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 624
+hunt
+hunt
+hunt
+window center
+worm counter : 625
+hunt
+hunt
+hunt
+window center
+worm counter : 626
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 627
+hunt
+hunt
+hunt
+window center
+worm counter : 628
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 629
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 630
+game main menu
+relog
+log_start
+open_inventory
+90 72 63
+inventory oppened
+hunt
+hunt
+window center
+worm counter : 631
+hunt
+hunt
+hunt
+window center
+worm counter : 632
+hunt
+hunt
+hunt
+window center
+worm counter : 633
+hunt
+hunt
+hunt
+window center
+worm counter : 634
+hunt
+hunt
+hunt
+window center
+worm counter : 635
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 636
+hunt
+hunt
+hunt
+window center
+worm counter : 637
+hunt
+hunt
+hunt
+window center
+worm counter : 638
+hunt
+hunt
+hunt
+window center
+worm counter : 639
+hunt
+hunt
+window center
+worm counter : 640
+OPEN FISH CLICK SECURE
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify174 69 63
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify76 75 43
+delete
+OPEN FISH IN INVENTORY
+classify110 88 58
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify110 88 58
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify117 90 58
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify117 90 58
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify110 88 58
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+SECOND PAGE OF INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+FIRST PAGE OF INVENTORY
+hunt
+hunt
+hunt
+window center
+worm counter : 641
+hunt
+hunt
+hunt
+window center
+worm counter : 642
+hunt
+hunt
+hunt
+window center
+worm counter : 643
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 644
+hunt
+hunt
+hunt
+window center
+worm counter : 645
+hunt
+hunt
+hunt
+window center
+worm counter : 646
+hunt
+hunt
+hunt
+window center
+worm counter : 647
+hunt
+hunt
+is logeout check
+hunt
+window center
+worm counter : 648
+hunt
+hunt
+hunt
+window center
+worm counter : 649
+hunt
+hunt
+hunt
+window center
+worm counter : 650
+hunt
+hunt
+hunt
+window center
+worm counter : 651
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 652
+hunt
+hunt
+hunt
+window center
+worm counter : 653
+hunt
+hunt
+hunt
+window center
+worm counter : 654
+hunt
+hunt
+hunt
+window center
+worm counter : 655
+hunt
+hunt
+hunt
+window center
+worm counter : 656
+hunt
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 657
+hunt
+hunt
+hunt
+window center
+worm counter : 658
+hunt
+hunt
+hunt
+window center
+worm counter : 659
+hunt
+hunt
+hunt
+window center
+worm counter : 660
+OPEN FISH CLICK SECURE
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify174 69 63
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify110 88 58
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify110 88 58
+OPEN FISH IN INVENTORY
+classify117 90 58
+OPEN FISH IN INVENTORY
+classify76 75 43
+delete
+OPEN FISH IN INVENTORY
+classify79 97 103
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify117 90 58
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify110 88 58
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+classify96 85 67
+OPEN FISH IN INVENTORY
+SECOND PAGE OF INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+classify96 84 67
+OPEN FISH IN INVENTORY
+FIRST PAGE OF INVENTORY
+hunt
+hunt
+hunt
+window center
+worm counter : 661
+hunt
+hunt
+hunt
+window center
+worm counter : 662
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 663
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 664
+hunt
+hunt
+window center
+worm counter : 665
+hunt
+hunt
+window center
+worm counter : 666
+hunt
+hunt
+hunt
+window center
+worm counter : 667
+hunt
+hunt
+hunt
+window center
+worm counter : 668
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 669
+hunt
+hunt
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 670
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 671
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 672
+hunt
+hunt
+hunt
+window center
+worm counter : 673
+hunt
+hunt
+hunt
+window center
+worm counter : 674
+hunt
+hunt
+hunt
+window center
+worm counter : 675
+hunt
+hunt
+hunt

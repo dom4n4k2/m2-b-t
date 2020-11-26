@@ -29,9 +29,6 @@ def image_colors(x_up,y_up, width, height):
     #im.show()
     colors = im.convert("RGB")
     na = np.array(colors)
-    print(x_up)
-    print(y_up)
-    print(height)
     colours, counts = np.unique(na.reshape(-1, 3), axis=0, return_counts=1)
     length = len(colours)
     i = 0
@@ -49,7 +46,7 @@ def image_colors(x_up,y_up, width, height):
     sum_c3 = sum_c3 / length
 
     return sum_c1, sum_c2, sum_c3
-
+'''
 counter = 0
 while True:
     #image = pyautogui.screenshot(region=(scale_x(data_struct['logout_v1']), scale_y(data_struct['logout_v2']), 416, 6))
@@ -60,3 +57,7 @@ while True:
     cv2.imwrite("test_pictures\\in_memory_to_disk_" + str(counter)+ " .png", frame_ever)
     time.sleep(0.25)
     counter = counter +1
+'''
+
+c1, c2, c3 = image_colors(1870, 584, 30, 30)
+print( int(c1), int(c2), int(c3))

@@ -30,10 +30,10 @@ def scale_y(input):
 
 x_start_1 = scale_x(data_struct['x_start_1'])
 y_start_1 = scale_y(data_struct['y_start_1'])
-sleep_time = 0.200
+sleep_time = 0.2
 jump_pixels = 32
 pydirectinput.rightClick(1761,965)
-time.sleep(1)
+time.sleep(2)
 time.sleep(sleep_time)
 pydirectinput.press(['s','k','l','e','p'])
 time.sleep(sleep_time)
@@ -49,26 +49,8 @@ for y in range(8):
         time.sleep(sleep_time)
         pydirectinput.click()
         time.sleep(sleep_time)
-        print('x : ' + str(x))
-        print('y : ' + str(y))
-        if((y<1) and (y >=0)):
-            pydirectinput.press(['2','6','0','0','0','0','0','0',])
-        if((y<2) and (y >=1)):
-            pydirectinput.press(['9','0','0','0','0','0','0',])
-        if((y<3) and (y >=2)):
-            pydirectinput.press(['9','0','0','0','0','0','0',])
-        if((y<4) and (y >=3)):
-            pydirectinput.press(['1','0','0','0','0','0','0','0',])
-        if((y<5) and (y >=4)):
-            pydirectinput.press(['2','9','0','0','0','0','0'])
-        if((y<6) and (y >=5)):
-            pydirectinput.press(['4','4','0','0','0','0','0'])
-        if((y<7) and (y >=6)):
-            pydirectinput.press(['1','2','0','0','0','0','0'])
-        if((y<8) and (y >=7)):
-            pydirectinput.press(['2','4','0','0','0','0','0'])
-        time.sleep(sleep_time)
-        time.sleep(sleep_time)
+        #spydirectinput.press(['1','2','5','0','0','0','0'])
+        pydirectinput.press([ '2', '5', '2', '2', '2', '2'])
         time.sleep(sleep_time)
         pydirectinput.click(927,585)
 
