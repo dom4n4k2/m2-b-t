@@ -121,81 +121,81 @@ def item_classify(c1, c2, c3):
     print("classify" + str(c1) +' '+  str(c2) + ' ' +str(c3))
 
 
-    avg_c1_zr = 305
-    avg_c2_zr = 227
-    avg_c3_zr = 77
+    avg_c1_zr = 309
+    avg_c2_zr = 222
+    avg_c3_zr = 71
 
-    if((c1 > (avg_c1_zr-3)) and (c1< (avg_c1_zr+3)) and (c2 > (avg_c2_zr-3)) and (c2< (avg_c2_zr+3)) and (c3 > (avg_c3_zr-3)) and (c3< (avg_c3_zr+3))):
+    if((c1 > (avg_c1_zr-4)) and (c1< (avg_c1_zr+4)) and (c2 > (avg_c2_zr-4)) and (c2< (avg_c2_zr+4)) and (c3 > (avg_c3_zr-4)) and (c3< (avg_c3_zr+4))):
         return 'zlota_ruda', None
 
     avg_c1_bf = 229
     avg_c2_bf = 226
     avg_c3_bf = 218
 
-    if((c1 > (avg_c1_bf-3)) and (c1< (avg_c1_bf+3)) and (c2 > (avg_c2_bf-3)) and (c2< (avg_c2_bf+3)) and (c3 > (avg_c3_bf-3)) and (c3< (avg_c3_bf+3))):
+    if((c1 > (avg_c1_bf-4)) and (c1< (avg_c1_bf+4)) and (c2 > (avg_c2_bf-4)) and (c2< (avg_c2_bf+4)) and (c3 > (avg_c3_bf-4)) and (c3< (avg_c3_bf+4))):
         return 'biala_farba', 'delete'
 
     avg_c1_jcf = 171
     avg_c2_jcf = 67
     avg_c3_jcf = 62
 
-    if((c1 > (avg_c1_jcf-3)) and (c1< (avg_c1_jcf+3)) and (c2 > (avg_c2_jcf-3)) and (c2< (avg_c2_jcf+3)) and (c3 > (avg_c3_jcf-3)) and (c3< (avg_c3_jcf+3))):
+    if((c1 > (avg_c1_jcf-4)) and (c1< (avg_c1_jcf+4)) and (c2 > (avg_c2_jcf-4)) and (c2< (avg_c2_jcf+4)) and (c3 > (avg_c3_jcf-4)) and (c3< (avg_c3_jcf+4))):
         return 'jasno_czerwona_farba', 'delete'
 
     avg_c1_zf = 159
     avg_c2_zf = 147
     avg_c3_zf = 66
 
-    if((c1 > (avg_c1_zf-3)) and (c1< (avg_c1_zf+3)) and (c2 > (avg_c2_zf-3)) and (c2< (avg_c2_zf+3)) and (c3 > (avg_c3_zf-3)) and (c3< (avg_c3_zf+3))):
+    if((c1 > (avg_c1_zf-4)) and (c1< (avg_c1_zf+4)) and (c2 > (avg_c2_zf-4)) and (c2< (avg_c2_zf+4)) and (c3 > (avg_c3_zf-4)) and (c3< (avg_c3_zf+4))):
         return 'zolta_farba', 'delete'
 
     avg_c1_ccf = 154
     avg_c2_ccf = 93
     avg_c3_ccf = 74
 
-    if((c1 > (avg_c1_ccf-3)) and (c1< (avg_c1_ccf+3)) and (c2 > (avg_c2_ccf-3)) and (c2< (avg_c2_ccf+3)) and (c3 > (avg_c3_ccf-3)) and (c3< (avg_c3_ccf+3))):
+    if((c1 > (avg_c1_ccf-4)) and (c1< (avg_c1_ccf+4)) and (c2 > (avg_c2_ccf-4)) and (c2< (avg_c2_ccf+4)) and (c3 > (avg_c3_ccf-4)) and (c3< (avg_c3_ccf+4))):
         return 'ciemno_czerwona_farba', 'delete'
 
     avg_c1_zk = 147
     avg_c2_zk = 111
     avg_c3_zk = 51
 
-    if((c1 > (avg_c1_zk-3)) and (c1< (avg_c1_zk+3)) and (c2 > (avg_c2_zk-3)) and (c2< (avg_c2_zk+3)) and (c3 > (avg_c3_zk-3)) and (c3< (avg_c3_zk+3))):
+    if((c1 > (avg_c1_zk-4)) and (c1< (avg_c1_zk+4)) and (c2 > (avg_c2_zk-4)) and (c2< (avg_c2_zk+4)) and (c3 > (avg_c3_zk-4)) and (c3< (avg_c3_zk+4))):
         return 'zloty_klucz', 'delete'
 
     avg_c1_pl = 121
     avg_c2_pl = 117
     avg_c3_pl = 76
 
-    if((c1 > (avg_c1_pl-3)) and (c1< (avg_c1_pl+3)) and (c2 > (avg_c2_pl-3)) and (c2< (avg_c2_pl+3)) and (c3 > (avg_c3_pl-3)) and (c3< (avg_c3_pl+3))):
+    if((c1 > (avg_c1_pl-4)) and (c1< (avg_c1_pl+4)) and (c2 > (avg_c2_pl-4)) and (c2< (avg_c2_pl+4)) and (c3 > (avg_c3_pl-4)) and (c3< (avg_c3_pl+4))):
         return 'pierscien_lucy', 'delete'
 
     avg_c1_sk = 118
     avg_c2_sk = 92
     avg_c3_sk = 59
 
-    if((c1 > (avg_c1_sk-3)) and (c1< (avg_c1_sk+3)) and (c2 > (avg_c2_sk-3)) and (c2< (avg_c2_sk+3)) and (c3 > (avg_c3_sk-3)) and (c3< (avg_c3_sk+3))):
+    if((c1 > (avg_c1_sk-4)) and (c1< (avg_c1_sk+4)) and (c2 > (avg_c2_sk-4)) and (c2< (avg_c2_sk+4)) and (c3 > (avg_c3_sk-4)) and (c3< (avg_c3_sk+4))):
         return 'symbol_krola', None
 
     avg_c1_zp = 110
     avg_c2_zp = 89
     avg_c3_zp = 59
 
-    if((c1 > (avg_c1_zp-3)) and (c1< (avg_c1_zp+3)) and (c2 > (avg_c2_zp-3)) and (c2< (avg_c2_zp+3)) and (c3 > (avg_c3_zp-3)) and (c3< (avg_c3_zp+3))):
+    if((c1 > (avg_c1_zp-4)) and (c1< (avg_c1_zp+4)) and (c2 > (avg_c2_zp-4)) and (c2< (avg_c2_zp+4)) and (c3 > (avg_c3_zp-4)) and (c3< (avg_c3_zp+4))):
         return 'zloty_pierscien', None
 
     avg_c1_cf = 105
     avg_c2_cf = 103
     avg_c3_cf = 95
 
-    if((c1 > (avg_c1_cf-3)) and (c1< (avg_c1_cf+3)) and (c2 > (avg_c2_cf-3)) and (c2< (avg_c2_cf+3)) and (c3 > (avg_c3_cf-3)) and (c3< (avg_c3_cf+3))):
+    if((c1 > (avg_c1_cf-4)) and (c1< (avg_c1_cf+4)) and (c2 > (avg_c2_cf-4)) and (c2< (avg_c2_cf+4)) and (c3 > (avg_c3_cf-4)) and (c3< (avg_c3_cf+4))):
         return 'czarna_farba', 'delete'
 
     avg_c1_skl = 100
     avg_c2_skl = 99
     avg_c3_skl = 104
 
-    if((c1 > (avg_c1_skl-3)) and (c1< (avg_c1_skl+3)) and (c2 > (avg_c2_skl-3)) and (c2< (avg_c2_skl+3)) and (c3 > (avg_c3_skl-3)) and (c3< (avg_c3_skl+3))):
+    if((c1 > (avg_c1_skl-4)) and (c1< (avg_c1_skl+4)) and (c2 > (avg_c2_skl-4)) and (c2< (avg_c2_skl+4)) and (c3 > (avg_c3_skl-4)) and (c3< (avg_c3_skl+4))):
         return 'srebny_klucz', 'delete'
 
     avg_c1_pustka = 97
@@ -219,16 +219,25 @@ def item_classify(c1, c2, c3):
     avg_c2_rkr = 75
     avg_c3_rkr = 44
 
-    if((c1 > (avg_c1_rkr-3)) and (c1< (avg_c1_rkr+3)) and (c2 > (avg_c2_rkr-3)) and (c2< (avg_c2_rkr+3)) and (c3 > (avg_c3_rkr-3)) and (c3< (avg_c3_rkr+3))):
+    if((c1 > (avg_c1_rkr-4)) and (c1< (avg_c1_rkr+4)) and (c2 > (avg_c2_rkr-4)) and (c2< (avg_c2_rkr+4)) and (c3 > (avg_c3_rkr-4)) and (c3< (avg_c3_rkr+4))):
         return 'rekawica_krola', 'delete'
+
+    avg_c1_wybielacz = 110
+    avg_c2_wybielacz = 99
+    avg_c3_wybielacz = 72
+
+    if ((c1 > (avg_c1_wybielacz - 4)) and (c1 < (avg_c1_wybielacz + 4)) and (c2 > (avg_c2_wybielacz - 4)) and (
+            c2 < (avg_c2_wybielacz + 4)) and (c3 > (avg_c3_wybielacz - 4)) and (c3 < (avg_c3_wybielacz + 4))):
+        return 'wubielacz', 'delete'
 
 
     avg_c1_peleryna = 61
     avg_c2_peleryna = 60
     avg_c3_peleryna = 59
 
-    if((c1 > (avg_c1_peleryna-3)) and (c1< (avg_c1_peleryna+3)) and (c2 > (avg_c2_peleryna-3)) and (c2< (avg_c2_peleryna+3)) and (c3 > (avg_c3_peleryna-3)) and (c3< (avg_c3_peleryna+3))):
+    if((c1 > (avg_c1_peleryna-4)) and (c1< (avg_c1_peleryna+4)) and (c2 > (avg_c2_peleryna-4)) and (c2< (avg_c2_peleryna+4)) and (c3 > (avg_c3_peleryna-4)) and (c3< (avg_c3_peleryna+4))):
         return 'peleryna', 'delete'
+
     else:
         return 'not_cassified', None
 
@@ -237,6 +246,11 @@ def restart_sequence(worm_counter, worm_counter_time):
     pydirectinput.click(scale_x(data_struct['screen_1_click_x']), scale_y(data_struct['screen_1_click_y']))
     time.sleep(0.25)
     print("worm counter : " + str(worm_counter))
+
+    if ((worm_counter % 10 == 0) & (worm_counter > 1)):
+        time.sleep(0.25)
+        pydirectinput.click(scale_x(data_struct['open_fish_x']), scale_y(data_struct['open_fish_y']))
+        time.sleep(0.25)
 
     if ((worm_counter % 210 == 0) & (worm_counter > 1)):
     #if ((worm_counter % 210 == 0)):
@@ -296,13 +310,13 @@ def restart_sequence(worm_counter, worm_counter_time):
                 time.sleep(5)
 
 
-    if((worm_counter % 20 == 0) & (worm_counter > 1)):
+    #if((worm_counter % 50 == 0) & (worm_counter > 1)):
+    if (worm_counter % 50 == 0):
         x_start_1 = scale_x(data_struct['x_start_1'])
         y_start_1 = scale_y(data_struct['y_start_1'])
         x_start_2 = scale_x(data_struct['x_start_1'])
         y_start_2 = scale_y(data_struct['y_start_2'])
         jump_pixels = 32
-        pydirectinput.click(scale_x(data_struct['open_fish_x']), scale_y(data_struct['open_fish_y']))
         print("OPEN FISH CLICK SECURE")
         for y in range(5):
             for x in range(5):
@@ -406,8 +420,9 @@ def save_picture(x_start_detection, y_start_detection, detection_field, picture_
     #print(c1, c2, c3)
     #print("in_memory_to_disk_" + str(picture_take_counter) + " .png")
     #print(str(picture_take_counter) + "    :" + str(sum_c1) + " " + str(sum_c2) + " " + str(sum_c3) )
-    cv2.imwrite("test_pictures\\"+str(item_classify_picture_name)+'_'+ str(picture_take_counter) + "_" + str(sum_c1) + "_" + str(sum_c2) + "_" + str(sum_c3) +" .png", frame_ever)
-    f.write(str(picture_take_counter) + "     " + str(item_classify_picture_name)+ " " + str(sum_c1) + " " + str(sum_c2) + " " + str(sum_c3) + '\n')
+    if(item_classify_picture_name != 'puste'):
+        cv2.imwrite("test_pictures\\"+str(item_classify_picture_name)+'_'+ str(picture_take_counter) + "_" + str(sum_c1) + "_" + str(sum_c2) + "_" + str(sum_c3) +" .png", frame_ever)
+        f.write(str(picture_take_counter) + "     " + str(item_classify_picture_name)+ " " + str(sum_c1) + " " + str(sum_c2) + " " + str(sum_c3) + '\n')
     time.sleep(0.5)
     f.close()
 
