@@ -118,9 +118,6 @@ def delete_item(x_start_detection, y_start_detection, detection_field):
 
 def item_classify(c1, c2, c3):
 
-    print("classify" + str(c1) +' '+  str(c2) + ' ' +str(c3))
-
-
     avg_c1_zr = 309
     avg_c2_zr = 222
     avg_c3_zr = 71
@@ -202,16 +199,16 @@ def item_classify(c1, c2, c3):
     avg_c2_pustka = 85
     avg_c3_pustka = 67
 
-    if ((c1 > (avg_c1_pustka - 5)) and (c1 < (avg_c1_pustka + 5)) and (c2 > (avg_c2_pustka - 5)) and (
-            c2 < (avg_c2_pustka + 5)) and (c3 > (avg_c3_pustka - 5)) and (c3 < (avg_c3_pustka + 5))):
+    if ((c1 > (avg_c1_pustka - 3)) and (c1 < (avg_c1_pustka + 3)) and (c2 > (avg_c2_pustka - 3)) and (
+            c2 < (avg_c2_pustka + 3)) and (c3 > (avg_c3_pustka - 3)) and (c3 < (avg_c3_pustka + 3))):
         return 'puste', None
 
     avg_c1_nimfa = 79
     avg_c2_nimfa = 97
     avg_c3_nimfa = 104
 
-    if ((c1 > (avg_c1_nimfa - 5)) and (c1 < (avg_c1_nimfa + 5)) and (c2 > (avg_c2_nimfa - 5)) and (
-            c2 < (avg_c2_nimfa + 5)) and (c3 > (avg_c3_nimfa - 5)) and (c3 < (avg_c3_nimfa + 5))):
+    if ((c1 > (avg_c1_nimfa - 3)) and (c1 < (avg_c1_nimfa + 3)) and (c2 > (avg_c2_nimfa - 3)) and (
+            c2 < (avg_c2_nimfa + 3)) and (c3 > (avg_c3_nimfa - 3)) and (c3 < (avg_c3_nimfa + 3))):
         return 'klucz_nimfy', None
 
 
@@ -228,7 +225,8 @@ def item_classify(c1, c2, c3):
 
     if ((c1 > (avg_c1_wybielacz - 4)) and (c1 < (avg_c1_wybielacz + 4)) and (c2 > (avg_c2_wybielacz - 4)) and (
             c2 < (avg_c2_wybielacz + 4)) and (c3 > (avg_c3_wybielacz - 4)) and (c3 < (avg_c3_wybielacz + 4))):
-        return 'wubielacz', 'delete'
+        return 'wybielacz', 'delete'
+
 
 
     avg_c1_peleryna = 61
@@ -310,8 +308,8 @@ def restart_sequence(worm_counter, worm_counter_time):
                 time.sleep(5)
 
 
-    #if((worm_counter % 50 == 0) & (worm_counter > 1)):
-    if (worm_counter % 50 == 0):
+    if((worm_counter % 50 == 0) & (worm_counter > 1)):
+    #if (worm_counter % 50 == 0):
         x_start_1 = scale_x(data_struct['x_start_1'])
         y_start_1 = scale_y(data_struct['y_start_1'])
         x_start_2 = scale_x(data_struct['x_start_1'])
@@ -321,30 +319,46 @@ def restart_sequence(worm_counter, worm_counter_time):
         for y in range(5):
             for x in range(5):
                 #print("x " + str(x) + " y " + str(y))
-                pydirectinput.doubleClick(x_start_1 + x * jump_pixels + up_x, y_start_1 + y * jump_pixels + up_y)
+                pydirectinput.moveTo(x_start_1 + x * jump_pixels + up_x, y_start_1 + y * jump_pixels + up_y)
                 time.sleep(0.5)
-                save_picture(x_start_1 + x * jump_pixels + up_x - 13,
-                             y_start_1 + y * jump_pixels + up_y - 13, 26, worm_counter)
+                to_open = save_picture(x_start_1 + x * jump_pixels + up_x - 13,
+                             y_start_1 + y * jump_pixels + up_y - 13, 26, worm_counter, 'var')
+
+                #if(to_open != 'delete'):
+                pydirectinput.doubleClick(x_start_1 + x * jump_pixels + up_x, y_start_1 + y * jump_pixels + up_y)
+                #time.sleep(0.5)
+                #save_picture(x_start_1 + x * jump_pixels + up_x - 13,
+                #             y_start_1 + y * jump_pixels + up_y - 13, 26, worm_counter)
                 print("OPEN FISH IN INVENTORY")
-                time.sleep(0.25)
         #second page
         pydirectinput.click(scale_x(data_struct['second_page_x']), scale_y(data_struct['second_page_y']))
+        pydirectinput.click(scale_x(data_struct['second_page_x']), scale_y(data_struct['second_page_y']))
+        pydirectinput.moveTo(x_start_2, y_start_2)
+        pydirectinput.moveTo(x_start_2, y_start_2)
         print("SECOND PAGE OF INVENTORY")
         time.sleep(0.25)
         for y in range(6):
             for x in range(5):
                 #print("x " + str(x) + " y " + str(y))
-                pydirectinput.doubleClick(x_start_2 + x * jump_pixels + up_x, y_start_2 + y * jump_pixels + up_y)
+                pydirectinput.moveTo(x_start_2 + x * jump_pixels + up_x, y_start_2 + y * jump_pixels + up_y)
                 time.sleep(0.5)
-                save_picture(x_start_2 + x * jump_pixels + up_x - 13,
+                to_open = save_picture(x_start_2 + x * jump_pixels + up_x - 13,
                              y_start_2 + y * jump_pixels + up_y - 13, 26, worm_counter)
+                if(to_open != 'delete'):
+                    pydirectinput.doubleClick(x_start_2 + x * jump_pixels + up_x, y_start_2 + y * jump_pixels + up_y)
+                #time.sleep(0.5)
+                #save_picture(x_start_2 + x * jump_pixels + up_x - 13,
+                #             y_start_2 + y * jump_pixels + up_y - 13, 26, worm_counter)
                 print("OPEN FISH IN INVENTORY")
-                time.sleep(0.25)
+
         #go back to the first page
+        pydirectinput.click(scale_x(data_struct['first_page_x']), scale_y(data_struct['first_page_y']))
         pydirectinput.click(scale_x(data_struct['first_page_x']), scale_y(data_struct['first_page_y']))
         print("FIRST PAGE OF INVENTORY")
         time.sleep(0.25)
         pydirectinput.doubleClick(1850,637)
+        time.sleep(0.25)
+        pydirectinput.doubleClick(1850, 637)
 
     if(worm_counter <= 195):
         pydirectinput.press('1')
@@ -391,7 +405,7 @@ def restart_sequence(worm_counter, worm_counter_time):
 
     return worm_counter, worm_counter_time
 
-def save_picture(x_start_detection, y_start_detection, detection_field, picture_take_counter):
+def save_picture(x_start_detection, y_start_detection, detection_field, picture_take_counter, *args):
     f = open("test_pictures\\log.txt", "a")
     image = pyautogui.screenshot(region=(x_start_detection, y_start_detection, detection_field, detection_field))
     frame_ever = cv2.cvtColor(np.array(image), cv2.COLOR_RGB2BGR)
@@ -415,16 +429,23 @@ def save_picture(x_start_detection, y_start_detection, detection_field, picture_
 
     item_classify_picture_name, to_do_command = item_classify(sum_c1, sum_c2, sum_c3)
 
-    if(to_do_command == 'delete'):
+    print("classified as : " + str(item_classify_picture_name) + "     with c1 = " +  str(sum_c1) + " and c2 = " +  str(sum_c2)+ " and c3 = " + str(sum_c3))
+    #if deleted due to debug
+    #if((item_classify_picture_name != 'puste') and (to_do_command == 'delete')):
+    cv2.imwrite("test_pictures\\"+str(item_classify_picture_name)+'_'+ str(picture_take_counter) + "_" + str(sum_c1) + "_" + str(sum_c2) + "_" + str(sum_c3) +" .png", frame_ever)
+    f.write(str(picture_take_counter) + "     " + str(item_classify_picture_name)+ " " + str(sum_c1) + " " + str(sum_c2) + " " + str(sum_c3) + '\n')
+    to_open = None
+    if((to_do_command == 'delete') and (len(args) == 0)) :
         delete_item(x_start_detection, y_start_detection, detection_field)
+        to_open = 'delete'
+    if((item_classify_picture_name == 'puste') or (item_classify_picture_name == 'symbol_krola')):
+        to_open = 'delete'
     #print(c1, c2, c3)
     #print("in_memory_to_disk_" + str(picture_take_counter) + " .png")
     #print(str(picture_take_counter) + "    :" + str(sum_c1) + " " + str(sum_c2) + " " + str(sum_c3) )
-    if(item_classify_picture_name != 'puste'):
-        cv2.imwrite("test_pictures\\"+str(item_classify_picture_name)+'_'+ str(picture_take_counter) + "_" + str(sum_c1) + "_" + str(sum_c2) + "_" + str(sum_c3) +" .png", frame_ever)
-        f.write(str(picture_take_counter) + "     " + str(item_classify_picture_name)+ " " + str(sum_c1) + " " + str(sum_c2) + " " + str(sum_c3) + '\n')
     time.sleep(0.5)
     f.close()
+    return to_open
 
 
 
@@ -563,6 +584,7 @@ while True:
         fishing_itself_last_recognise = actual_time()
         fishing_itself_last_recognise = actual_time()
 
+
     if((fishing_itself_last_recognise - worm_counter_time_after) < -300000):
         clock_time = update_time()
         print('TASK KILL :' + str(clock_time))
@@ -597,7 +619,7 @@ while True:
 
 
 
-    if(image_log_counter > 10000):
+    if(image_log_counter > 5000):
         print("is logeout check")
         c1, c2, c3 = image_colors(scale_x(data_struct['logout_v1']), scale_y(data_struct['logout_v2']), 416, 6)
         if ((c1 < data_struct['login_c1_min']) or (c1 > data_struct['login_c1_max'])) & \

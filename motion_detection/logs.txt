@@ -1,121 +1,8 @@
 [ WARN:0] global C:\Users\appveyor\AppData\Local\Temp\1\pip-req-build-wwma2wne\opencv\modules\videoio\src\cap_msmf.cpp (435) `anonymous-namespace'::SourceReaderCB::~SourceReaderCB terminating async callback
 window center
 worm counter : 0
-OPEN FISH CLICK SECURE
-classify79 97 103
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify79 97 103
-OPEN FISH IN INVENTORY
-classify117 90 58
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify79 97 103
-OPEN FISH IN INVENTORY
-classify117 90 58
-OPEN FISH IN INVENTORY
-classify117 90 58
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify79 97 103
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify110 99 72
-delete
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify110 99 72
-delete
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-SECOND PAGE OF INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-FIRST PAGE OF INVENTORY
+hunt
+hunt
 window center
 worm counter : 1
 hunt
@@ -126,14 +13,17 @@ worm counter : 2
 hunt
 hunt
 hunt
+hunt
+hunt
 window center
 worm counter : 3
 hunt
 hunt
 hunt
-hunt
 window center
 worm counter : 4
+hunt
+hunt
 hunt
 hunt
 hunt
@@ -153,17 +43,20 @@ worm counter : 7
 hunt
 hunt
 hunt
-hunt
 window center
 worm counter : 8
+hunt
 hunt
 hunt
 hunt
 window center
 worm counter : 9
 hunt
+hunt
+hunt
 window center
 worm counter : 10
+hunt
 hunt
 hunt
 hunt
@@ -177,20 +70,19 @@ worm counter : 12
 hunt
 hunt
 hunt
-hunt
 window center
 worm counter : 13
 hunt
 hunt
 hunt
+hunt
+hunt
 window center
 worm counter : 14
-hunt
-hunt
-hunt
 window center
 worm counter : 15
 hunt
+is logeout check
 hunt
 hunt
 window center
@@ -201,6 +93,7 @@ hunt
 hunt
 window center
 worm counter : 17
+hunt
 hunt
 hunt
 hunt
@@ -217,18 +110,21 @@ hunt
 window center
 worm counter : 20
 hunt
+hunt
+hunt
 window center
 worm counter : 21
+hunt
 hunt
 hunt
 hunt
 window center
 worm counter : 22
 hunt
-hunt
-hunt
 window center
 worm counter : 23
+hunt
+hunt
 hunt
 hunt
 hunt
@@ -242,9 +138,10 @@ worm counter : 25
 hunt
 hunt
 hunt
+hunt
+hunt
 window center
 worm counter : 26
-hunt
 hunt
 hunt
 hunt
@@ -254,13 +151,14 @@ worm counter : 27
 hunt
 hunt
 hunt
+hunt
 window center
 worm counter : 28
 hunt
 hunt
 hunt
-hunt
 is logeout check
+hunt
 window center
 worm counter : 29
 hunt
@@ -297,8 +195,11 @@ worm counter : 35
 hunt
 hunt
 hunt
+hunt
 window center
 worm counter : 36
+hunt
+hunt
 hunt
 hunt
 hunt
@@ -309,9 +210,6 @@ hunt
 hunt
 window center
 worm counter : 38
-hunt
-hunt
-hunt
 hunt
 hunt
 window center
@@ -325,23 +223,22 @@ worm counter : 40
 hunt
 hunt
 hunt
+hunt
 window center
 worm counter : 41
-hunt
-hunt
 hunt
 window center
 worm counter : 42
 hunt
 hunt
-hunt
 window center
 worm counter : 43
 hunt
-hunt
+is logeout check
 hunt
 window center
 worm counter : 44
+hunt
 hunt
 hunt
 hunt
@@ -349,9 +246,9 @@ window center
 worm counter : 45
 hunt
 hunt
+hunt
 window center
 worm counter : 46
-hunt
 hunt
 hunt
 hunt
@@ -360,9 +257,9 @@ worm counter : 47
 hunt
 hunt
 hunt
+hunt
 window center
 worm counter : 48
-hunt
 hunt
 hunt
 hunt
@@ -375,122 +272,119 @@ hunt
 window center
 worm counter : 50
 OPEN FISH CLICK SECURE
-classify79 97 103
+classified as : not_cassified     with c1 = 95 and c2 = 85 and c3 = 61
 OPEN FISH IN INVENTORY
-classify96 85 67
+classified as : not_cassified     with c1 = 95 and c2 = 85 and c3 = 61
 OPEN FISH IN INVENTORY
-classify96 85 67
+classified as : zloty_pierscien     with c1 = 110 and c2 = 88 and c3 = 58
 OPEN FISH IN INVENTORY
-classify96 85 67
+classified as : not_cassified     with c1 = 102 and c2 = 82 and c3 = 77
 OPEN FISH IN INVENTORY
-classify100 99 103
+classified as : peleryna     with c1 = 61 and c2 = 60 and c3 = 59
 delete
 OPEN FISH IN INVENTORY
-classify79 97 103
+classified as : not_cassified     with c1 = 86 and c2 = 73 and c3 = 49
 OPEN FISH IN INVENTORY
-classify117 90 58
+classified as : not_cassified     with c1 = 163 and c2 = 119 and c3 = 71
 OPEN FISH IN INVENTORY
-classify100 99 103
-delete
+classified as : not_cassified     with c1 = 124 and c2 = 122 and c3 = 92
 OPEN FISH IN INVENTORY
-classify96 85 67
+classified as : not_cassified     with c1 = 93 and c2 = 86 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 85 67
+classified as : not_cassified     with c1 = 100 and c2 = 79 and c3 = 61
 OPEN FISH IN INVENTORY
-classify79 97 103
+classified as : not_cassified     with c1 = 96 and c2 = 97 and c3 = 75
 OPEN FISH IN INVENTORY
-classify117 90 58
+classified as : not_cassified     with c1 = 95 and c2 = 85 and c3 = 61
 OPEN FISH IN INVENTORY
-classify117 90 58
+classified as : not_cassified     with c1 = 93 and c2 = 76 and c3 = 61
 OPEN FISH IN INVENTORY
-classify96 85 67
+classified as : not_cassified     with c1 = 95 and c2 = 85 and c3 = 61
 OPEN FISH IN INVENTORY
-classify96 85 67
+classified as : not_cassified     with c1 = 96 and c2 = 97 and c3 = 75
 OPEN FISH IN INVENTORY
-classify79 97 103
+classified as : klucz_nimfy     with c1 = 79 and c2 = 97 and c3 = 103
 OPEN FISH IN INVENTORY
-classify96 85 67
+classified as : not_cassified     with c1 = 96 and c2 = 97 and c3 = 75
 OPEN FISH IN INVENTORY
-classify96 85 67
+classified as : not_cassified     with c1 = 102 and c2 = 82 and c3 = 77
 OPEN FISH IN INVENTORY
-classify117 90 58
+classified as : puste     with c1 = 96 and c2 = 85 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 85 67
+classified as : puste     with c1 = 96 and c2 = 85 and c3 = 67
 OPEN FISH IN INVENTORY
-classify100 99 103
-delete
+classified as : puste     with c1 = 96 and c2 = 85 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 85 67
+classified as : puste     with c1 = 96 and c2 = 85 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 85 67
+classified as : puste     with c1 = 96 and c2 = 85 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 85 67
+classified as : puste     with c1 = 96 and c2 = 85 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 85 67
+classified as : puste     with c1 = 96 and c2 = 85 and c3 = 67
 OPEN FISH IN INVENTORY
 SECOND PAGE OF INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
 FIRST PAGE OF INVENTORY
-hunt
 hunt
 hunt
 window center
@@ -503,18 +397,18 @@ worm counter : 52
 hunt
 hunt
 hunt
-hunt
 window center
 worm counter : 53
+hunt
 hunt
 hunt
 window center
 worm counter : 54
 hunt
 hunt
+hunt
 window center
 worm counter : 55
-hunt
 hunt
 hunt
 hunt
@@ -523,25 +417,19 @@ worm counter : 56
 hunt
 hunt
 hunt
-hunt
-hunt
-hunt
 window center
 worm counter : 57
 hunt
 hunt
-hunt
 is logeout check
-hunt
-hunt
 hunt
 window center
 worm counter : 58
 hunt
 hunt
+hunt
 window center
 worm counter : 59
-hunt
 hunt
 hunt
 hunt
@@ -555,17 +443,14 @@ worm counter : 61
 hunt
 hunt
 hunt
-hunt
-hunt
 window center
 worm counter : 62
 hunt
 hunt
 hunt
-hunt
-hunt
 window center
 worm counter : 63
+hunt
 hunt
 hunt
 hunt
@@ -576,8 +461,13 @@ hunt
 hunt
 window center
 worm counter : 65
+hunt
+hunt
+hunt
+hunt
 window center
 worm counter : 66
+hunt
 hunt
 hunt
 hunt
@@ -588,14 +478,17 @@ hunt
 hunt
 window center
 worm counter : 68
+hunt
+hunt
+hunt
+hunt
 window center
 worm counter : 69
 hunt
 hunt
-hunt
-hunt
 window center
 worm counter : 70
+hunt
 hunt
 hunt
 hunt
@@ -612,15 +505,18 @@ hunt
 hunt
 window center
 worm counter : 73
+is logeout check
+hunt
+hunt
 hunt
 window center
 worm counter : 74
 hunt
 hunt
 hunt
-hunt
 window center
 worm counter : 75
+hunt
 hunt
 hunt
 hunt
@@ -638,17 +534,13 @@ window center
 worm counter : 78
 hunt
 hunt
-hunt
-hunt
 window center
 worm counter : 79
 hunt
 hunt
 hunt
-hunt
 window center
 worm counter : 80
-hunt
 hunt
 hunt
 hunt
@@ -663,8 +555,11 @@ worm counter : 82
 hunt
 hunt
 hunt
+hunt
 window center
 worm counter : 83
+hunt
+hunt
 hunt
 hunt
 hunt
@@ -682,13 +577,14 @@ window center
 worm counter : 86
 hunt
 hunt
-hunt
 window center
 worm counter : 87
+hunt
+hunt
+is logeout check
 window center
 worm counter : 88
 hunt
-is logeout check
 hunt
 hunt
 window center
@@ -698,11 +594,11 @@ hunt
 hunt
 window center
 worm counter : 90
+hunt
+hunt
+hunt
 window center
 worm counter : 91
-hunt
-hunt
-hunt
 window center
 worm counter : 92
 hunt
@@ -715,7 +611,6 @@ hunt
 hunt
 window center
 worm counter : 94
-hunt
 window center
 worm counter : 95
 hunt
@@ -725,6 +620,9 @@ window center
 worm counter : 96
 hunt
 hunt
+hunt
+hunt
+hunt
 window center
 worm counter : 97
 window center
@@ -732,132 +630,124 @@ worm counter : 98
 hunt
 hunt
 hunt
+hunt
 window center
 worm counter : 99
-hunt
-hunt
-hunt
 window center
 worm counter : 100
 OPEN FISH CLICK SECURE
-classify79 97 103
+classified as : not_cassified     with c1 = 86 and c2 = 73 and c3 = 49
 OPEN FISH IN INVENTORY
-classify96 85 67
+classified as : not_cassified     with c1 = 95 and c2 = 85 and c3 = 61
 OPEN FISH IN INVENTORY
-classify96 85 67
+classified as : zloty_pierscien     with c1 = 110 and c2 = 88 and c3 = 58
 OPEN FISH IN INVENTORY
-classify96 85 67
+classified as : not_cassified     with c1 = 95 and c2 = 85 and c3 = 61
 OPEN FISH IN INVENTORY
-classify110 88 58
+classified as : not_cassified     with c1 = 101 and c2 = 104 and c3 = 106
 OPEN FISH IN INVENTORY
-classify79 97 103
+classified as : not_cassified     with c1 = 95 and c2 = 85 and c3 = 61
 OPEN FISH IN INVENTORY
-classify61 60 59
-delete
+classified as : not_cassified     with c1 = 86 and c2 = 73 and c3 = 49
 OPEN FISH IN INVENTORY
-classify96 85 67
+classified as : not_cassified     with c1 = 122 and c2 = 103 and c3 = 77
 OPEN FISH IN INVENTORY
-classify100 99 103
-delete
+classified as : not_cassified     with c1 = 95 and c2 = 85 and c3 = 61
 OPEN FISH IN INVENTORY
-classify95 85 61
+classified as : not_cassified     with c1 = 95 and c2 = 85 and c3 = 61
 OPEN FISH IN INVENTORY
-classify79 97 103
+classified as : not_cassified     with c1 = 79 and c2 = 77 and c3 = 64
 OPEN FISH IN INVENTORY
-classify117 90 58
+classified as : not_cassified     with c1 = 86 and c2 = 73 and c3 = 49
 OPEN FISH IN INVENTORY
-classify117 90 58
+classified as : not_cassified     with c1 = 95 and c2 = 85 and c3 = 61
 OPEN FISH IN INVENTORY
-classify96 85 67
+classified as : not_cassified     with c1 = 104 and c2 = 101 and c3 = 107
 OPEN FISH IN INVENTORY
-classify96 85 67
+classified as : not_cassified     with c1 = 82 and c2 = 80 and c3 = 54
 OPEN FISH IN INVENTORY
-classify79 97 103
+classified as : klucz_nimfy     with c1 = 79 and c2 = 97 and c3 = 103
 OPEN FISH IN INVENTORY
-classify96 85 67
+classified as : not_cassified     with c1 = 127 and c2 = 126 and c3 = 96
 OPEN FISH IN INVENTORY
-classify96 85 67
+classified as : not_cassified     with c1 = 102 and c2 = 82 and c3 = 77
 OPEN FISH IN INVENTORY
-classify117 90 58
+classified as : not_cassified     with c1 = 124 and c2 = 122 and c3 = 92
 OPEN FISH IN INVENTORY
-classify96 85 67
+classified as : not_cassified     with c1 = 163 and c2 = 119 and c3 = 71
 OPEN FISH IN INVENTORY
-classify96 85 67
+classified as : not_cassified     with c1 = 95 and c2 = 85 and c3 = 61
 OPEN FISH IN INVENTORY
-classify96 85 67
+classified as : puste     with c1 = 96 and c2 = 85 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 85 67
+classified as : puste     with c1 = 96 and c2 = 85 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 85 67
+classified as : puste     with c1 = 96 and c2 = 85 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 85 67
+classified as : puste     with c1 = 96 and c2 = 85 and c3 = 67
 OPEN FISH IN INVENTORY
 SECOND PAGE OF INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
 FIRST PAGE OF INVENTORY
-hunt
-hunt
-hunt
-hunt
 window center
 worm counter : 101
 hunt
@@ -868,9 +758,9 @@ worm counter : 102
 hunt
 hunt
 hunt
+hunt
 window center
 worm counter : 103
-hunt
 hunt
 hunt
 hunt
@@ -878,9 +768,9 @@ window center
 worm counter : 104
 hunt
 hunt
+hunt
 window center
 worm counter : 105
-hunt
 hunt
 hunt
 hunt
@@ -890,19 +780,14 @@ worm counter : 106
 hunt
 hunt
 hunt
-hunt
-hunt
 window center
 worm counter : 107
 hunt
 hunt
+is logeout check
 hunt
 window center
 worm counter : 108
-hunt
-hunt
-hunt
-hunt
 window center
 worm counter : 109
 hunt
@@ -913,21 +798,14 @@ worm counter : 110
 hunt
 hunt
 hunt
+hunt
+hunt
 window center
 worm counter : 111
-hunt
-hunt
-hunt
-hunt
 window center
 worm counter : 112
-hunt
-hunt
-hunt
-hunt
 window center
 worm counter : 113
-hunt
 hunt
 hunt
 window center
@@ -935,13 +813,8 @@ worm counter : 114
 hunt
 hunt
 hunt
-hunt
 window center
 worm counter : 115
-hunt
-hunt
-hunt
-hunt
 window center
 worm counter : 116
 window center
@@ -949,28 +822,18 @@ worm counter : 117
 hunt
 hunt
 hunt
-hunt
 window center
 worm counter : 118
 hunt
 hunt
-hunt
-hunt
-hunt
-hunt
-hunt
 window center
 worm counter : 119
-hunt
-hunt
-hunt
 window center
 worm counter : 120
 hunt
 hunt
 window center
 worm counter : 121
-is logeout check
 hunt
 hunt
 hunt
@@ -979,11 +842,8 @@ worm counter : 122
 hunt
 hunt
 hunt
-hunt
 window center
 worm counter : 123
-hunt
-hunt
 hunt
 hunt
 hunt
@@ -999,6 +859,9 @@ window center
 worm counter : 125
 hunt
 hunt
+is logeout check
+hunt
+hunt
 window center
 worm counter : 126
 hunt
@@ -1011,17 +874,14 @@ hunt
 hunt
 window center
 worm counter : 128
-hunt
-hunt
-hunt
 window center
 worm counter : 129
 hunt
 hunt
 hunt
-hunt
 window center
 worm counter : 130
+hunt
 hunt
 hunt
 hunt
@@ -1034,9 +894,10 @@ window center
 worm counter : 132
 hunt
 hunt
-hunt
 window center
 worm counter : 133
+hunt
+hunt
 hunt
 hunt
 hunt
@@ -1045,14 +906,11 @@ worm counter : 134
 hunt
 hunt
 hunt
+hunt
 window center
 worm counter : 135
-hunt
-hunt
-hunt
 window center
 worm counter : 136
-hunt
 hunt
 hunt
 hunt
@@ -1072,19 +930,19 @@ worm counter : 139
 hunt
 hunt
 hunt
-hunt
 window center
 worm counter : 140
-hunt
 hunt
 hunt
 window center
 worm counter : 141
 hunt
+is logeout check
 hunt
 hunt
 window center
 worm counter : 142
+hunt
 hunt
 hunt
 hunt
@@ -1093,9 +951,10 @@ worm counter : 143
 hunt
 hunt
 hunt
-hunt
 window center
 worm counter : 144
+hunt
+hunt
 hunt
 hunt
 window center
@@ -1108,10 +967,10 @@ worm counter : 146
 hunt
 hunt
 hunt
-hunt
-hunt
 window center
 worm counter : 147
+hunt
+hunt
 hunt
 hunt
 window center
@@ -1124,123 +983,121 @@ worm counter : 149
 hunt
 hunt
 hunt
-hunt
-hunt
 window center
 worm counter : 150
 OPEN FISH CLICK SECURE
-classify79 97 103
+classified as : not_cassified     with c1 = 86 and c2 = 73 and c3 = 49
 OPEN FISH IN INVENTORY
-classify96 85 67
+classified as : not_cassified     with c1 = 95 and c2 = 85 and c3 = 61
 OPEN FISH IN INVENTORY
-classify96 85 67
+classified as : zloty_pierscien     with c1 = 110 and c2 = 88 and c3 = 58
 OPEN FISH IN INVENTORY
-classify96 85 67
+classified as : not_cassified     with c1 = 95 and c2 = 85 and c3 = 61
 OPEN FISH IN INVENTORY
-classify110 88 58
+classified as : not_cassified     with c1 = 101 and c2 = 104 and c3 = 106
 OPEN FISH IN INVENTORY
-classify79 97 103
+classified as : not_cassified     with c1 = 95 and c2 = 85 and c3 = 61
 OPEN FISH IN INVENTORY
-classify96 85 67
+classified as : not_cassified     with c1 = 86 and c2 = 73 and c3 = 49
 OPEN FISH IN INVENTORY
-classify96 85 67
+classified as : not_cassified     with c1 = 122 and c2 = 103 and c3 = 77
 OPEN FISH IN INVENTORY
-classify96 85 67
+classified as : not_cassified     with c1 = 95 and c2 = 85 and c3 = 61
 OPEN FISH IN INVENTORY
-classify96 85 67
+classified as : not_cassified     with c1 = 95 and c2 = 85 and c3 = 61
 OPEN FISH IN INVENTORY
-classify79 97 103
+classified as : not_cassified     with c1 = 124 and c2 = 122 and c3 = 92
 OPEN FISH IN INVENTORY
-classify117 90 58
+classified as : not_cassified     with c1 = 104 and c2 = 101 and c3 = 107
 OPEN FISH IN INVENTORY
-classify117 90 58
-OPEN FISH IN INVENTORY
-classify100 99 103
+classified as : zloty_klucz     with c1 = 145 and c2 = 111 and c3 = 51
 delete
 OPEN FISH IN INVENTORY
-classify96 85 67
+classified as : not_cassified     with c1 = 124 and c2 = 122 and c3 = 92
 OPEN FISH IN INVENTORY
-classify79 97 103
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify117 90 58
-OPEN FISH IN INVENTORY
-classify61 60 59
+classified as : biala_farba     with c1 = 230 and c2 = 227 and c3 = 219
 delete
 OPEN FISH IN INVENTORY
-classify96 85 67
+classified as : klucz_nimfy     with c1 = 79 and c2 = 97 and c3 = 103
 OPEN FISH IN INVENTORY
-classify96 85 67
+classified as : puste     with c1 = 96 and c2 = 85 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 85 67
+classified as : puste     with c1 = 96 and c2 = 85 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 85 67
+classified as : puste     with c1 = 96 and c2 = 85 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 85 67
+classified as : puste     with c1 = 96 and c2 = 85 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 85 67
+classified as : puste     with c1 = 96 and c2 = 85 and c3 = 67
+OPEN FISH IN INVENTORY
+classified as : puste     with c1 = 96 and c2 = 85 and c3 = 67
+OPEN FISH IN INVENTORY
+classified as : puste     with c1 = 96 and c2 = 85 and c3 = 67
+OPEN FISH IN INVENTORY
+classified as : puste     with c1 = 96 and c2 = 85 and c3 = 67
+OPEN FISH IN INVENTORY
+classified as : puste     with c1 = 96 and c2 = 85 and c3 = 67
 OPEN FISH IN INVENTORY
 SECOND PAGE OF INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
-classify96 84 67
+classified as : puste     with c1 = 96 and c2 = 84 and c3 = 67
 OPEN FISH IN INVENTORY
 FIRST PAGE OF INVENTORY
 hunt
@@ -1248,8 +1105,6 @@ hunt
 hunt
 window center
 worm counter : 151
-hunt
-is logeout check
 hunt
 hunt
 hunt
@@ -1272,26 +1127,22 @@ hunt
 hunt
 window center
 worm counter : 155
-hunt
-hunt
-hunt
 window center
 worm counter : 156
 hunt
 hunt
-hunt
 window center
 worm counter : 157
-hunt
-hunt
 hunt
 window center
 worm counter : 158
 hunt
 hunt
 hunt
+is logeout check
 window center
 worm counter : 159
+hunt
 hunt
 hunt
 hunt
@@ -1300,8 +1151,10 @@ worm counter : 160
 hunt
 hunt
 hunt
+hunt
 window center
 worm counter : 161
+hunt
 hunt
 hunt
 hunt
@@ -1314,15 +1167,16 @@ window center
 worm counter : 163
 hunt
 hunt
-hunt
 window center
 worm counter : 164
 hunt
 hunt
 hunt
-hunt
 window center
 worm counter : 165
+hunt
+hunt
+hunt
 hunt
 window center
 worm counter : 166
@@ -1334,17 +1188,12 @@ worm counter : 167
 hunt
 hunt
 hunt
-hunt
-hunt
 window center
 worm counter : 168
 hunt
 hunt
-hunt
-hunt
 window center
 worm counter : 169
-hunt
 hunt
 hunt
 hunt
@@ -1354,25 +1203,19 @@ worm counter : 170
 hunt
 hunt
 hunt
+hunt
 window center
 worm counter : 171
-hunt
-hunt
-hunt
-hunt
-hunt
-hunt
 window center
 worm counter : 172
-hunt
 window center
 worm counter : 173
+is logeout check
 hunt
 hunt
 hunt
 window center
 worm counter : 174
-hunt
 hunt
 hunt
 hunt
@@ -1385,9 +1228,10 @@ window center
 worm counter : 176
 hunt
 hunt
+hunt
+hunt
 window center
 worm counter : 177
-hunt
 hunt
 hunt
 hunt
@@ -1415,7 +1259,7 @@ hunt
 window center
 worm counter : 182
 hunt
-is logeout check
+hunt
 hunt
 hunt
 window center
@@ -1429,8 +1273,10 @@ hunt
 hunt
 hunt
 hunt
+hunt
 window center
 worm counter : 185
+hunt
 hunt
 hunt
 hunt
@@ -1439,9 +1285,9 @@ worm counter : 186
 hunt
 hunt
 hunt
+hunt
 window center
 worm counter : 187
-hunt
 hunt
 hunt
 hunt
@@ -1450,1796 +1296,12 @@ worm counter : 188
 hunt
 hunt
 hunt
-hunt
 window center
 worm counter : 189
 hunt
+is logeout check
 hunt
 hunt
 window center
 worm counter : 190
 hunt
-hunt
-hunt
-window center
-worm counter : 191
-hunt
-hunt
-hunt
-window center
-worm counter : 192
-hunt
-hunt
-hunt
-window center
-worm counter : 193
-hunt
-hunt
-hunt
-window center
-worm counter : 194
-hunt
-hunt
-hunt
-window center
-worm counter : 195
-hunt
-hunt
-hunt
-window center
-worm counter : 197
-hunt
-hunt
-hunt
-window center
-worm counter : 198
-hunt
-hunt
-hunt
-hunt
-window center
-worm counter : 199
-hunt
-hunt
-hunt
-hunt
-window center
-worm counter : 200
-OPEN FISH CLICK SECURE
-classify79 97 103
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify110 88 58
-OPEN FISH IN INVENTORY
-classify79 97 103
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify79 97 103
-OPEN FISH IN INVENTORY
-classify117 90 58
-OPEN FISH IN INVENTORY
-classify117 90 58
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify79 97 103
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify117 90 58
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify100 99 103
-delete
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-SECOND PAGE OF INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-FIRST PAGE OF INVENTORY
-hunt
-hunt
-hunt
-window center
-worm counter : 201
-hunt
-hunt
-hunt
-hunt
-hunt
-window center
-worm counter : 202
-hunt
-hunt
-hunt
-window center
-worm counter : 203
-hunt
-hunt
-hunt
-window center
-worm counter : 204
-hunt
-hunt
-hunt
-window center
-worm counter : 205
-hunt
-hunt
-hunt
-hunt
-window center
-worm counter : 206
-hunt
-hunt
-hunt
-hunt
-window center
-worm counter : 207
-hunt
-hunt
-hunt
-hunt
-window center
-worm counter : 208
-hunt
-hunt
-hunt
-window center
-worm counter : 209
-hunt
-window center
-worm counter : 210
-game main menu
-relog
-log_start
-open_inventory
-90 72 63
-inventory oppened
-hunt
-hunt
-hunt
-hunt
-hunt
-window center
-worm counter : 211
-hunt
-hunt
-hunt
-window center
-worm counter : 212
-hunt
-hunt
-hunt
-window center
-worm counter : 213
-hunt
-hunt
-hunt
-window center
-worm counter : 214
-hunt
-hunt
-hunt
-window center
-worm counter : 215
-hunt
-hunt
-hunt
-hunt
-window center
-worm counter : 216
-hunt
-hunt
-is logeout check
-hunt
-window center
-worm counter : 217
-hunt
-hunt
-hunt
-window center
-worm counter : 218
-hunt
-hunt
-hunt
-hunt
-window center
-worm counter : 219
-hunt
-hunt
-hunt
-window center
-worm counter : 220
-hunt
-hunt
-hunt
-window center
-worm counter : 221
-hunt
-hunt
-hunt
-window center
-worm counter : 222
-hunt
-hunt
-window center
-worm counter : 223
-hunt
-hunt
-hunt
-hunt
-window center
-worm counter : 224
-hunt
-hunt
-hunt
-hunt
-window center
-worm counter : 225
-hunt
-hunt
-window center
-worm counter : 226
-hunt
-hunt
-hunt
-window center
-worm counter : 227
-hunt
-hunt
-hunt
-window center
-worm counter : 228
-hunt
-hunt
-hunt
-window center
-worm counter : 229
-hunt
-hunt
-hunt
-window center
-worm counter : 230
-hunt
-hunt
-hunt
-hunt
-window center
-worm counter : 231
-hunt
-hunt
-hunt
-hunt
-hunt
-window center
-worm counter : 232
-hunt
-hunt
-hunt
-window center
-worm counter : 233
-hunt
-hunt
-hunt
-window center
-worm counter : 234
-hunt
-hunt
-hunt
-window center
-worm counter : 235
-hunt
-hunt
-hunt
-hunt
-window center
-worm counter : 236
-hunt
-hunt
-hunt
-window center
-worm counter : 237
-hunt
-hunt
-hunt
-hunt
-window center
-worm counter : 238
-hunt
-window center
-worm counter : 239
-hunt
-hunt
-hunt
-window center
-worm counter : 240
-hunt
-hunt
-hunt
-window center
-worm counter : 241
-hunt
-hunt
-hunt
-hunt
-window center
-worm counter : 242
-hunt
-hunt
-hunt
-window center
-worm counter : 243
-hunt
-hunt
-hunt
-window center
-worm counter : 244
-hunt
-hunt
-hunt
-window center
-worm counter : 245
-window center
-worm counter : 246
-hunt
-hunt
-hunt
-hunt
-window center
-worm counter : 247
-hunt
-hunt
-window center
-worm counter : 248
-hunt
-hunt
-hunt
-window center
-worm counter : 249
-hunt
-is logeout check
-hunt
-hunt
-window center
-worm counter : 250
-OPEN FISH CLICK SECURE
-classify79 97 103
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify110 88 58
-OPEN FISH IN INVENTORY
-classify79 97 103
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify230 227 219
-delete
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify79 97 103
-OPEN FISH IN INVENTORY
-classify117 90 58
-OPEN FISH IN INVENTORY
-classify117 90 58
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify79 97 103
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify117 90 58
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify100 99 103
-delete
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-SECOND PAGE OF INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-FIRST PAGE OF INVENTORY
-hunt
-hunt
-hunt
-window center
-worm counter : 251
-hunt
-hunt
-hunt
-hunt
-window center
-worm counter : 252
-hunt
-hunt
-window center
-worm counter : 253
-hunt
-hunt
-window center
-worm counter : 254
-hunt
-hunt
-hunt
-window center
-worm counter : 255
-hunt
-hunt
-hunt
-window center
-worm counter : 256
-hunt
-hunt
-hunt
-window center
-worm counter : 257
-hunt
-hunt
-hunt
-hunt
-window center
-worm counter : 258
-hunt
-hunt
-hunt
-window center
-worm counter : 259
-hunt
-hunt
-hunt
-window center
-worm counter : 260
-hunt
-hunt
-hunt
-window center
-worm counter : 261
-hunt
-hunt
-hunt
-hunt
-window center
-worm counter : 262
-hunt
-hunt
-hunt
-window center
-worm counter : 263
-hunt
-hunt
-hunt
-hunt
-hunt
-window center
-worm counter : 264
-hunt
-hunt
-hunt
-window center
-worm counter : 265
-hunt
-hunt
-hunt
-window center
-worm counter : 266
-hunt
-hunt
-hunt
-window center
-worm counter : 267
-hunt
-hunt
-hunt
-hunt
-window center
-worm counter : 268
-hunt
-hunt
-hunt
-window center
-worm counter : 269
-hunt
-hunt
-hunt
-window center
-worm counter : 270
-hunt
-hunt
-hunt
-hunt
-window center
-worm counter : 271
-hunt
-hunt
-hunt
-window center
-worm counter : 272
-hunt
-hunt
-hunt
-window center
-worm counter : 273
-hunt
-hunt
-hunt
-hunt
-window center
-worm counter : 274
-window center
-worm counter : 275
-hunt
-hunt
-hunt
-window center
-worm counter : 276
-hunt
-hunt
-hunt
-window center
-worm counter : 277
-hunt
-hunt
-hunt
-hunt
-hunt
-window center
-worm counter : 278
-hunt
-hunt
-hunt
-window center
-worm counter : 279
-hunt
-hunt
-hunt
-window center
-worm counter : 280
-hunt
-hunt
-hunt
-window center
-worm counter : 281
-is logeout check
-hunt
-hunt
-hunt
-hunt
-window center
-worm counter : 282
-hunt
-hunt
-hunt
-hunt
-window center
-worm counter : 283
-hunt
-hunt
-hunt
-window center
-worm counter : 284
-hunt
-hunt
-hunt
-window center
-worm counter : 285
-hunt
-hunt
-hunt
-window center
-worm counter : 286
-hunt
-hunt
-hunt
-window center
-worm counter : 287
-hunt
-hunt
-hunt
-window center
-worm counter : 288
-hunt
-hunt
-hunt
-window center
-worm counter : 289
-hunt
-hunt
-hunt
-window center
-worm counter : 290
-hunt
-hunt
-hunt
-window center
-worm counter : 291
-hunt
-hunt
-hunt
-hunt
-window center
-worm counter : 292
-hunt
-hunt
-hunt
-window center
-worm counter : 293
-hunt
-hunt
-hunt
-window center
-worm counter : 294
-hunt
-hunt
-hunt
-hunt
-window center
-worm counter : 295
-hunt
-hunt
-hunt
-window center
-worm counter : 296
-window center
-worm counter : 297
-hunt
-hunt
-hunt
-window center
-worm counter : 298
-hunt
-hunt
-hunt
-hunt
-window center
-worm counter : 299
-hunt
-hunt
-window center
-worm counter : 300
-OPEN FISH CLICK SECURE
-classify79 97 103
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify110 88 58
-OPEN FISH IN INVENTORY
-classify79 97 103
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify120 117 76
-delete
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify79 97 103
-OPEN FISH IN INVENTORY
-classify117 90 58
-OPEN FISH IN INVENTORY
-classify117 90 58
-OPEN FISH IN INVENTORY
-classify65 62 51
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify79 97 103
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify117 90 58
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify105 93 87
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify174 69 63
-delete
-OPEN FISH IN INVENTORY
-SECOND PAGE OF INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-FIRST PAGE OF INVENTORY
-hunt
-hunt
-hunt
-window center
-worm counter : 301
-hunt
-hunt
-hunt
-window center
-worm counter : 302
-hunt
-hunt
-hunt
-window center
-worm counter : 303
-hunt
-hunt
-hunt
-window center
-worm counter : 304
-hunt
-hunt
-hunt
-window center
-worm counter : 305
-hunt
-hunt
-hunt
-hunt
-hunt
-window center
-worm counter : 306
-hunt
-hunt
-hunt
-window center
-worm counter : 307
-hunt
-hunt
-window center
-worm counter : 308
-hunt
-hunt
-hunt
-window center
-worm counter : 309
-hunt
-hunt
-hunt
-window center
-worm counter : 310
-hunt
-hunt
-hunt
-window center
-worm counter : 311
-hunt
-hunt
-hunt
-window center
-worm counter : 312
-is logeout check
-hunt
-hunt
-window center
-worm counter : 313
-hunt
-hunt
-hunt
-window center
-worm counter : 314
-hunt
-hunt
-hunt
-window center
-worm counter : 315
-hunt
-hunt
-hunt
-window center
-worm counter : 316
-hunt
-hunt
-hunt
-window center
-worm counter : 317
-hunt
-hunt
-hunt
-window center
-worm counter : 318
-hunt
-hunt
-hunt
-window center
-worm counter : 319
-hunt
-hunt
-hunt
-hunt
-hunt
-hunt
-window center
-worm counter : 320
-hunt
-hunt
-window center
-worm counter : 321
-hunt
-hunt
-hunt
-window center
-worm counter : 322
-hunt
-hunt
-hunt
-window center
-worm counter : 323
-hunt
-hunt
-hunt
-window center
-worm counter : 324
-window center
-worm counter : 325
-hunt
-hunt
-hunt
-window center
-worm counter : 326
-hunt
-hunt
-window center
-worm counter : 327
-hunt
-hunt
-hunt
-window center
-worm counter : 328
-hunt
-hunt
-hunt
-window center
-worm counter : 329
-hunt
-hunt
-window center
-worm counter : 330
-hunt
-hunt
-hunt
-hunt
-window center
-worm counter : 331
-hunt
-hunt
-hunt
-window center
-worm counter : 332
-hunt
-hunt
-hunt
-window center
-worm counter : 333
-hunt
-hunt
-hunt
-window center
-worm counter : 334
-hunt
-hunt
-window center
-worm counter : 335
-hunt
-hunt
-hunt
-window center
-worm counter : 336
-hunt
-hunt
-hunt
-hunt
-hunt
-window center
-worm counter : 337
-hunt
-hunt
-hunt
-window center
-worm counter : 338
-hunt
-hunt
-hunt
-window center
-worm counter : 339
-hunt
-hunt
-hunt
-window center
-worm counter : 340
-hunt
-hunt
-hunt
-window center
-worm counter : 341
-hunt
-hunt
-window center
-worm counter : 342
-hunt
-hunt
-hunt
-hunt
-window center
-worm counter : 343
-window center
-worm counter : 344
-hunt
-hunt
-hunt
-window center
-worm counter : 345
-hunt
-hunt
-hunt
-window center
-worm counter : 346
-hunt
-hunt
-hunt
-window center
-worm counter : 347
-hunt
-hunt
-hunt
-window center
-worm counter : 348
-hunt
-hunt
-is logeout check
-hunt
-window center
-worm counter : 349
-hunt
-hunt
-hunt
-window center
-worm counter : 350
-OPEN FISH CLICK SECURE
-classify79 97 103
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify110 88 58
-OPEN FISH IN INVENTORY
-classify79 97 103
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify117 90 58
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify79 97 103
-OPEN FISH IN INVENTORY
-classify117 90 58
-OPEN FISH IN INVENTORY
-classify117 90 58
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify79 97 103
-OPEN FISH IN INVENTORY
-classify160 148 66
-delete
-OPEN FISH IN INVENTORY
-classify117 90 58
-OPEN FISH IN INVENTORY
-classify124 122 92
-OPEN FISH IN INVENTORY
-classify86 73 49
-OPEN FISH IN INVENTORY
-classify96 97 75
-OPEN FISH IN INVENTORY
-classify160 148 66
-delete
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-SECOND PAGE OF INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-FIRST PAGE OF INVENTORY
-hunt
-hunt
-hunt
-hunt
-window center
-worm counter : 351
-hunt
-hunt
-hunt
-window center
-worm counter : 352
-hunt
-hunt
-window center
-worm counter : 353
-hunt
-hunt
-hunt
-hunt
-window center
-worm counter : 354
-window center
-worm counter : 355
-hunt
-hunt
-hunt
-window center
-worm counter : 356
-hunt
-hunt
-hunt
-window center
-worm counter : 357
-window center
-worm counter : 358
-hunt
-hunt
-window center
-worm counter : 359
-hunt
-hunt
-hunt
-hunt
-window center
-worm counter : 360
-hunt
-hunt
-window center
-worm counter : 361
-hunt
-hunt
-hunt
-window center
-worm counter : 362
-hunt
-hunt
-hunt
-window center
-worm counter : 363
-hunt
-hunt
-hunt
-hunt
-hunt
-hunt
-window center
-worm counter : 364
-hunt
-hunt
-hunt
-window center
-worm counter : 365
-hunt
-hunt
-hunt
-hunt
-hunt
-hunt
-window center
-worm counter : 366
-hunt
-hunt
-hunt
-window center
-worm counter : 367
-hunt
-hunt
-hunt
-hunt
-hunt
-window center
-worm counter : 368
-hunt
-hunt
-hunt
-window center
-worm counter : 369
-hunt
-hunt
-hunt
-hunt
-window center
-worm counter : 370
-hunt
-hunt
-hunt
-window center
-worm counter : 371
-hunt
-hunt
-window center
-worm counter : 372
-hunt
-hunt
-hunt
-window center
-worm counter : 373
-hunt
-hunt
-hunt
-window center
-worm counter : 374
-hunt
-hunt
-hunt
-window center
-worm counter : 375
-hunt
-hunt
-hunt
-window center
-worm counter : 376
-hunt
-hunt
-window center
-worm counter : 377
-hunt
-window center
-worm counter : 378
-hunt
-hunt
-hunt
-window center
-worm counter : 379
-hunt
-hunt
-hunt
-hunt
-window center
-worm counter : 380
-hunt
-hunt
-hunt
-window center
-worm counter : 381
-hunt
-hunt
-window center
-worm counter : 382
-hunt
-hunt
-hunt
-is logeout check
-window center
-worm counter : 383
-hunt
-hunt
-hunt
-window center
-worm counter : 384
-hunt
-window center
-worm counter : 385
-hunt
-hunt
-hunt
-window center
-worm counter : 386
-hunt
-hunt
-hunt
-window center
-worm counter : 387
-hunt
-hunt
-hunt
-window center
-worm counter : 388
-hunt
-hunt
-hunt
-hunt
-window center
-worm counter : 389
-hunt
-hunt
-hunt
-hunt
-window center
-worm counter : 390
-hunt
-hunt
-hunt
-window center
-worm counter : 391
-hunt
-hunt
-hunt
-window center
-worm counter : 392
-hunt
-hunt
-hunt
-window center
-worm counter : 393
-hunt
-hunt
-hunt
-window center
-worm counter : 394
-hunt
-hunt
-window center
-worm counter : 395
-hunt
-hunt
-hunt
-window center
-worm counter : 397
-hunt
-hunt
-window center
-worm counter : 398
-hunt
-hunt
-hunt
-window center
-worm counter : 399
-hunt
-hunt
-hunt
-window center
-worm counter : 400
-OPEN FISH CLICK SECURE
-classify79 97 103
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify117 90 58
-OPEN FISH IN INVENTORY
-classify110 88 58
-OPEN FISH IN INVENTORY
-classify79 97 103
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify76 75 43
-delete
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify79 97 103
-OPEN FISH IN INVENTORY
-classify117 90 58
-OPEN FISH IN INVENTORY
-classify117 90 58
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify110 88 58
-OPEN FISH IN INVENTORY
-classify79 97 103
-OPEN FISH IN INVENTORY
-classify100 99 103
-delete
-OPEN FISH IN INVENTORY
-classify117 90 58
-OPEN FISH IN INVENTORY
-classify124 122 92
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify160 148 66
-delete
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-classify95 85 61
-OPEN FISH IN INVENTORY
-classify96 85 67
-OPEN FISH IN INVENTORY
-SECOND PAGE OF INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-classify96 84 67
-OPEN FISH IN INVENTORY
-FIRST PAGE OF INVENTORY
-hunt
-hunt
-hunt
-window center
-worm counter : 401
-hunt
-hunt
-hunt
-window center
-worm counter : 402
-hunt
-hunt
-hunt
-window center
-worm counter : 403
-hunt
-hunt
-hunt
-window center
-worm counter : 404
-hunt
-hunt
-hunt
-window center
-worm counter : 405
-window center
-worm counter : 406
-hunt
-hunt
-hunt
-window center
-worm counter : 407
-hunt
-hunt
-hunt
-hunt
-window center
-worm counter : 408
-hunt
-hunt
-hunt
-window center
-worm counter : 409
-hunt
-hunt
-hunt
-window center
-worm counter : 410
-hunt
-hunt
-hunt
-hunt
-window center
-worm counter : 411
-hunt
-hunt
-hunt
-hunt
-hunt
-window center
-worm counter : 412
-hunt
-hunt
-hunt
-window center
-worm counter : 413
-hunt
-hunt
-hunt
-hunt
-window center
-worm counter : 414
-hunt
-hunt
-hunt
-hunt
-window center
-worm counter : 415
-hunt
-hunt
-hunt
-window center
-worm counter : 416
-hunt
-hunt
-hunt
-hunt
-window center
-worm counter : 417
-hunt
-hunt
-hunt
-window center
-worm counter : 418
-hunt
-hunt
-is logeout check
-window center
-worm counter : 419
-hunt
-window center
-worm counter : 420
-game main menu
-relog
-log_start
-open_inventory
-82 65 58
-inventory not oppened else should never 
-log_ok
-log_start
-open_inventory
-82 65 58
-inventory not oppened else should never 
-log_ok
-log_start
-open_inventory
-82 65 58
-inventory not oppened else should never 
-log_ok
-log_start
-open_inventory
-82 65 58
-inventory not oppened else should never 
-log_ok
-log_start
-open_inventory
-82 65 58
-inventory not oppened else should never 
-log_ok
-log_start
-open_inventory
-82 65 58
-inventory not oppened else should never 
-log_ok
-log_start
-open_inventory
-82 65 58
-inventory not oppened else should never 
-log_ok
-log_start
-open_inventory
-82 65 58
-inventory not oppened else should never 
-log_ok
-log_start
-open_inventory
-82 65 58
-inventory not oppened else should never 
-log_ok
