@@ -1,0 +1,372 @@
+[ WARN:0] global C:\Users\appveyor\AppData\Local\Temp\1\pip-req-build-wwma2wne\opencv\modules\videoio\src\cap_msmf.cpp (435) `anonymous-namespace'::SourceReaderCB::~SourceReaderCB terminating async callback
+window center
+worm counter : 0
+window center
+worm counter : 1
+hunt
+hunt
+hunt
+window center
+worm counter : 2
+hunt
+hunt
+hunt
+window center
+worm counter : 3
+hunt
+hunt
+hunt
+window center
+worm counter : 4
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 5
+hunt
+hunt
+hunt
+window center
+worm counter : 6
+hunt
+hunt
+hunt
+window center
+worm counter : 7
+hunt
+hunt
+hunt
+window center
+worm counter : 8
+hunt
+hunt
+hunt
+window center
+worm counter : 9
+hunt
+hunt
+hunt
+window center
+worm counter : 10
+hunt
+hunt
+hunt
+window center
+worm counter : 11
+window center
+worm counter : 12
+hunt
+hunt
+hunt
+window center
+worm counter : 13
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 14
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 15
+hunt
+hunt
+hunt
+is logeout check
+window center
+worm counter : 16
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 17
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 18
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 19
+hunt
+hunt
+hunt
+window center
+worm counter : 20
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 21
+hunt
+hunt
+hunt
+window center
+worm counter : 22
+hunt
+hunt
+hunt
+window center
+worm counter : 23
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 24
+hunt
+hunt
+hunt
+window center
+worm counter : 25
+window center
+worm counter : 26
+hunt
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 27
+hunt
+hunt
+hunt
+window center
+worm counter : 28
+hunt
+hunt
+hunt
+window center
+worm counter : 29
+hunt
+hunt
+hunt
+window center
+worm counter : 30
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 31
+hunt
+hunt
+hunt
+window center
+worm counter : 32
+hunt
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 33
+is logeout check
+hunt
+hunt
+hunt
+window center
+worm counter : 34
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 35
+hunt
+hunt
+hunt
+window center
+worm counter : 36
+hunt
+hunt
+hunt
+window center
+worm counter : 37
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 38
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 39
+hunt
+hunt
+hunt
+window center
+worm counter : 40
+hunt
+hunt
+window center
+worm counter : 41
+hunt
+hunt
+hunt
+window center
+worm counter : 42
+hunt
+hunt
+hunt
+window center
+worm counter : 43
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 44
+hunt
+window center
+worm counter : 45
+window center
+worm counter : 46
+hunt
+hunt
+hunt
+hunt
+window center
+worm counter : 47
+hunt
+hunt
+hunt
+window center
+worm counter : 48
+is logeout check
+hunt
+hunt
+hunt
+window center
+worm counter : 49
+hunt
+hunt
+hunt
+window center
+worm counter : 50
+OPEN FISH CLICK SECURE
+classified as : not_cassified     with c1 = 156 and c2 = 137 and c3 = 122
+OPEN FISH IN INVENTORY
+classified as : not_cassified     with c1 = 128 and c2 = 99 and c3 = 66
+OPEN FISH IN INVENTORY
+classified as : not_cassified     with c1 = 146 and c2 = 120 and c3 = 100
+OPEN FISH IN INVENTORY
+classified as : not_cassified     with c1 = 134 and c2 = 128 and c3 = 111
+OPEN FISH IN INVENTORY
+classified as : not_cassified     with c1 = 130 and c2 = 113 and c3 = 103
+OPEN FISH IN INVENTORY
+classified as : not_cassified     with c1 = 149 and c2 = 128 and c3 = 133
+OPEN FISH IN INVENTORY
+classified as : not_cassified     with c1 = 132 and c2 = 118 and c3 = 109
+OPEN FISH IN INVENTORY
+classified as : not_cassified     with c1 = 129 and c2 = 117 and c3 = 104
+OPEN FISH IN INVENTORY
+classified as : not_cassified     with c1 = 132 and c2 = 118 and c3 = 109
+OPEN FISH IN INVENTORY
+classified as : not_cassified     with c1 = 114 and c2 = 101 and c3 = 76
+OPEN FISH IN INVENTORY
+classified as : not_cassified     with c1 = 144 and c2 = 128 and c3 = 132
+OPEN FISH IN INVENTORY
+classified as : not_cassified     with c1 = 144 and c2 = 141 and c3 = 135
+OPEN FISH IN INVENTORY
+classified as : not_cassified     with c1 = 115 and c2 = 109 and c3 = 107
+OPEN FISH IN INVENTORY
+classified as : not_cassified     with c1 = 123 and c2 = 118 and c3 = 115
+OPEN FISH IN INVENTORY
+classified as : not_cassified     with c1 = 146 and c2 = 124 and c3 = 94
+OPEN FISH IN INVENTORY
+classified as : not_cassified     with c1 = 156 and c2 = 151 and c3 = 129
+OPEN FISH IN INVENTORY
+classified as : not_cassified     with c1 = 128 and c2 = 117 and c3 = 104
+OPEN FISH IN INVENTORY
+classified as : not_cassified     with c1 = 144 and c2 = 139 and c3 = 153
+OPEN FISH IN INVENTORY
+classified as : not_cassified     with c1 = 148 and c2 = 127 and c3 = 133
+OPEN FISH IN INVENTORY
+classified as : not_cassified     with c1 = 153 and c2 = 147 and c3 = 115
+OPEN FISH IN INVENTORY
+classified as : not_cassified     with c1 = 126 and c2 = 104 and c3 = 80
+OPEN FISH IN INVENTORY
+classified as : not_cassified     with c1 = 127 and c2 = 104 and c3 = 81
+OPEN FISH IN INVENTORY
+classified as : not_cassified     with c1 = 126 and c2 = 103 and c3 = 79
+OPEN FISH IN INVENTORY
+classified as : not_cassified     with c1 = 126 and c2 = 103 and c3 = 79
+OPEN FISH IN INVENTORY
+classified as : not_cassified     with c1 = 146 and c2 = 126 and c3 = 104
+OPEN FISH IN INVENTORY
+SECOND PAGE OF INVENTORY
+classified as : not_cassified     with c1 = 119 and c2 = 98 and c3 = 75
+OPEN FISH IN INVENTORY
+classified as : not_cassified     with c1 = 120 and c2 = 98 and c3 = 75
+OPEN FISH IN INVENTORY
+classified as : not_cassified     with c1 = 116 and c2 = 96 and c3 = 73
+OPEN FISH IN INVENTORY
+classified as : not_cassified     with c1 = 119 and c2 = 97 and c3 = 75
+OPEN FISH IN INVENTORY
+classified as : not_cassified     with c1 = 140 and c2 = 121 and c3 = 100
+OPEN FISH IN INVENTORY
+classified as : not_cassified     with c1 = 117 and c2 = 96 and c3 = 74
+OPEN FISH IN INVENTORY
+classified as : not_cassified     with c1 = 117 and c2 = 96 and c3 = 74
+OPEN FISH IN INVENTORY
+classified as : not_cassified     with c1 = 119 and c2 = 98 and c3 = 75
+OPEN FISH IN INVENTORY
+classified as : not_cassified     with c1 = 117 and c2 = 96 and c3 = 73
+OPEN FISH IN INVENTORY
+classified as : not_cassified     with c1 = 132 and c2 = 115 and c3 = 94
+OPEN FISH IN INVENTORY
+classified as : not_cassified     with c1 = 119 and c2 = 98 and c3 = 75
+OPEN FISH IN INVENTORY
+classified as : not_cassified     with c1 = 119 and c2 = 98 and c3 = 75
+OPEN FISH IN INVENTORY
+classified as : not_cassified     with c1 = 118 and c2 = 97 and c3 = 75
+OPEN FISH IN INVENTORY
+classified as : not_cassified     with c1 = 118 and c2 = 96 and c3 = 74
+OPEN FISH IN INVENTORY
+classified as : not_cassified     with c1 = 139 and c2 = 120 and c3 = 98
+OPEN FISH IN INVENTORY
+classified as : not_cassified     with c1 = 117 and c2 = 96 and c3 = 74
+OPEN FISH IN INVENTORY
+classified as : not_cassified     with c1 = 119 and c2 = 98 and c3 = 75
+OPEN FISH IN INVENTORY
+classified as : not_cassified     with c1 = 118 and c2 = 97 and c3 = 74
+OPEN FISH IN INVENTORY
+classified as : not_cassified     with c1 = 117 and c2 = 96 and c3 = 74
+OPEN FISH IN INVENTORY
+classified as : not_cassified     with c1 = 139 and c2 = 120 and c3 = 99
+OPEN FISH IN INVENTORY
+classified as : not_cassified     with c1 = 119 and c2 = 98 and c3 = 75
+OPEN FISH IN INVENTORY
+classified as : not_cassified     with c1 = 120 and c2 = 98 and c3 = 75
+OPEN FISH IN INVENTORY
+classified as : not_cassified     with c1 = 116 and c2 = 96 and c3 = 73
+OPEN FISH IN INVENTORY
+classified as : not_cassified     with c1 = 119 and c2 = 97 and c3 = 75
+OPEN FISH IN INVENTORY
+classified as : not_cassified     with c1 = 140 and c2 = 121 and c3 = 100
+OPEN FISH IN INVENTORY
+classified as : not_cassified     with c1 = 135 and c2 = 116 and c3 = 101
+OPEN FISH IN INVENTORY
+classified as : not_cassified     with c1 = 118 and c2 = 97 and c3 = 76
+OPEN FISH IN INVENTORY
+classified as : not_cassified     with c1 = 142 and c2 = 123 and c3 = 108
+OPEN FISH IN INVENTORY
+classified as : not_cassified     with c1 = 117 and c2 = 96 and c3 = 75
+OPEN FISH IN INVENTORY
+classified as : not_cassified     with c1 = 153 and c2 = 137 and c3 = 124
+OPEN FISH IN INVENTORY
+FIRST PAGE OF INVENTORY

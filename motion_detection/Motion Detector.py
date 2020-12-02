@@ -36,8 +36,13 @@ previous_x_check = None
 previous_y_check = None
 dif_x_counter = 0
 dif_y_counter = 0
+picture_take_counter = 0
 image_check_counter = 0
 image_log_counter = 0
+picture_take_counter = 0
+to_do_command = None
+item_classify_picture_name = None
+
 file_name = 'final_circle_after_metin_start.png'
 
 
@@ -94,6 +99,145 @@ def actual_time():
     current_time = int(round(time.time() * 1000))
     return current_time
 
+def update_time():
+    now = datetime.now()
+    current_time = now.strftime("%H:%M:%S")
+    return current_time
+
+def delete_item(x_start_detection, y_start_detection, detection_field):
+    print('delete')
+    time.sleep(0.5)
+    pydirectinput.click(int(x_start_detection + detection_field/2), int(y_start_detection + detection_field/2))
+    time.sleep(0.5)
+    pydirectinput.click(980,60)
+    time.sleep(0.5)
+    pydirectinput.click(922, 555)
+    time.sleep(0.5)
+
+
+
+def item_classify(c1, c2, c3):
+
+    avg_c1_zr = 309
+    avg_c2_zr = 222
+    avg_c3_zr = 71
+
+    if((c1 > (avg_c1_zr-4)) and (c1< (avg_c1_zr+4)) and (c2 > (avg_c2_zr-4)) and (c2< (avg_c2_zr+4)) and (c3 > (avg_c3_zr-4)) and (c3< (avg_c3_zr+4))):
+        return 'zlota_ruda', None
+
+    avg_c1_bf = 229
+    avg_c2_bf = 226
+    avg_c3_bf = 218
+
+    if((c1 > (avg_c1_bf-4)) and (c1< (avg_c1_bf+4)) and (c2 > (avg_c2_bf-4)) and (c2< (avg_c2_bf+4)) and (c3 > (avg_c3_bf-4)) and (c3< (avg_c3_bf+4))):
+        return 'biala_farba', 'delete'
+
+    avg_c1_jcf = 171
+    avg_c2_jcf = 67
+    avg_c3_jcf = 62
+
+    if((c1 > (avg_c1_jcf-4)) and (c1< (avg_c1_jcf+4)) and (c2 > (avg_c2_jcf-4)) and (c2< (avg_c2_jcf+4)) and (c3 > (avg_c3_jcf-4)) and (c3< (avg_c3_jcf+4))):
+        return 'jasno_czerwona_farba', 'delete'
+
+    avg_c1_zf = 159
+    avg_c2_zf = 147
+    avg_c3_zf = 66
+
+    if((c1 > (avg_c1_zf-4)) and (c1< (avg_c1_zf+4)) and (c2 > (avg_c2_zf-4)) and (c2< (avg_c2_zf+4)) and (c3 > (avg_c3_zf-4)) and (c3< (avg_c3_zf+4))):
+        return 'zolta_farba', 'delete'
+
+    avg_c1_ccf = 154
+    avg_c2_ccf = 93
+    avg_c3_ccf = 74
+
+    if((c1 > (avg_c1_ccf-4)) and (c1< (avg_c1_ccf+4)) and (c2 > (avg_c2_ccf-4)) and (c2< (avg_c2_ccf+4)) and (c3 > (avg_c3_ccf-4)) and (c3< (avg_c3_ccf+4))):
+        return 'ciemno_czerwona_farba', 'delete'
+
+    avg_c1_zk = 147
+    avg_c2_zk = 111
+    avg_c3_zk = 51
+
+    if((c1 > (avg_c1_zk-4)) and (c1< (avg_c1_zk+4)) and (c2 > (avg_c2_zk-4)) and (c2< (avg_c2_zk+4)) and (c3 > (avg_c3_zk-4)) and (c3< (avg_c3_zk+4))):
+        return 'zloty_klucz', 'delete'
+
+    avg_c1_pl = 121
+    avg_c2_pl = 117
+    avg_c3_pl = 76
+
+    if((c1 > (avg_c1_pl-4)) and (c1< (avg_c1_pl+4)) and (c2 > (avg_c2_pl-4)) and (c2< (avg_c2_pl+4)) and (c3 > (avg_c3_pl-4)) and (c3< (avg_c3_pl+4))):
+        return 'pierscien_lucy', 'delete'
+
+    avg_c1_sk = 118
+    avg_c2_sk = 92
+    avg_c3_sk = 59
+
+    if((c1 > (avg_c1_sk-4)) and (c1< (avg_c1_sk+4)) and (c2 > (avg_c2_sk-4)) and (c2< (avg_c2_sk+4)) and (c3 > (avg_c3_sk-4)) and (c3< (avg_c3_sk+4))):
+        return 'symbol_krola', None
+
+    avg_c1_zp = 110
+    avg_c2_zp = 89
+    avg_c3_zp = 59
+
+    if((c1 > (avg_c1_zp-4)) and (c1< (avg_c1_zp+4)) and (c2 > (avg_c2_zp-4)) and (c2< (avg_c2_zp+4)) and (c3 > (avg_c3_zp-4)) and (c3< (avg_c3_zp+4))):
+        return 'zloty_pierscien', None
+
+    avg_c1_cf = 105
+    avg_c2_cf = 103
+    avg_c3_cf = 95
+
+    if((c1 > (avg_c1_cf-4)) and (c1< (avg_c1_cf+4)) and (c2 > (avg_c2_cf-4)) and (c2< (avg_c2_cf+4)) and (c3 > (avg_c3_cf-4)) and (c3< (avg_c3_cf+4))):
+        return 'czarna_farba', 'delete'
+
+    avg_c1_skl = 100
+    avg_c2_skl = 99
+    avg_c3_skl = 104
+
+    if((c1 > (avg_c1_skl-4)) and (c1< (avg_c1_skl+4)) and (c2 > (avg_c2_skl-4)) and (c2< (avg_c2_skl+4)) and (c3 > (avg_c3_skl-4)) and (c3< (avg_c3_skl+4))):
+        return 'srebny_klucz', 'delete'
+
+    avg_c1_pustka = 97
+    avg_c2_pustka = 85
+    avg_c3_pustka = 67
+
+    if ((c1 > (avg_c1_pustka - 3)) and (c1 < (avg_c1_pustka + 3)) and (c2 > (avg_c2_pustka - 3)) and (
+            c2 < (avg_c2_pustka + 3)) and (c3 > (avg_c3_pustka - 3)) and (c3 < (avg_c3_pustka + 3))):
+        return 'puste', None
+
+    avg_c1_nimfa = 79
+    avg_c2_nimfa = 97
+    avg_c3_nimfa = 104
+
+    if ((c1 > (avg_c1_nimfa - 3)) and (c1 < (avg_c1_nimfa + 3)) and (c2 > (avg_c2_nimfa - 3)) and (
+            c2 < (avg_c2_nimfa + 3)) and (c3 > (avg_c3_nimfa - 3)) and (c3 < (avg_c3_nimfa + 3))):
+        return 'klucz_nimfy', None
+
+
+    avg_c1_rkr = 76
+    avg_c2_rkr = 75
+    avg_c3_rkr = 44
+
+    if((c1 > (avg_c1_rkr-4)) and (c1< (avg_c1_rkr+4)) and (c2 > (avg_c2_rkr-4)) and (c2< (avg_c2_rkr+4)) and (c3 > (avg_c3_rkr-4)) and (c3< (avg_c3_rkr+4))):
+        return 'rekawica_krola', 'delete'
+
+    avg_c1_wybielacz = 110
+    avg_c2_wybielacz = 99
+    avg_c3_wybielacz = 72
+
+    if ((c1 > (avg_c1_wybielacz - 4)) and (c1 < (avg_c1_wybielacz + 4)) and (c2 > (avg_c2_wybielacz - 4)) and (
+            c2 < (avg_c2_wybielacz + 4)) and (c3 > (avg_c3_wybielacz - 4)) and (c3 < (avg_c3_wybielacz + 4))):
+        return 'wybielacz', 'delete'
+
+
+
+    avg_c1_peleryna = 61
+    avg_c2_peleryna = 60
+    avg_c3_peleryna = 59
+
+    if((c1 > (avg_c1_peleryna-4)) and (c1< (avg_c1_peleryna+4)) and (c2 > (avg_c2_peleryna-4)) and (c2< (avg_c2_peleryna+4)) and (c3 > (avg_c3_peleryna-4)) and (c3< (avg_c3_peleryna+4))):
+        return 'peleryna', 'delete'
+
+    else:
+        return 'not_cassified', None
 
 def restart_sequence(worm_counter, worm_counter_time):
     print("window center")
@@ -101,15 +245,20 @@ def restart_sequence(worm_counter, worm_counter_time):
     time.sleep(0.25)
     print("worm counter : " + str(worm_counter))
 
-    if ((worm_counter % 200 == 0) & (worm_counter > 1)):
+    if ((worm_counter % 10 == 0) & (worm_counter > 1)):
+        time.sleep(0.25)
+        pydirectinput.click(scale_x(data_struct['open_fish_x']), scale_y(data_struct['open_fish_y']))
+        time.sleep(0.25)
 
-        time.sleep(5)
+    if ((worm_counter % 210 == 0) & (worm_counter > 1)):
+    #if ((worm_counter % 210 == 0)):
+        time.sleep(2)
         pydirectinput.click(scale_x(data_struct['game_menu_x']), scale_y(data_struct['game_menu_y']))
         print('game main menu')
         time.sleep(1)
         pydirectinput.click(scale_x(data_struct['game_menu_relog_x']), scale_y(data_struct['game_menu_relog_y']))
         print("relog")
-        time.sleep(10)
+        time.sleep(30)
         pydirectinput.click(scale_x(data_struct['log_start_x']), scale_y(data_struct['log_start_y']))
         print("log_start")
         time.sleep(30)
@@ -118,51 +267,98 @@ def restart_sequence(worm_counter, worm_counter_time):
         print("open_inventory")
         time.sleep(5)
 
+        while True:
+            c1, c2, c3 = image_colors(1870, 584, 30, 30)
+            print( int(c1), int(c2), int(c3))
+            if(c1 > 85 and c1 <95 and c2 > 68 and c2 < 77 and c3 > 58 and c3 < 68):
+                print("inventory oppened")
+                break
+            if (c1 > 251 and c1 < 261 and c2 > 213 and c2 < 223 and c3 > 129 and c3 < 139):
+                print("not logged in ")
+                pydirectinput.click(scale_x(data_struct['log_start_x']), scale_y(data_struct['log_start_y']))
+                print("log_start")
+                time.sleep(30)
+                # openinventory
+                pydirectinput.click(scale_x(data_struct['open_inventory_x']), scale_y(data_struct['open_inventory_y']))
+                print("open_inventory")
+                time.sleep(5)
+            if (c1 > 630 and c1 < 640 and c2 > 372 and c2 < 382 and c3 > 240 and c3 < 250):
+                print("not logged in 2")
+                pydirectinput.click(scale_x(data_struct['log_ok_x']), scale_y(data_struct['log_ok_y']))
+                print("log_ok")
+                time.sleep(30)
+                pydirectinput.click(scale_x(data_struct['log_start_x']), scale_y(data_struct['log_start_y']))
+                print("log_start")
+                time.sleep(30)
+                # openinventory
+                pydirectinput.click(scale_x(data_struct['open_inventory_x']), scale_y(data_struct['open_inventory_y']))
+                print("open_inventory")
+                time.sleep(5)
+            else:
+                print("inventory not oppened else should never ")
+                pydirectinput.click(scale_x(data_struct['log_ok_x']), scale_y(data_struct['log_ok_y']))
+                print("log_ok")
+                time.sleep(30)
+                pydirectinput.click(scale_x(data_struct['log_start_x']), scale_y(data_struct['log_start_y']))
+                print("log_start")
+                time.sleep(30)
+                # openinventory
+                pydirectinput.click(scale_x(data_struct['open_inventory_x']), scale_y(data_struct['open_inventory_y']))
+                print("open_inventory")
+                time.sleep(5)
 
 
-
-    if((worm_counter % 20 == 0) & (worm_counter > 1)):
-    #if (worm_counter % 20 == 0):
+    if((worm_counter % 50 == 0) & (worm_counter > 1)):
+    #if (worm_counter % 50 == 0):
         x_start_1 = scale_x(data_struct['x_start_1'])
         y_start_1 = scale_y(data_struct['y_start_1'])
-
         x_start_2 = scale_x(data_struct['x_start_1'])
         y_start_2 = scale_y(data_struct['y_start_2'])
-
         jump_pixels = 32
-
-        pydirectinput.click(scale_x(data_struct['open_fish_x']), scale_y(data_struct['open_fish_y']))
         print("OPEN FISH CLICK SECURE")
-        picture_take_counter = 0
         for y in range(5):
             for x in range(5):
                 #print("x " + str(x) + " y " + str(y))
+                pydirectinput.moveTo(x_start_1 + x * jump_pixels + up_x, y_start_1 + y * jump_pixels + up_y)
+                time.sleep(0.5)
+                to_open = save_picture(x_start_1 + x * jump_pixels + up_x - 13,
+                             y_start_1 + y * jump_pixels + up_y - 13, 26, worm_counter, 'var')
+
+                #if(to_open != 'delete'):
                 pydirectinput.doubleClick(x_start_1 + x * jump_pixels + up_x, y_start_1 + y * jump_pixels + up_y)
-                #time.sleep(0.1)
+                #time.sleep(0.5)
                 #save_picture(x_start_1 + x * jump_pixels + up_x - 13,
-                #             y_start_1 + y * jump_pixels + up_y - 13, 26, picture_take_counter)
-                #picture_take_counter = picture_take_counter + 1
+                #             y_start_1 + y * jump_pixels + up_y - 13, 26, worm_counter)
                 print("OPEN FISH IN INVENTORY")
-                time.sleep(0.25)
         #second page
         pydirectinput.click(scale_x(data_struct['second_page_x']), scale_y(data_struct['second_page_y']))
+        pydirectinput.click(scale_x(data_struct['second_page_x']), scale_y(data_struct['second_page_y']))
+        pydirectinput.moveTo(x_start_2, y_start_2)
+        pydirectinput.moveTo(x_start_2, y_start_2)
         print("SECOND PAGE OF INVENTORY")
         time.sleep(0.25)
         for y in range(6):
             for x in range(5):
                 #print("x " + str(x) + " y " + str(y))
-                pydirectinput.doubleClick(x_start_2 + x * jump_pixels + up_x, y_start_2 + y * jump_pixels + up_y)
-                #time.sleep(0.1)
+                pydirectinput.moveTo(x_start_2 + x * jump_pixels + up_x, y_start_2 + y * jump_pixels + up_y)
+                time.sleep(0.5)
+                to_open = save_picture(x_start_2 + x * jump_pixels + up_x - 13,
+                             y_start_2 + y * jump_pixels + up_y - 13, 26, worm_counter)
+                if(to_open != 'delete'):
+                    pydirectinput.doubleClick(x_start_2 + x * jump_pixels + up_x, y_start_2 + y * jump_pixels + up_y)
+                #time.sleep(0.5)
                 #save_picture(x_start_2 + x * jump_pixels + up_x - 13,
-                #             y_start_2 + y * jump_pixels + up_y - 13, 26, picture_take_counter)
-                #picture_take_counter = picture_take_counter + 1
+                #             y_start_2 + y * jump_pixels + up_y - 13, 26, worm_counter)
                 print("OPEN FISH IN INVENTORY")
-                time.sleep(0.25)
-        picture_take_counter = 0
+
         #go back to the first page
+        pydirectinput.click(scale_x(data_struct['first_page_x']), scale_y(data_struct['first_page_y']))
         pydirectinput.click(scale_x(data_struct['first_page_x']), scale_y(data_struct['first_page_y']))
         print("FIRST PAGE OF INVENTORY")
         time.sleep(0.25)
+        pydirectinput.doubleClick(1850,637)
+        time.sleep(0.25)
+        pydirectinput.doubleClick(1850, 637)
 
     if(worm_counter <= 195):
         pydirectinput.press('1')
@@ -209,7 +405,7 @@ def restart_sequence(worm_counter, worm_counter_time):
 
     return worm_counter, worm_counter_time
 
-def save_picture(x_start_detection, y_start_detection, detection_field, picture_take_counter):
+def save_picture(x_start_detection, y_start_detection, detection_field, picture_take_counter, *args):
     f = open("test_pictures\\log.txt", "a")
     image = pyautogui.screenshot(region=(x_start_detection, y_start_detection, detection_field, detection_field))
     frame_ever = cv2.cvtColor(np.array(image), cv2.COLOR_RGB2BGR)
@@ -227,18 +423,31 @@ def save_picture(x_start_detection, y_start_detection, detection_field, picture_
         sum_c2 = sum_c2 + counts[i] * colours[i][1]
         sum_c3 = sum_c3 + counts[i] * colours[i][2]
         i = i + 1
-    sum_c1 = sum_c1 / length
-    sum_c2 = sum_c2 / length
-    sum_c3 = sum_c3 / length
+    sum_c1 = int(sum_c1 / length)
+    sum_c2 = int(sum_c2 / length)
+    sum_c3 = int(sum_c3 / length)
 
+    item_classify_picture_name, to_do_command = item_classify(sum_c1, sum_c2, sum_c3)
 
+    print("classified as : " + str(item_classify_picture_name) + "     with c1 = " +  str(sum_c1) + " and c2 = " +  str(sum_c2)+ " and c3 = " + str(sum_c3))
+    #if deleted due to debug
+    #if((item_classify_picture_name != 'puste') and (to_do_command == 'delete')):
+    cv2.imwrite("test_pictures\\"+str(item_classify_picture_name)+'_'+ str(picture_take_counter) + "_" + str(sum_c1) + "_" + str(sum_c2) + "_" + str(sum_c3) +" .png", frame_ever)
+    f.write(str(picture_take_counter) + "     " + str(item_classify_picture_name)+ " " + str(sum_c1) + " " + str(sum_c2) + " " + str(sum_c3) + '\n')
+    to_open = None
+    if((to_do_command == 'delete') and (len(args) == 0)) :
+        delete_item(x_start_detection, y_start_detection, detection_field)
+        to_open = 'delete'
+    if((item_classify_picture_name == 'puste') or (item_classify_picture_name == 'symbol_krola')):
+        to_open = 'delete'
     #print(c1, c2, c3)
     #print("in_memory_to_disk_" + str(picture_take_counter) + " .png")
     #print(str(picture_take_counter) + "    :" + str(sum_c1) + " " + str(sum_c2) + " " + str(sum_c3) )
-    cv2.imwrite("test_pictures\\in_memory_to_disk_" + str(picture_take_counter)+ " .png", frame_ever)
-    f.write(str(picture_take_counter) + "    :" + str(sum_c1) + " " + str(sum_c2) + " " + str(sum_c3) + '\n')
     time.sleep(0.5)
     f.close()
+    return to_open
+
+
 
 
 
@@ -262,7 +471,7 @@ def image_colors(x_up,y_up, width, height):
     sum_c1 = sum_c1 / length
     sum_c2 = sum_c2 / length
     sum_c3 = sum_c3 / length
-    return sum_c1, sum_c2, sum_c3
+    return int(sum_c1), int(sum_c2), int(sum_c3)
 
 
 frame_ever = cv2.imread(file_name,-1)
@@ -371,12 +580,14 @@ while True:
                 worm_counter, worm_counter_time_after = restart_sequence(worm_counter, worm_counter_time_after)
                 time.sleep(1.5)
                 image_check_counter = 0
-    if ((worm_counter % 200 == 0) & (worm_counter > 1)):
+    if ((worm_counter % 210 == 0) & (worm_counter > 1)):
         fishing_itself_last_recognise = actual_time()
         fishing_itself_last_recognise = actual_time()
 
-    if((fishing_itself_last_recognise - worm_counter_time_after) < -100000):
-        print('TASK KILL')
+
+    if((fishing_itself_last_recognise - worm_counter_time_after) < -300000):
+        clock_time = update_time()
+        print('TASK KILL :' + str(clock_time))
         os.system("taskkill /f /im  metin2client.exe")
         time.sleep(10)
         #gamefroge client
@@ -394,11 +605,11 @@ while True:
         #ok
         pydirectinput.click(scale_x(data_struct['log_ok_x']), scale_y(data_struct['log_ok_y']))
         print("log_ok")
-        time.sleep(30)
+        time.sleep(60)
         #start
         pydirectinput.click(scale_x(data_struct['log_start_x']), scale_y(data_struct['log_start_y']))
         print("log_start")
-        time.sleep(30)
+        time.sleep(60)
         #openinventory
         pydirectinput.click(scale_x(data_struct['open_inventory_x']), scale_y(data_struct['open_inventory_y']))
         print("open_inventory")
@@ -408,8 +619,8 @@ while True:
 
 
 
-    if(image_log_counter > 10000):
-        print("is logedout check")
+    if(image_log_counter > 5000):
+        print("is logeout check")
         c1, c2, c3 = image_colors(scale_x(data_struct['logout_v1']), scale_y(data_struct['logout_v2']), 416, 6)
         if ((c1 < data_struct['login_c1_min']) or (c1 > data_struct['login_c1_max'])) & \
                 ((c2 < data_struct['login_c2_min']) or (c2 > data_struct['login_c2_max'])) & \
@@ -452,7 +663,7 @@ while True:
 
     # For if you want to show the individual video frames
     #    cv2.imshow("frame", frame)
-    #    cv2.imshow("delta", frame_delta)
+    #cv2.imshow("delta", frame_delta)
 
     # Convert the frame_delta to color for splicing
     frame_delta = cv2.cvtColor(frame_delta, cv2.COLOR_GRAY2BGR)
