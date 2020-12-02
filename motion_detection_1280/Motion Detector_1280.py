@@ -235,6 +235,22 @@ def restart_sequence(worm_counter, worm_counter_time):
     time.sleep(0.25)
     print("worm counter : " + str(worm_counter))
 
+    if ((worm_counter % 23 == 0) & (worm_counter > 1)):
+        print("is logeout check")
+        c1, c2, c3 = image_colors(data_struct['logout_v1'], data_struct['logout_v2'], 200, 6)
+        if ((c1 < data_struct['login_c1_min']) or (c1 > data_struct['login_c1_max']) & \
+                ((c2 < data_struct['login_c2_min']) or (c2 > data_struct['login_c2_max']) & \
+                ((c3 < data_struct['login_c3_min']) or (c3 > data_struct['login_c3_max'])))):
+            time.sleep(30)
+            pydirectinput.click(data_struct['log_ok_x'], data_struct['log_ok_y'])
+            time.sleep(30)
+            pydirectinput.click(data_struct['log_start_x'], data_struct['log_start_y'])
+            time.sleep(30)
+            pydirectinput.click(data_struct['open_inventory_x'], data_struct['open_inventory_y'])
+            print("open_inventory")
+            time.sleep(5)
+            print("PASS")
+
     if ((worm_counter % 10 == 0) & (worm_counter > 1)):
         time.sleep(0.25)
         pydirectinput.click(data_struct['open_fish_x'], data_struct['open_fish_y'])
@@ -607,30 +623,6 @@ while True:
         time.sleep(5)
         fishing_itself_last_recognise = actual_time()
         fishing_itself_last_recognise = actual_time()
-
-
-
-    if(image_log_counter > 5000):
-        print("is logeout check")
-        c1, c2, c3 = image_colors(data_struct['logout_v1'], data_struct['logout_v2'], 200, 6)
-        if ((c1 < data_struct['login_c1_min']) or (c1 > data_struct['login_c1_max']) & \
-                ((c2 < data_struct['login_c2_min']) or (c2 > data_struct['login_c2_max']) & \
-                ((c3 < data_struct['login_c3_min']) or (c3 > data_struct['login_c3_max'])))):
-            time.sleep(30)
-            pydirectinput.click(data_struct['log_ok_x'], data_struct['log_ok_y'])
-            time.sleep(30)
-            pydirectinput.click(data_struct['log_start_x'], data_struct['log_start_y'])
-            time.sleep(30)
-            pydirectinput.click(data_struct['open_inventory_x'], data_struct['open_inventory_y'])
-            print("open_inventory")
-            time.sleep(5)
-            print("PASS")
-        image_log_counter = 0
-
-
-
-
-    image_log_counter = image_log_counter + 1
 
 
 
