@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="639a7ef4-d7fa-4b0b-b44f-e3bb73b22d31" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Marsz Imperialny.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/motion_detection/Motion Detector.py" beforeDir="false" afterPath="$PROJECT_DIR$/motion_detection/Motion Detector.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/motion_detection_1280/Motion Detector_1280.py" beforeDir="false" afterPath="$PROJECT_DIR$/motion_detection_1280/Motion Detector_1280.py" afterDir="false" />
-    </list>
+    <list default="true" id="639a7ef4-d7fa-4b0b-b44f-e3bb73b22d31" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,8 +18,8 @@
       <file leaf-file-name="Motion Detector_1280.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/motion_detection_1280/Motion Detector_1280.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="438" column="18" lean-forward="true" selection-start-line="438" selection-start-column="18" selection-end-line="438" selection-end-column="18" />
+            <state relative-caret-position="392">
+              <caret line="439" lean-forward="true" selection-start-line="439" selection-end-line="439" />
             </state>
           </provider>
         </entry>
@@ -403,15 +398,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8627451" visible="true" weight="0.18703899" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.9018233" visible="true" weight="0.18703899" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49947312" weight="0.32960895" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5015806" side_tool="true" visible="true" weight="0.37318435" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49841937" visible="true" weight="0.37318435" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5015806" side_tool="true" visible="true" weight="0.20335196" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.49841937" visible="true" weight="0.20335196" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32960895" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.50052685" side_tool="true" weight="0.25139666" />
-      <window_info id="Structure" order="1" sideWeight="0.13725491" side_tool="true" visible="true" weight="0.18703899" />
+      <window_info id="Structure" order="1" sideWeight="0.09817672" side_tool="true" visible="true" weight="0.18703899" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.1691254" weight="0.18547486" />
       <window_info id="Favorites" order="2" sideWeight="0.10597015" side_tool="true" weight="0.18703899" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.16122234" weight="0.20111732" />
@@ -780,8 +774,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/motion_detection_1280/Motion Detector_1280.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="438" column="18" lean-forward="true" selection-start-line="438" selection-start-column="18" selection-end-line="438" selection-end-column="18" />
+        <state relative-caret-position="392">
+          <caret line="439" lean-forward="true" selection-start-line="439" selection-end-line="439" />
         </state>
       </provider>
     </entry>
