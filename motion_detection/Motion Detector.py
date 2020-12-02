@@ -322,10 +322,10 @@ def restart_sequence(worm_counter, worm_counter_time):
                 pydirectinput.moveTo(x_start_1 + x * jump_pixels + up_x, y_start_1 + y * jump_pixels + up_y)
                 time.sleep(0.5)
                 to_open = save_picture(x_start_1 + x * jump_pixels + up_x - 13,
-                             y_start_1 + y * jump_pixels + up_y - 13, 26, worm_counter, 'var')
+                             y_start_1 + y * jump_pixels + up_y - 13, 26, worm_counter)
 
-                #if(to_open != 'delete'):
-                pydirectinput.doubleClick(x_start_1 + x * jump_pixels + up_x, y_start_1 + y * jump_pixels + up_y)
+                if(to_open != 'delete'):
+                    pydirectinput.doubleClick(x_start_1 + x * jump_pixels + up_x, y_start_1 + y * jump_pixels + up_y)
                 #time.sleep(0.5)
                 #save_picture(x_start_1 + x * jump_pixels + up_x - 13,
                 #             y_start_1 + y * jump_pixels + up_y - 13, 26, worm_counter)
@@ -431,9 +431,9 @@ def save_picture(x_start_detection, y_start_detection, detection_field, picture_
 
     print("classified as : " + str(item_classify_picture_name) + "     with c1 = " +  str(sum_c1) + " and c2 = " +  str(sum_c2)+ " and c3 = " + str(sum_c3))
     #if deleted due to debug
-    #if((item_classify_picture_name != 'puste') and (to_do_command == 'delete')):
-    cv2.imwrite("test_pictures\\"+str(item_classify_picture_name)+'_'+ str(picture_take_counter) + "_" + str(sum_c1) + "_" + str(sum_c2) + "_" + str(sum_c3) +" .png", frame_ever)
-    f.write(str(picture_take_counter) + "     " + str(item_classify_picture_name)+ " " + str(sum_c1) + " " + str(sum_c2) + " " + str(sum_c3) + '\n')
+    if((item_classify_picture_name != 'puste') and (to_do_command == 'delete')):
+        cv2.imwrite("test_pictures\\"+str(item_classify_picture_name)+'_'+ str(picture_take_counter) + "_" + str(sum_c1) + "_" + str(sum_c2) + "_" + str(sum_c3) +" .png", frame_ever)
+        f.write(str(picture_take_counter) + "     " + str(item_classify_picture_name)+ " " + str(sum_c1) + " " + str(sum_c2) + " " + str(sum_c3) + '\n')
     to_open = None
     if((to_do_command == 'delete') and (len(args) == 0)) :
         delete_item(x_start_detection, y_start_detection, detection_field)

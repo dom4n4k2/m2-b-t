@@ -421,7 +421,8 @@ def save_picture(x_start_detection, y_start_detection, detection_field, picture_
 
     print("classified as : " + str(item_classify_picture_name) + "     with c1 = " +  str(sum_c1) + " and c2 = " +  str(sum_c2)+ " and c3 = " + str(sum_c3))
 
-    if((item_classify_picture_name != 'puste') and (to_do_command == 'delete')):
+    #if((item_classify_picture_name != 'puste') and (to_do_command == 'delete')):
+    if ((item_classify_picture_name != 'puste')):
         cv2.imwrite("test_pictures\\"+str(item_classify_picture_name)+'_'+ str(picture_take_counter) + "_" + str(sum_c1) + "_" + str(sum_c2) + "_" + str(sum_c3) +" .png", frame_ever)
         f.write(str(picture_take_counter) + "     " + str(item_classify_picture_name)+ " " + str(sum_c1) + " " + str(sum_c2) + " " + str(sum_c3) + '\n')
     to_open = None
