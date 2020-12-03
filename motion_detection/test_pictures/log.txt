@@ -1,1 +1,12 @@
 0     czarna_farba 105 102 94
+100     peleryna 61 60 59
+150     peleryna 61 60 59
+150     peleryna 61 60 59
+150     zloty_klucz 147 111 51
+50     wybielacz 110 99 72
+150     zloty_klucz 145 111 51
+50     zloty_klucz 145 111 51
+50     srebny_klucz 100 99 103
+150     srebny_klucz 100 99 103
+50     ciemno_czerwona_farba 154 93 74
+50     ciemno_czerwona_farba 154 93 74
