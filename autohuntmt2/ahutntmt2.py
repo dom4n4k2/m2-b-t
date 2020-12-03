@@ -338,7 +338,7 @@ while True:
 
     #press_z()
     #three_time = skill_check(current_time, three_time, three_cooldown, '3')
-    four_time = skill_check(current_time, four_time, four_cooldown, '4')
+    #aaaaaaaafour_time = skill_check(current_time, four_time, four_cooldown, '4')
 
     #sekond window skill
     ##f1_buff_time = skill_check_buff(current_time, f1_buff_time, f1_buff_cooldown, 'f1')

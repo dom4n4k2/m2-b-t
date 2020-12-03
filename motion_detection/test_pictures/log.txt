@@ -1,0 +1,1 @@
+0     czarna_farba 105 102 94
