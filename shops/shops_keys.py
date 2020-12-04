@@ -49,7 +49,7 @@ for y in range(8):
         time.sleep(sleep_time)
         pydirectinput.click()
         time.sleep(sleep_time)
-        pydirectinput.press(['1','2','5','0','0','0','0'])
+        pydirectinput.press(['1','4','5','0','0','0','0'])
         time.sleep(sleep_time)
         pydirectinput.click(927,585)
 
